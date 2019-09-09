@@ -1,1 +1,0 @@
-# qmc-hamm.github.io
