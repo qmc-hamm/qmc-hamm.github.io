@@ -28,7 +28,11 @@ subtitle = ""
   [[content.filter_button]]
     name = "Hydrogen"
     tag = "Hydrogen"
-  
+
+[[content.filter_button]]
+    name = "Density Matrix Downfolding"
+    tag = "DMD"
+
   [[content.filter_button]]
     name = "Other"
     tag = "Other"
