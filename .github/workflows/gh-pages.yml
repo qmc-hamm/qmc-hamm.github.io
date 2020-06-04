@@ -2,7 +2,7 @@ name: GitHub Pages
 on:
   push:
     branches:
-      - master
+      - source
 jobs:
   deploy:
     runs-on: ubuntu-18.04
@@ -22,7 +22,6 @@ jobs:
         uses: peaceiris/actions-gh-pages@v3
         with:
           deploy_key: ${{ secrets.ACTIONS_DEPLOY_KEY }}
-          external_repository: qmc-hamm/qmc-hamm.github.io
           publish_branch: master
           publish_dir: ./public
           user_name: 'github-actions[bot]'
