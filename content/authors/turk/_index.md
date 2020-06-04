@@ -67,4 +67,3 @@ user_groups:
 - Principal Investigators
 ---
 
-Harley Johnson is ..
