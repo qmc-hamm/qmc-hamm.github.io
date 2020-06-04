@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Andriy Nevidomskyy
+title: Andriy Nevidomskyy
 
 # Username (this should match the folder name)
 authors:
