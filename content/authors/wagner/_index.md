@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Lucas K. Wagner
+title: Lucas K. Wagner
 
 # Username (this should match the folder name)
 authors:

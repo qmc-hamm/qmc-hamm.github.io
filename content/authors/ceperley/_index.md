@@ -1,6 +1,6 @@
 ---
 # Display name
-name: David M. Ceperley
+title: David M. Ceperley
 
 # Username (this should match the folder name)
 authors:
