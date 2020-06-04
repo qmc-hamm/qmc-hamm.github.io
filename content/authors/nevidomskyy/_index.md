@@ -15,7 +15,7 @@ role: Professor of Physics
 # Organizations/Affiliations
 organizations:
 - name: Rice University
-  url: ""
+  url: "https://physics.rice.edu/people/andriy-nevidomskyy"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include...
@@ -23,17 +23,14 @@ bio: My research interests include...
 interests:
 - Correlated lattice models
 
-#education:
-#  courses:
-#  - course: PhD in Artificial Intelligence
-#    institution: Stanford University
-#    year: 2012
-#  - course: MEng in Artificial Intelligence
-#    institution: Massachusetts Institute of Technology
-#    year: 2009
-#  - course: BSc in Artificial Intelligence
-#    institution: Massachusetts Institute of Technology
-#    year: 2008
+education:
+  courses:
+  - course: PhD in Theoretical Physics
+    institution: University of Cambridge, UK
+    year: 2005
+  - course: M.S. Physics
+    institution: Ivan Franko State University, Lviv, Ukraine
+    year: 2001
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -67,4 +64,17 @@ user_groups:
 - Principal Investigators
 ---
 
-Harley Johnson is ..
+Dr. Andriy Nevidomskyy is an expert in theoretical condensed matter physics,
+working in the field of strong electron correlations in quantum materials. The
+collective behaviour of electrons in such materials often results in the
+emergence of new exotic quantum phases, such as the unconventional
+superconducti­vity. Nevidomskyy is working on the heavy fermion materials and a
+new class of iron-based supercon­duc­tors, and is particularly interested in
+the novel quantum phases emerging in frustrated magnets. Originally from
+Ukraine, he received his PhD in physics from Cambridge University in the UK,
+before moving to Université de Sherbrooke in Canada as a postdoctoral fellow to
+work on high-temperature cuprate superconductors. Prior to joining Rice in
+2010, he was a postdoctoral researcher in the Center for Materials Theory at
+Rutgers University, conducting research into heavy fermion materials. He is the
+recipient of the NSF CAREER Award and the Cottrell Scholar Award from Research
+Corporation for Science Advancement.
