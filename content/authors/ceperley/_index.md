@@ -68,4 +68,3 @@ user_groups:
 - Principal Investigators
 ---
 
-Lucas Wagner is a 
