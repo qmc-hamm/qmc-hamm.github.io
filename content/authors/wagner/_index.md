@@ -20,6 +20,16 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
+education:
+  courses:
+  - course: PhD in  Physics
+    institution: North Carolina State University, Raleigh, NC
+    year: 2006
+  - course: B.S. Physics and Applied Mathematics
+    institution: North Carolina State University, Raleigh, NC
+    year: 2002
+
+
 interests:
 - Quantum Monte Carlo
 - Multiscale quantum models
