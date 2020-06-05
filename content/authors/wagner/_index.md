@@ -78,3 +78,4 @@ user_groups:
 - Principal Investigators
 ---
 
+I am interested in using high performance computation to simulate complex systems, and draw physical insights from those simulations. One major example of this is using quantum Monte Carlo calculations to accurately describe the wave functions of realistic models of electrons and nuclei, including the correlations that electrons have with one another. I am particularly interested in drawing conceptual information about how the electrons move in a correlated way. This research area can connect directly to experiments, since the calculations are realistic, and also connect to more coarse-grained theory, by solving for the effective physics of electronic systems.
