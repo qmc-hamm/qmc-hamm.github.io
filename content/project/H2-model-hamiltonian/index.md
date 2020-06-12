@@ -20,4 +20,5 @@ url_video: ""
 
 ---
 
-* Link to girder.hub.yt page.
+This dataset is available at [girder.hub.yt](https://girder.hub.yt/#user/5d0d3d1468085e0001d96787/folder/5ee0191c68085e0001d24edd).
+
