@@ -1,13 +1,15 @@
 ---
-title: "A light weight regularization for wave function parameter gradients in quantum Monte Carlo"
+title: "Excited States in Variational Monte Carlo Using a Penalty Method"
 authors:
 - Shivesh Pathak
+- Brian Busemeyer
+- Joao Rodrigues
 - wagner
 date: "2015-09-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2020-01-01T00:00:00Z"
+publishDate: "2021-01-15T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -30,8 +32,8 @@ featured: false
 
 # links:
 # - name: ""
-#   url: ""
-url_pdf:  https://doi.org/10.1063/5.0004008
+#   url: ""https://doi.org/10.1063/5.0030949
+url_pdf: https://doi.org/10.1063/5.0030949
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -62,9 +64,4 @@ projects: []
 # slides: example
 ---
 
-The parameter derivative of the expectation value of the energy, $\partial E/\partial p$, is a key ingredient in variational quantum Monte Carlo (VMC) wave function optimization methods.
-In some cases, a naive estimate of this derivative suffers from an infinite variance which inhibits the efficiency of optimization methods that rely on a stable estimate of the derivative.
-In this work, we derive a simple regularization of the naive estimator which is trivial to implement in existing VMC codes, has finite variance, and a negligible bias which can be extrapolated to zero bias with no extra cost.
-We use this estimator to construct an unbiased, finite variance estimation of $\partial E/\partial p$ for a multi-Slater-Jastrow trial wave function on the LiH molecule and in the optimization of a multi-Slater-Jastrow trial wave function on the CuO molecule.
-This regularized estimator is a simple and efficient estimator of $\partial E/\partial p$ for VMC optimization techniques.
-
+In this article, the authors present a technique using variational Monte Carlo to solve for excited states of electronic systems. This technique is based on enforcing orthogonality to lower energy states, which results in a simple variational principle for the excited states. Energy optimization is then used to solve for the excited states. This technique is applied to the well-characterized benzene molecule, in which ∼10,000 parameters are optimized for the first 12 excited states. Agreement within ∼0.2 eV is obtained with higher scaling coupled cluster methods; small disagreements with experiment are likely due to vibrational effects.
