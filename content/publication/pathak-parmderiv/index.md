@@ -3,7 +3,7 @@ title: "A light weight regularization for wave function parameter gradients in q
 authors:
 - Shivesh Pathak
 - wagner
-date: "2015-09-01T00:00:00Z"
+date: "2020-01-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).

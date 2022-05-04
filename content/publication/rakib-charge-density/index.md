@@ -2,10 +2,10 @@
 title: "An efficient computational framework for charge density estimation in twisted bilayer graphene"
 authors:
 - Tawfiqur Rakib
-- pochet
 - ertekin
+- Pascal Pochet
 - johnson
-date: "2018-09-01T00:00:00Z"
+date: "2021-10-01T00:00:00Z"
 doi: "10.1016/j.commatsci.2021.110746"
 # Schedule page publish date (NOT publication's date).
 publishDate: "2021-10-01T00:00:00Z"
