@@ -1,451 +1,45 @@
-<!doctype html><html lang=en-us>
-<head>
-<meta charset=utf-8>
-<meta name=viewport content="width=device-width,initial-scale=1">
-<meta http-equiv=x-ua-compatible content="IE=edge">
-<meta name=generator content="Source Themes Academic 4.8.0">
-<meta name=description content>
-<link rel=alternate hreflang=en-us href=/>
-<meta name=theme-color content="#2962ff">
-<script src=/js/mathjax-config.js></script>
-<link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css integrity="sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw=" crossorigin=anonymous>
-<link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.0-1/css/all.min.css integrity="sha256-4w9DunooKSr3MFXHXWyFER38WmPdm361bQS/2KUWZbU=" crossorigin=anonymous>
-<link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css integrity="sha256-Vzbj7sDDS/woiFS3uNKo8eIuni59rjyNGtXfstRzStA=" crossorigin=anonymous>
-<link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.18.1/styles/github.min.css crossorigin=anonymous title=hl-light>
-<link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.18.1/styles/dracula.min.css crossorigin=anonymous title=hl-dark disabled>
-<link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.5.1/leaflet.css integrity="sha256-SHMGCYmST46SoyGgo4YR/9AlK1vf3ff84Aq9yK4hdqM=" crossorigin=anonymous>
-<script src=https://cdnjs.cloudflare.com/ajax/libs/lazysizes/5.1.2/lazysizes.min.js integrity="sha256-Md1qLToewPeKjfAHU1zyPwOutccPAm5tahnaw7Osw0A=" crossorigin=anonymous async></script>
+<!doctype html><html lang=en-us><head><meta charset=utf-8><meta name=viewport content="width=device-width,initial-scale=1"><meta http-equiv=x-ua-compatible content="IE=edge"><meta name=generator content="Source Themes Academic 4.8.0"><meta name=description content><link rel=alternate hreflang=en-us href=/><meta name=theme-color content="#2962ff"><script src=/js/mathjax-config.js></script>
+<link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css integrity="sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw=" crossorigin=anonymous><link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.0-1/css/all.min.css integrity="sha256-4w9DunooKSr3MFXHXWyFER38WmPdm361bQS/2KUWZbU=" crossorigin=anonymous><link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css integrity="sha256-Vzbj7sDDS/woiFS3uNKo8eIuni59rjyNGtXfstRzStA=" crossorigin=anonymous><link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.18.1/styles/github.min.css crossorigin=anonymous title=hl-light><link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.18.1/styles/dracula.min.css crossorigin=anonymous title=hl-dark disabled><link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.5.1/leaflet.css integrity="sha256-SHMGCYmST46SoyGgo4YR/9AlK1vf3ff84Aq9yK4hdqM=" crossorigin=anonymous><script src=https://cdnjs.cloudflare.com/ajax/libs/lazysizes/5.1.2/lazysizes.min.js integrity="sha256-Md1qLToewPeKjfAHU1zyPwOutccPAm5tahnaw7Osw0A=" crossorigin=anonymous async></script>
 <script src=https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js integrity crossorigin=anonymous async></script>
-<link rel=stylesheet href="https://fonts.googleapis.com/css?family=Montserrat:400,700%7CRoboto:400,400italic,700%7CRoboto+Mono&display=swap">
-<link rel=stylesheet href=/css/academic.css>
-<script src=https://identity.netlify.com/v1/netlify-identity-widget.js></script>
-<link rel=alternate href=/index.xml type=application/rss+xml title=QMC-HAMM>
-<link rel=manifest href=/index.webmanifest>
-<link rel=icon type=image/png href=/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_32x32_fill_lanczos_center_3.png>
-<link rel=apple-touch-icon type=image/png href=/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_192x192_fill_lanczos_center_3.png>
-<link rel=canonical href=/>
-<meta property="twitter:card" content="summary">
-<meta property="og:site_name" content="QMC-HAMM">
-<meta property="og:url" content="/">
-<meta property="og:title" content="QMC-HAMM">
-<meta property="og:description" content><meta property="og:image" content="/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png">
-<meta property="twitter:image" content="/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png"><meta property="og:locale" content="en-us">
-<meta property="og:updated_time" content="2020-06-03T00:00:00+00:00">
-<script type=application/ld+json>{"@context":"https://schema.org","@type":"WebSite","potentialAction":{"@type":"SearchAction","target":"/?q={search_term_string}","query-input":"required name=search_term_string"},"url":"/"}</script>
-<script type=application/ld+json>{"@context":"https://schema.org","@type":"Project","@id":"/","name":"QMC-HAMM","logo":"/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_192x192_fill_lanczos_center_3.png","address":{"@type":"PostalAddress","streetAddress":"450 Serra Mall","addressLocality":"Stanford","addressRegion":"CA","postalCode":"94305","addressCountry":"US"},"telephone":"888 888 88 88","url":"/"}</script>
-<title>QMC-HAMM</title>
-</head>
-<body id=top data-spy=scroll data-offset=70 data-target=#navbar-main>
-<aside class=search-results id=search>
-<div class=container>
-<section class=search-header>
-<div class="row no-gutters justify-content-between mb-3">
-<div class=col-6>
-<h1>Search</h1>
-</div>
-<div class="col-6 col-search-close">
-<a class=js-search href=#><i class="fas fa-times-circle text-muted" aria-hidden=true></i></a>
-</div>
-</div>
-<div id=search-box>
-<input name=q id=search-query placeholder=Search... autocapitalize=off autocomplete=off autocorrect=off spellcheck=false type=search>
-</div>
-</section>
-<section class=section-search-results>
-<div id=search-hits>
-</div>
-</section>
-</div>
-</aside>
-<nav class="navbar navbar-expand-lg navbar-light compensate-for-scrollbar" id=navbar-main>
-<div class=container>
-<div class="d-none d-lg-inline-flex">
-<a class=navbar-brand href=/>QMC-HAMM</a>
-</div>
-<button type=button class=navbar-toggler data-toggle=collapse data-target=#navbar-content aria-controls=navbar aria-expanded=false aria-label="Toggle navigation">
-<span><i class="fas fa-bars"></i></span>
-</button>
-<div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
-<a class=navbar-brand href=/>QMC-HAMM</a>
-</div>
-<div class="navbar-collapse main-menu-item collapse justify-content-start" id=navbar-content>
-<ul class="navbar-nav d-md-inline-flex">
-<li class=nav-item>
-<a class=nav-link href=/#projects data-target=#projects><span>Data</span></a>
-</li>
-<li class=nav-item>
-<a class=nav-link href=/#people data-target=#people><span>People</span></a>
-</li>
-<li class=nav-item>
-<a class=nav-link href=/posters/><span>Posters</span></a>
-</li>
-<li class=nav-item>
-<a class=nav-link href=/publication/><span>Publications</span></a>
-</li>
-</ul>
-</div>
-<ul class="nav-icons navbar-nav flex-row ml-auto d-flex pl-md-2">
-<li class=nav-item>
-<a class="nav-link js-search" href=# aria-label=Search><i class="fas fa-search" aria-hidden=true></i></a>
-</li>
-<li class="nav-item dropdown theme-dropdown">
-<a href=# class="nav-link js-theme-selector" data-toggle=dropdown aria-haspopup=true>
-<i class="fas fa-palette" aria-hidden=true></i>
-</a>
-<div class=dropdown-menu>
-<a href=# class="dropdown-item js-set-theme-light">
-<span>Light</span>
-</a>
-<a href=# class="dropdown-item js-set-theme-dark">
-<span>Dark</span>
-</a>
-<a href=# class="dropdown-item js-set-theme-auto">
-<span>Automatic</span>
-</a>
-</div>
-</li>
-</ul>
-</div>
-</nav>
-<span class="js-widget-page d-none"></span>
-<section id=hero class="home-section wg-hero dark" style=background-color:#555>
-<div class=container>
-<div class=row>
-<div class="col-md-6 order-md-1 text-center text-md-left">
-<h1 class=hero-title>
-QMC-HAMM
-</h1>
-<div class=hero-lead><p><strong>High accuracy multiscale models from quantum Monte Carlo</strong></p>
-<p>The QMC-HAMM project is based on quantum Monte Carlo (QMC) techniques to accurately compute the properties of materials very accurately.
-Multiscale models are then derived based on these accurate calculations.</p>
-</div>
-</div>
-<div class="col-6 mx-auto col-md-6 order-md-2 hero-media">
-<img src=/img/logo.png alt>
-</div>
-</div>
-</div>
-</section>
-<section id=mission class="home-section wg-blank">
-<div class=container>
-<div class=row>
-<div class="col-12 col-lg-4 section-heading">
-<h1>Mission</h1>
-</div>
-<div class="col-12 col-lg-8">
-<figure id=figure-mesoscale-ripples-in-bilayer-graphene-caused-by-microscopic-interactions-between-the-sheets>
-<a data-fancybox href=/img/graphene_ripple.png data-caption="Mesoscale ripples in bilayer graphene caused by microscopic interactions between the sheets">
-<img src=/img/graphene_ripple.png alt>
-</a>
-<figcaption>
-Mesoscale ripples in bilayer graphene caused by microscopic interactions between the sheets
-</figcaption>
-</figure>
-<p>A major theme of condensed matter and materials physics is the relationship between the microscopic behavior of electrons and nuclei to the emergent low-energy mesoscopic behavior of materials.
+<link rel=stylesheet href="https://fonts.googleapis.com/css?family=Montserrat:400,700%7CRoboto:400,400italic,700%7CRoboto+Mono&display=swap"><link rel=stylesheet href=/css/academic.css><script src=https://identity.netlify.com/v1/netlify-identity-widget.js></script>
+<link rel=alternate href=/index.xml type=application/rss+xml title=QMC-HAMM><link rel=manifest href=/index.webmanifest><link rel=icon type=image/png href=/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_32x32_fill_lanczos_center_3.png><link rel=apple-touch-icon type=image/png href=/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_192x192_fill_lanczos_center_3.png><link rel=canonical href=/><meta property="twitter:card" content="summary"><meta property="og:site_name" content="QMC-HAMM"><meta property="og:url" content="/"><meta property="og:title" content="QMC-HAMM"><meta property="og:description" content><meta property="og:image" content="/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png"><meta property="twitter:image" content="/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png"><meta property="og:locale" content="en-us"><meta property="og:updated_time" content="2020-06-03T00:00:00+00:00"><script type=application/ld+json>{"@context":"https://schema.org","@type":"WebSite","potentialAction":{"@type":"SearchAction","target":"/?q={search_term_string}","query-input":"required name=search_term_string"},"url":"/"}</script><script type=application/ld+json>{"@context":"https://schema.org","@type":"Project","@id":"/","name":"QMC-HAMM","logo":"/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_192x192_fill_lanczos_center_3.png","address":{"@type":"PostalAddress","streetAddress":"450 Serra Mall","addressLocality":"Stanford","addressRegion":"CA","postalCode":"94305","addressCountry":"US"},"telephone":"888 888 88 88","url":"/"}</script><title>QMC-HAMM</title></head><body id=top data-spy=scroll data-offset=70 data-target=#navbar-main><aside class=search-results id=search><div class=container><section class=search-header><div class="row no-gutters justify-content-between mb-3"><div class=col-6><h1>Search</h1></div><div class="col-6 col-search-close"><a class=js-search href=#><i class="fas fa-times-circle text-muted" aria-hidden=true></i></a></div></div><div id=search-box><input name=q id=search-query placeholder=Search... autocapitalize=off autocomplete=off autocorrect=off spellcheck=false type=search></div></section><section class=section-search-results><div id=search-hits></div></section></div></aside><nav class="navbar navbar-expand-lg navbar-light compensate-for-scrollbar" id=navbar-main><div class=container><div class="d-none d-lg-inline-flex"><a class=navbar-brand href=/>QMC-HAMM</a></div><button type=button class=navbar-toggler data-toggle=collapse data-target=#navbar-content aria-controls=navbar aria-expanded=false aria-label="Toggle navigation">
+<span><i class="fas fa-bars"></i></span></button><div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none"><a class=navbar-brand href=/>QMC-HAMM</a></div><div class="navbar-collapse main-menu-item collapse justify-content-start" id=navbar-content><ul class="navbar-nav d-md-inline-flex"><li class=nav-item><a class=nav-link href=/#projects data-target=#projects><span>Data</span></a></li><li class=nav-item><a class=nav-link href=/#people data-target=#people><span>People</span></a></li><li class=nav-item><a class=nav-link href=/posters/><span>Posters</span></a></li><li class=nav-item><a class=nav-link href=/publication/><span>Publications</span></a></li></ul></div><ul class="nav-icons navbar-nav flex-row ml-auto d-flex pl-md-2"><li class=nav-item><a class="nav-link js-search" href=# aria-label=Search><i class="fas fa-search" aria-hidden=true></i></a></li><li class="nav-item dropdown theme-dropdown"><a href=# class="nav-link js-theme-selector" data-toggle=dropdown aria-haspopup=true><i class="fas fa-palette" aria-hidden=true></i></a><div class=dropdown-menu><a href=# class="dropdown-item js-set-theme-light"><span>Light</span></a>
+<a href=# class="dropdown-item js-set-theme-dark"><span>Dark</span></a>
+<a href=# class="dropdown-item js-set-theme-auto"><span>Automatic</span></a></div></li></ul></div></nav><span class="js-widget-page d-none"></span><section id=hero class="home-section wg-hero dark" style=background-color:#555><div class=container><div class=row><div class="col-md-6 order-md-1 text-center text-md-left"><h1 class=hero-title>QMC-HAMM</h1><div class=hero-lead><p><strong>High accuracy multiscale models from quantum Monte Carlo</strong></p><p>The QMC-HAMM project is based on quantum Monte Carlo (QMC) techniques to accurately compute the properties of materials very accurately.
+Multiscale models are then derived based on these accurate calculations.</p></div></div><div class="col-6 mx-auto col-md-6 order-md-2 hero-media"><img src=/img/logo.png alt></div></div></div></section><section id=mission class="home-section wg-blank"><div class=container><div class=row><div class="col-12 col-lg-4 section-heading"><h1>Mission</h1></div><div class="col-12 col-lg-8"><figure id=figure-mesoscale-ripples-in-bilayer-graphene-caused-by-microscopic-interactions-between-the-sheets><a data-fancybox href=/img/graphene_ripple.png data-caption="Mesoscale ripples in bilayer graphene caused by microscopic interactions between the sheets"><img src=/img/graphene_ripple.png alt></a><figcaption>Mesoscale ripples in bilayer graphene caused by microscopic interactions between the sheets</figcaption></figure><p>A major theme of condensed matter and materials physics is the relationship between the microscopic behavior of electrons and nuclei to the emergent low-energy mesoscopic behavior of materials.
 Elucidating this relationship is a challenge, since the microscopic model requires advanced solution methods for many-body quantum mechanics, and the mesoscopic picture can be rather complicated.
-In complex materials, standard concepts at the mesoscopic level such as phonons, spins, and electron-like excitations can interact in complex ways which are difficult to access experimentally.</p>
-<p>The state of the art in creating mesoscopic models starting from microscopic behavior is based on density functional theory (DFT) calculations.
+In complex materials, standard concepts at the mesoscopic level such as phonons, spins, and electron-like excitations can interact in complex ways which are difficult to access experimentally.</p><p>The state of the art in creating mesoscopic models starting from microscopic behavior is based on density functional theory (DFT) calculations.
 In recent years, modern machine learning techniques have been able to reproduce potential energy surfaces from standard DFT functionals to a very high accuracy; the accuracy potential energy surfaces can be limited by the underlying data.
 In quantum materials such as twisted bilayer graphene,(pictured above) interactions between electronic excitations can be critical to their behavior.
 To resolve the above issues, it is necessary to move beyond density functional theory and to base mesoscopic models on more accurate microscopic calculations.
-In this project, we will use quantum Monte Carlo calculations as a base for high-impact projects which can benefit from the extra accuracy.</p>
-</div>
-</div>
-</div>
-</section>
-<section id=vision class="home-section wg-blank">
-<div class=container>
-<div class=row>
-<div class="col-12 col-lg-4 section-heading">
-<h1>Vision</h1>
-</div>
-<div class="col-12 col-lg-8">
-<p>At each length scale of interest, advanced tools exist.
+In this project, we will use quantum Monte Carlo calculations as a base for high-impact projects which can benefit from the extra accuracy.</p></div></div></div></section><section id=vision class="home-section wg-blank"><div class=container><div class=row><div class="col-12 col-lg-4 section-heading"><h1>Vision</h1></div><div class="col-12 col-lg-8"><p>At each length scale of interest, advanced tools exist.
 Our collaboration contains experts at each of these length scales.
 Our goal is to systematically link the microscopic to the mesoscopic by using well-defined data interfaces.
 The highly accurate, sub-atomic scale quantum Monte Carlo calculations produce data, which is then used to understand the physics at the atomic scale, and so on.
-Reproducibility and documentation are achieved by using modern scientific computing methods.</p>
-</div>
-</div>
-</div>
-</section>
-<section id=publications class="home-section wg-pages">
-<div class=container>
-<div class=row>
-<div class="col-12 col-lg-4 section-heading">
-<h1>Recent Publications</h1>
-</div>
-<div class="col-12 col-lg-8">
-<div class="alert alert-note">
-<div>
-Quickly discover relevant content by <a href=/publication/>filtering publications</a>.
-</div>
-</div>
-<div class="media stream-item">
-<div class=media-body>
-<h3 class="article-title mb-0 mt-0">
-<a href=/publication/rakib-charge-density/>An efficient computational framework for charge density estimation in twisted bilayer graphene</a>
-</h3>
-<div class=article-style>
-Electronic properties such as band structure and Fermi velocity in low-angle twisted bilayer graphene (TBG) are intrinsically dependent on the atomic structure. Rigid rotation between individual graphene layers provides an approximate description of the bilayer symmetry.
-</div>
-<div class="stream-meta article-metadata">
-<div>
-<span>Tawfiqur Rakib</span>, <span><a href=/author/pochet/>pochet</a></span>, <span><a href=/author/elif-ertekin/>Elif Ertekin</a></span>, <span><a href=/author/harley-johnson/>Harley Johnson</a></span>
-</div>
-</div>
-<div class=btn-links>
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href=https://www.sciencedirect.com/science/article/abs/pii/S0927025621004730 target=_blank rel=noopener>
-PDF
-</a>
+Reproducibility and documentation are achieved by using modern scientific computing methods.</p></div></div></div></section><section id=publications class="home-section wg-pages"><div class=container><div class=row><div class="col-12 col-lg-4 section-heading"><h1>Recent Publications</h1></div><div class="col-12 col-lg-8"><div class="alert alert-note"><div>Quickly discover relevant content by
+<a href=/publication/>filtering publications</a>.</div></div><div class="media stream-item"><div class=media-body><h3 class="article-title mb-0 mt-0"><a href=/publication/rakib-charge-density/>An efficient computational framework for charge density estimation in twisted bilayer graphene</a></h3><div class=article-style>Electronic properties such as band structure and Fermi velocity in low-angle twisted bilayer graphene (TBG) are intrinsically dependent on the atomic structure. Rigid rotation between individual graphene layers provides an approximate description of the bilayer symmetry.</div><div class="stream-meta article-metadata"><div><span>Tawfiqur Rakib</span>, <span><a href=/author/pochet/>pochet</a></span>, <span><a href=/author/elif-ertekin/>Elif Ertekin</a></span>, <span><a href=/author/harley-johnson/>Harley Johnson</a></span></div></div><div class=btn-links><a class="btn btn-outline-primary my-1 mr-1 btn-sm" href=https://www.sciencedirect.com/science/article/abs/pii/S0927025621004730 target=_blank rel=noopener>PDF</a>
 <button type=button class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal" data-filename=/publication/rakib-charge-density/cite.bib>
-Cite
-</button>
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href=https://doi.org/10.1016/j.commatsci.2021.110746 target=_blank rel=noopener>
-DOI
-</a>
-</div>
-</div>
-<div class=ml-3>
-<a href=/publication/rakib-charge-density/>
-<img src=/publication/rakib-charge-density/featured_hue53f7451659b162bc3f4f90e716a78a1_3020942_150x0_resize_lanczos_3.png alt="An efficient computational framework for charge density estimation in twisted bilayer graphene">
-</a>
-</div>
-</div>
-<div class="media stream-item">
-<div class=media-body>
-<h3 class="article-title mb-0 mt-0">
-<a href=/publication/pathak-parmderiv/>A light weight regularization for wave function parameter gradients in quantum Monte Carlo</a>
-</h3>
-<div class=article-style>
-The parameter derivative of the expectation value of the energy, $\partial E/\partial p$, is a key ingredient in variational quantum Monte Carlo (VMC) wave function optimization methods. In some cases, a naive estimate of this derivative suffers from an infinite variance which inhibits the efficiency of optimization methods that rely on a stable estimate of the derivative.
-</div>
-<div class="stream-meta article-metadata">
-<div>
-<span>Shivesh Pathak</span>, <span><a href=/author/lucas-k.-wagner/>Lucas K. Wagner</a></span>
-</div>
-</div>
-<div class=btn-links>
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href=https://doi.org/10.1063/5.0004008 target=_blank rel=noopener>
-PDF
-</a>
+Cite</button>
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href=https://doi.org/10.1016/j.commatsci.2021.110746 target=_blank rel=noopener>DOI</a></div></div><div class=ml-3><a href=/publication/rakib-charge-density/><img src=/publication/rakib-charge-density/featured_hue53f7451659b162bc3f4f90e716a78a1_3020942_150x0_resize_lanczos_3.png alt="An efficient computational framework for charge density estimation in twisted bilayer graphene"></a></div></div><div class="media stream-item"><div class=media-body><h3 class="article-title mb-0 mt-0"><a href=/publication/pathak-parmderiv/>A light weight regularization for wave function parameter gradients in quantum Monte Carlo</a></h3><div class=article-style>The parameter derivative of the expectation value of the energy, $\partial E/\partial p$, is a key ingredient in variational quantum Monte Carlo (VMC) wave function optimization methods. In some cases, a naive estimate of this derivative suffers from an infinite variance which inhibits the efficiency of optimization methods that rely on a stable estimate of the derivative.</div><div class="stream-meta article-metadata"><div><span>Shivesh Pathak</span>, <span><a href=/author/lucas-k.-wagner/>Lucas K. Wagner</a></span></div></div><div class=btn-links><a class="btn btn-outline-primary my-1 mr-1 btn-sm" href=https://doi.org/10.1063/5.0004008 target=_blank rel=noopener>PDF</a>
 <button type=button class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal" data-filename=/publication/pathak-parmderiv/cite.bib>
-Cite
-</button>
-</div>
-</div>
-<div class=ml-3>
-<a href=/publication/pathak-parmderiv/>
-<img src=/publication/pathak-parmderiv/featured_hu96b50b2d3bede2d9485e6953c22a462f_629943_150x0_resize_lanczos_3.png alt="A light weight regularization for wave function parameter gradients in quantum Monte Carlo">
-</a>
-</div>
-</div>
-<div class="media stream-item">
-<div class=media-body>
-<h3 class="article-title mb-0 mt-0">
-<a href=/publication/pathak-excited_states/>Excited States in Variational Monte Carlo Using a Penalty Method</a>
-</h3>
-<div class=article-style>
-In this article, the authors present a technique using variational Monte Carlo to solve for excited states of electronic systems. This technique is based on enforcing orthogonality to lower energy states, which results in a simple variational principle for the excited states.
-</div>
-<div class="stream-meta article-metadata">
-<div>
-<span>Shivesh Pathak</span>, <span>Brian Busemeyer</span>, <span>Joao Rodrigues</span>, <span><a href=/author/lucas-k.-wagner/>Lucas K. Wagner</a></span>
-</div>
-</div>
-<div class=btn-links>
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href=https://doi.org/10.1063/5.0030949 target=_blank rel=noopener>
-PDF
-</a>
+Cite</button></div></div><div class=ml-3><a href=/publication/pathak-parmderiv/><img src=/publication/pathak-parmderiv/featured_hu96b50b2d3bede2d9485e6953c22a462f_629943_150x0_resize_lanczos_3.png alt="A light weight regularization for wave function parameter gradients in quantum Monte Carlo"></a></div></div><div class="media stream-item"><div class=media-body><h3 class="article-title mb-0 mt-0"><a href=/publication/pathak-tbmodel/>Accurate tight-binding model for twisted bilayer graphene describes topological flat bands without geometric relaxation</a></h3><div class=article-style>A major hurdle in understanding the phase diagram of twisted bilayer graphene is the roles of lattice relaxation and electronic structure on isolated band flattening near magic twist angles. In this work, the authors develop an accurate local environment tight-binding model fit to tight-binding parameters computed from ab initio density-functional theory calculations across many atomic configurations.</div><div class="stream-meta article-metadata"><div><span>Shivesh Pathak</span>, <span>Tawfiqur Rakib</span>, <span>Run Hou</span>, <span>Andriy Nevidomskyy</span>, <span><a href=/author/elif-ertekin/>Elif Ertekin</a></span>, <span><a href=/author/harley-johnson/>Harley Johnson</a></span>, <span><a href=/author/lucas-k.-wagner/>Lucas K. Wagner</a></span></div></div><div class=btn-links><a class="btn btn-outline-primary my-1 mr-1 btn-sm" href=https://link.aps.org/doi/10.1103/PhysRevB.105.115141 target=_blank rel=noopener>PDF</a>
+<button type=button class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal" data-filename=/publication/pathak-tbmodel/cite.bib>
+Cite</button>
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href=https://doi.org/10.1103/PhysRevB.105.115141 target=_blank rel=noopener>DOI</a></div></div><div class=ml-3><a href=/publication/pathak-tbmodel/><img src=/publication/pathak-tbmodel/featured_hu597e9188eb8b3f22d08c935bca70aff9_46212_150x0_resize_lanczos_3.png alt="Accurate tight-binding model for twisted bilayer graphene describes topological flat bands without geometric relaxation"></a></div></div><div class="media stream-item"><div class=media-body><h3 class="article-title mb-0 mt-0"><a href=/publication/pathak-excited_states/>Excited States in Variational Monte Carlo Using a Penalty Method</a></h3><div class=article-style>In this article, the authors present a technique using variational Monte Carlo to solve for excited states of electronic systems. This technique is based on enforcing orthogonality to lower energy states, which results in a simple variational principle for the excited states.</div><div class="stream-meta article-metadata"><div><span>Shivesh Pathak</span>, <span>Brian Busemeyer</span>, <span>Joao Rodrigues</span>, <span><a href=/author/lucas-k.-wagner/>Lucas K. Wagner</a></span></div></div><div class=btn-links><a class="btn btn-outline-primary my-1 mr-1 btn-sm" href=https://doi.org/10.1063/5.0030949 target=_blank rel=noopener>PDF</a>
 <button type=button class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal" data-filename=/publication/pathak-excited_states/cite.bib>
-Cite
-</button>
-</div>
-</div>
-<div class=ml-3>
-<a href=/publication/pathak-excited_states/>
-<img src=/publication/pathak-excited_states/featured_hube3a47fc53b3f625169939269dad4c73_279333_150x0_resize_lanczos_3.png alt="Excited States in Variational Monte Carlo Using a Penalty Method">
-</a>
-</div>
-</div>
-<div class="media stream-item">
-<div class=media-body>
-<h3 class="article-title mb-0 mt-0">
-<a href=/publication/annevelink-dislocation/>Topologically derived dislocation theory for twist and stretch moiré superlattices in bilayer graphene</a>
-</h3>
-<div class=article-style>
-We develop a continuum dislocation description of twist and stretch moiré superlattices in two-dimensional material bilayers. The continuum formulation is based on the topological constraints introduced by the periodic dislocation network associated with the moiré structure.
-</div>
-<div class="stream-meta article-metadata">
-<div>
-<span>Emil Annevelink</span>, <span><a href=/author/harley-johnson/>Harley Johnson</a></span>, <span><a href=/author/elif-ertekin/>Elif Ertekin</a></span>
-</div>
-</div>
-<div class=btn-links>
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href=https://doi.org/10.1103/PhysRevB.102.184107 target=_blank rel=noopener>
-PDF
-</a>
+Cite</button></div></div><div class=ml-3><a href=/publication/pathak-excited_states/><img src=/publication/pathak-excited_states/featured_hube3a47fc53b3f625169939269dad4c73_279333_150x0_resize_lanczos_3.png alt="Excited States in Variational Monte Carlo Using a Penalty Method"></a></div></div><div class="media stream-item"><div class=media-body><h3 class="article-title mb-0 mt-0"><a href=/publication/annevelink-dislocation/>Topologically derived dislocation theory for twist and stretch moiré superlattices in bilayer graphene</a></h3><div class=article-style>We develop a continuum dislocation description of twist and stretch moiré superlattices in two-dimensional material bilayers. The continuum formulation is based on the topological constraints introduced by the periodic dislocation network associated with the moiré structure.</div><div class="stream-meta article-metadata"><div><span>Emil Annevelink</span>, <span><a href=/author/harley-johnson/>Harley Johnson</a></span>, <span><a href=/author/elif-ertekin/>Elif Ertekin</a></span></div></div><div class=btn-links><a class="btn btn-outline-primary my-1 mr-1 btn-sm" href=https://doi.org/10.1103/PhysRevB.102.184107 target=_blank rel=noopener>PDF</a>
 <button type=button class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal" data-filename=/publication/annevelink-dislocation/cite.bib>
-Cite
-</button>
-</div>
-</div>
-<div class=ml-3>
-<a href=/publication/annevelink-dislocation/>
-<img src=/publication/annevelink-dislocation/featured_hu54032907c924e870e7280ebb38bbea21_759569_150x0_resize_lanczos_3.png alt="Topologically derived dislocation theory for twist and stretch moiré superlattices in bilayer graphene">
-</a>
-</div>
-</div>
-</div>
-</div>
-</div>
-</section>
-<section id=projects class="home-section wg-portfolio">
-<div class=container>
-<div class=row>
-<div class="col-12 col-lg-4 section-heading">
-<h1>Data products</h1>
-</div>
-<div class="col-12 col-lg-8">
-<span class="d-none default-project-filter">*</span>
-<div class=project-toolbar>
-<div class=project-filters>
-<div class=btn-toolbar>
-<div class="btn-group flex-wrap">
-<a href=# data-filter=* class="btn btn-primary btn-lg active">All</a>
+Cite</button></div></div><div class=ml-3><a href=/publication/annevelink-dislocation/><img src=/publication/annevelink-dislocation/featured_hu54032907c924e870e7280ebb38bbea21_759569_150x0_resize_lanczos_3.png alt="Topologically derived dislocation theory for twist and stretch moiré superlattices in bilayer graphene"></a></div></div></div></div></div></section><section id=projects class="home-section wg-portfolio"><div class=container><div class=row><div class="col-12 col-lg-4 section-heading"><h1>Data products</h1></div><div class="col-12 col-lg-8"><span class="d-none default-project-filter">*</span><div class=project-toolbar><div class=project-filters><div class=btn-toolbar><div class="btn-group flex-wrap"><a href=# data-filter=* class="btn btn-primary btn-lg active">All</a>
 <a href=# data-filter=.js-id-Hydrogen class="btn btn-primary btn-lg">Hydrogen</a>
 <a href=# data-filter=.js-id-DMD class="btn btn-primary btn-lg">Density Matrix Downfolding</a>
-<a href=# data-filter=.js-id-Other class="btn btn-primary btn-lg">Other</a>
-</div>
-</div>
-</div>
-</div>
-<div class="isotope projects-container js-layout-masonry">
-<div class="project-card project-item isotope-item js-id-DMD js-id-effective_H">
-<div class=card>
-<a href=/project/h2-model-hamiltonian/ class="card-image hover-overlay">
-<img src=/project/h2-model-hamiltonian/featured_hueb8b07dfe5eeedd3f8698830e7d87d2b_8612_550x0_resize_q90_lanczos_3.png alt class=img-responsive>
-</a>
-<div class=card-text>
-<h4><a href=/project/h2-model-hamiltonian/>QMC data for H2 electronic model</a></h4>
-<div class=article-style>
-<p>Model</p>
-</div>
-</div>
-</div>
-</div>
-<div class="project-card project-item isotope-item js-id-Hydrogen">
-<div class=card>
-<a href=/project/hydrogen-dft/ class="card-image hover-overlay">
-<img src=/project/hydrogen-dft/featured_hu3d03a01dcc18bc5be0e67db3d8d209a6_224363_550x0_resize_q90_lanczos.jpg alt class=img-responsive>
-</a>
-<div class=card-text>
-<h4><a href=/project/hydrogen-dft/>Hydrogen DFT and QMC data</a></h4>
-<div class=article-style>
-<p>DFT and QMC data for hydrogen</p>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</section>
-<section id=people class="home-section wg-people">
-<div class=container>
-<div class="row justify-content-center people-widget">
-<div class="col-md-12 section-heading">
-<h1>Meet the Team</h1>
-</div>
-<div class=col-md-12>
-<h2 class=mb-4>Principal Investigators</h2>
-</div>
-<div class="col-12 col-sm-auto people-person">
-<a href=/author/elif-ertekin/><img class="avatar avatar-circle" src=/author/elif-ertekin/avatar_hud3097dcd963e0f0b0c3d803afe64d990_251665_270x270_fill_q90_lanczos_center.jpg alt=Avatar></a>
-<div class=portrait-title>
-<h2><a href=/author/elif-ertekin/>Elif Ertekin</a></h2>
-<h3>Professor of Mechanical Science and Engineering</h3>
-<p class=people-interests>Continuum models</p>
-</div>
-</div>
-<div class="col-12 col-sm-auto people-person">
-<a href=/author/harley-johnson/><img class="avatar avatar-circle" src=/author/harley-johnson/avatar_hu5e46c3607143ba70deb9223f48d29b51_169169_270x270_fill_q90_lanczos_center.jpg alt=Avatar></a>
-<div class=portrait-title>
-<h2><a href=/author/harley-johnson/>Harley Johnson</a></h2>
-<h3>Professor of Mechanical Science and Engineering</h3>
-<p class=people-interests>Tight binding</p>
-</div>
-</div>
-<div class="col-12 col-sm-auto people-person">
-<a href=/author/lucas-k.-wagner/><img class="avatar avatar-circle" src=/author/lucas-k.-wagner/avatar_hueb36e21fd7f8d5faab1b385b87eebf99_12139_270x270_fill_q90_lanczos_center.jpg alt=Avatar></a>
-<div class=portrait-title>
-<h2><a href=/author/lucas-k.-wagner/>Lucas K. Wagner</a></h2>
-<h3>Professor of Physics</h3>
-<p class=people-interests>Quantum Monte Carlo, Multiscale quantum models</p>
-</div>
-</div>
-<div class="col-12 col-sm-auto people-person">
-<a href=/author/andriy-nevidomskyy/><img class="avatar avatar-circle" src=/author/andriy-nevidomskyy/avatar_huf7a867881682d778161d39f1933b678e_90875_270x270_fill_q90_lanczos_center.jpg alt=Avatar></a>
-<div class=portrait-title>
-<h2><a href=/author/andriy-nevidomskyy/>Andriy Nevidomskyy</a></h2>
-<h3>Professor of Physics</h3>
-<p class=people-interests>Correlated lattice models</p>
-</div>
-</div>
-<div class="col-12 col-sm-auto people-person">
-<a href=/author/david-m.-ceperley/><img class="avatar avatar-circle" src=/author/david-m.-ceperley/avatar_hu5de887c902be76a4b9698130abafb3a6_9945_270x270_fill_q90_lanczos_center.jpg alt=Avatar></a>
-<div class=portrait-title>
-<h2><a href=/author/david-m.-ceperley/>David M. Ceperley</a></h2>
-<h3>Professor of Physics</h3>
-<p class=people-interests>Quantum Monte Carlo, High pressure hydrogen</p>
-</div>
-</div>
-<div class="col-12 col-sm-auto people-person">
-<a href=/author/matthew-turk/><img class="avatar avatar-circle" src=/author/matthew-turk/avatar_hu72f88670951576e133f626aab581fd73_69125_270x270_fill_q90_lanczos_center.jpg alt=Avatar></a>
-<div class=portrait-title>
-<h2><a href=/author/matthew-turk/>Matthew Turk</a></h2>
-<h3>Professor at iSchool</h3>
-<p class=people-interests>yt</p>
-</div>
-</div>
-</div>
-</div>
-</section>
-<section id=acknowledgements class="home-section wg-blank">
-<div class=container>
-<div class=row>
-<div class="col-12 col-lg-4 section-heading">
-<h1>Acknowledgments</h1>
-</div>
-<div class="col-12 col-lg-8">
-<p>This project is supported by the U.S. Department of Energy, Office of Science, Office of Basic Energy Sciences, Computational Materials Sciences program under Award Number DE-SC-0020177.</p>
-<p>Support of the Materials Research Lab at the University of Illinois is also gratefully acknowledged.</p>
-<figure>
-<a data-fancybox href=/img/Illinois-Wordmark-Horizontal-Full-Color-CMYK.jpg>
-<img src=/img/Illinois-Wordmark-Horizontal-Full-Color-CMYK.jpg alt>
-</a>
-</figure>
-<figure>
-<a data-fancybox href=/img/190308_Rice_Mechanical_Brand_Standards_Logos-7.png>
-<img src=/img/190308_Rice_Mechanical_Brand_Standards_Logos-7.png alt>
-</a>
-</figure>
-</div>
-</div>
-</div>
-</section>
-<script src=https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin=anonymous></script>
+<a href=# data-filter=.js-id-Other class="btn btn-primary btn-lg">Other</a></div></div></div></div><div class="isotope projects-container js-layout-masonry"><div class="project-card project-item isotope-item js-id-DMD js-id-effective_H"><div class=card><a href=/project/h2-model-hamiltonian/ class="card-image hover-overlay"><img src=/project/h2-model-hamiltonian/featured_hueb8b07dfe5eeedd3f8698830e7d87d2b_8612_550x0_resize_q90_lanczos_3.png alt class=img-responsive></a><div class=card-text><h4><a href=/project/h2-model-hamiltonian/>QMC data for H2 electronic model</a></h4><div class=article-style><p>Model</p></div></div></div></div><div class="project-card project-item isotope-item js-id-Hydrogen"><div class=card><a href=/project/hydrogen-dft/ class="card-image hover-overlay"><img src=/project/hydrogen-dft/featured_hu3d03a01dcc18bc5be0e67db3d8d209a6_224363_550x0_resize_q90_lanczos.jpg alt class=img-responsive></a><div class=card-text><h4><a href=/project/hydrogen-dft/>Hydrogen DFT and QMC data</a></h4><div class=article-style><p>DFT and QMC data for hydrogen</p></div></div></div></div></div></div></div></div></section><section id=people class="home-section wg-people"><div class=container><div class="row justify-content-center people-widget"><div class="col-md-12 section-heading"><h1>Meet the Team</h1></div><div class=col-md-12><h2 class=mb-4>Principal Investigators</h2></div><div class="col-12 col-sm-auto people-person"><a href=/author/elif-ertekin/><img class="avatar avatar-circle" src=/author/elif-ertekin/avatar_hud3097dcd963e0f0b0c3d803afe64d990_251665_270x270_fill_q90_lanczos_center.jpg alt=Avatar></a><div class=portrait-title><h2><a href=/author/elif-ertekin/>Elif Ertekin</a></h2><h3>Professor of Mechanical Science and Engineering</h3><p class=people-interests>Continuum models</p></div></div><div class="col-12 col-sm-auto people-person"><a href=/author/harley-johnson/><img class="avatar avatar-circle" src=/author/harley-johnson/avatar_hu5e46c3607143ba70deb9223f48d29b51_169169_270x270_fill_q90_lanczos_center.jpg alt=Avatar></a><div class=portrait-title><h2><a href=/author/harley-johnson/>Harley Johnson</a></h2><h3>Professor of Mechanical Science and Engineering</h3><p class=people-interests>Tight binding</p></div></div><div class="col-12 col-sm-auto people-person"><a href=/author/lucas-k.-wagner/><img class="avatar avatar-circle" src=/author/lucas-k.-wagner/avatar_hueb36e21fd7f8d5faab1b385b87eebf99_12139_270x270_fill_q90_lanczos_center.jpg alt=Avatar></a><div class=portrait-title><h2><a href=/author/lucas-k.-wagner/>Lucas K. Wagner</a></h2><h3>Professor of Physics</h3><p class=people-interests>Quantum Monte Carlo, Multiscale quantum models</p></div></div><div class="col-12 col-sm-auto people-person"><a href=/author/andriy-nevidomskyy/><img class="avatar avatar-circle" src=/author/andriy-nevidomskyy/avatar_huf7a867881682d778161d39f1933b678e_90875_270x270_fill_q90_lanczos_center.jpg alt=Avatar></a><div class=portrait-title><h2><a href=/author/andriy-nevidomskyy/>Andriy Nevidomskyy</a></h2><h3>Professor of Physics</h3><p class=people-interests>Correlated lattice models</p></div></div><div class="col-12 col-sm-auto people-person"><a href=/author/david-m.-ceperley/><img class="avatar avatar-circle" src=/author/david-m.-ceperley/avatar_hu5de887c902be76a4b9698130abafb3a6_9945_270x270_fill_q90_lanczos_center.jpg alt=Avatar></a><div class=portrait-title><h2><a href=/author/david-m.-ceperley/>David M. Ceperley</a></h2><h3>Professor of Physics</h3><p class=people-interests>Quantum Monte Carlo, High pressure hydrogen</p></div></div><div class="col-12 col-sm-auto people-person"><a href=/author/matthew-turk/><img class="avatar avatar-circle" src=/author/matthew-turk/avatar_hu72f88670951576e133f626aab581fd73_69125_270x270_fill_q90_lanczos_center.jpg alt=Avatar></a><div class=portrait-title><h2><a href=/author/matthew-turk/>Matthew Turk</a></h2><h3>Professor at iSchool</h3><p class=people-interests>yt</p></div></div></div></div></section><section id=acknowledgements class="home-section wg-blank"><div class=container><div class=row><div class="col-12 col-lg-4 section-heading"><h1>Acknowledgments</h1></div><div class="col-12 col-lg-8"><p>This project is supported by the U.S. Department of Energy, Office of Science, Office of Basic Energy Sciences, Computational Materials Sciences program under Award Number DE-SC-0020177.</p><p>Support of the Materials Research Lab at the University of Illinois is also gratefully acknowledged.</p><figure><a data-fancybox href=/img/Illinois-Wordmark-Horizontal-Full-Color-CMYK.jpg><img src=/img/Illinois-Wordmark-Horizontal-Full-Color-CMYK.jpg alt></a></figure><figure><a data-fancybox href=/img/190308_Rice_Mechanical_Brand_Standards_Logos-7.png><img src=/img/190308_Rice_Mechanical_Brand_Standards_Logos-7.png alt></a></figure></div></div></div></section><script src=https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin=anonymous></script>
 <script src=https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.4/imagesloaded.pkgd.min.js integrity="sha256-lqvxZrPLtfffUl2G/e7szqSvPBILGbwmsGE1MKlOi0Q=" crossorigin=anonymous></script>
 <script src=https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.6/isotope.pkgd.min.js integrity="sha256-CBrpuqrMhXwcLLUd5tvQ4euBHCdh7wGlDfNz8vbu/iI=" crossorigin=anonymous></script>
 <script src=https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.js integrity="sha256-yt2kYMy0w8AbtF89WXb2P1rfjcP/HTHLT7097U8Y5b8=" crossorigin=anonymous></script>
 <script src=https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.18.1/highlight.min.js integrity="sha256-eOgo0OtLL4cdq7RdwRUiGKLX9XsIJ7nGhWEKbohmVAQ=" crossorigin=anonymous></script>
 <script src=https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.18.1/languages/r.min.js></script>
 <script src=https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.5.1/leaflet.js integrity="sha256-EErZamuLefUnbMBQbsEqu1USa+btR2oIlCpBJbyD4/g=" crossorigin=anonymous></script>
-<script>const code_highlighting=!0</script>
-<script>const isSiteThemeDark=!1</script>
-<script>const search_config={indexURI:"/index.json",minLength:1,threshold:.3},i18n={no_results:"No results found",placeholder:"Search...",results:"results found"},content_type={post:"Posts",project:"Projects",publication:"Publications",talk:"Talks",slides:"Slides"}</script>
-<script id=search-hit-fuse-template type=text/x-template>
+<script>const code_highlighting=!0</script><script>const isSiteThemeDark=!1</script><script>const search_config={indexURI:"/index.json",minLength:1,threshold:.3},i18n={no_results:"No results found",placeholder:"Search...",results:"results found"},content_type={post:"Posts",project:"Projects",publication:"Publications",talk:"Talks",slides:"Slides"}</script><script id=search-hit-fuse-template type=text/x-template>
       <div class="search-hit" id="summary-{{key}}">
       <div class="search-hit-content">
         <div class="search-hit-name">
@@ -455,52 +49,11 @@ Cite
         </div>
       </div>
       </div>
-    </script>
-<script src=https://cdnjs.cloudflare.com/ajax/libs/fuse.js/3.2.1/fuse.min.js integrity="sha256-VzgmKYmhsGNNN4Ph1kMW+BjoYJM2jV5i4IlFoeZA9XI=" crossorigin=anonymous></script>
+    </script><script src=https://cdnjs.cloudflare.com/ajax/libs/fuse.js/3.2.1/fuse.min.js integrity="sha256-VzgmKYmhsGNNN4Ph1kMW+BjoYJM2jV5i4IlFoeZA9XI=" crossorigin=anonymous></script>
 <script src=https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/jquery.mark.min.js integrity="sha256-4HLtjeVgH0eIB3aZ9mLYF6E8oU5chNdjU6p6rrXpl9U=" crossorigin=anonymous></script>
-<script>window.netlifyIdentity&&window.netlifyIdentity.on("init",a=>{a||window.netlifyIdentity.on("login",()=>{document.location.href="/admin/"})})</script>
-<script src=/js/academic.min.4aaf2d64e50f8e54cf66dcc54147a22e.js></script>
-<div class=container>
-<footer class=site-footer>
-<p class=powered-by>
-</p>
-<p class=powered-by>
-Powered by the
+<script>window.netlifyIdentity&&window.netlifyIdentity.on("init",e=>{e||window.netlifyIdentity.on("login",()=>{document.location.href="/admin/"})})</script><script src=/js/academic.min.36f3f36c742ad89c07012be8de57ec4c.js></script><div class=container><footer class=site-footer><p class=powered-by></p><p class=powered-by>Powered by the
 <a href=https://sourcethemes.com/academic/ target=_blank rel=noopener>Academic theme</a> for
 <a href=https://gohugo.io target=_blank rel=noopener>Hugo</a>.
-<span class=float-right aria-hidden=true>
-<a href=# class=back-to-top>
-<span class=button_icon>
-<i class="fas fa-chevron-up fa-2x"></i>
-</span>
-</a>
-</span>
-</p>
-</footer>
-</div>
-<div id=modal class="modal fade" role=dialog>
-<div class=modal-dialog>
-<div class=modal-content>
-<div class=modal-header>
-<h5 class=modal-title>Cite</h5>
-<button type=button class=close data-dismiss=modal aria-label=Close>
-<span aria-hidden=true>&#215;</span>
-</button>
-</div>
-<div class=modal-body>
-<pre><code class="tex hljs"></code></pre>
-</div>
-<div class=modal-footer>
-<a class="btn btn-outline-primary my-1 js-copy-cite" href=# target=_blank>
-<i class="fas fa-copy"></i> Copy
-</a>
-<a class="btn btn-outline-primary my-1 js-download-cite" href=# target=_blank>
-<i class="fas fa-download"></i> Download
-</a>
-<div id=modal-error></div>
-</div>
-</div>
-</div>
-</div>
-</body>
-</html>
+<span class=float-right aria-hidden=true><a href=# class=back-to-top><span class=button_icon><i class="fas fa-chevron-up fa-2x"></i></span></a></span></p></footer></div><div id=modal class="modal fade" role=dialog><div class=modal-dialog><div class=modal-content><div class=modal-header><h5 class=modal-title>Cite</h5><button type=button class=close data-dismiss=modal aria-label=Close>
+<span aria-hidden=true>&#215;</span></button></div><div class=modal-body><pre><code class="tex hljs"></code></pre></div><div class=modal-footer><a class="btn btn-outline-primary my-1 js-copy-cite" href=# target=_blank><i class="fas fa-copy"></i> Copy</a>
+<a class="btn btn-outline-primary my-1 js-download-cite" href=# target=_blank><i class="fas fa-download"></i> Download</a><div id=modal-error></div></div></div></div></div></body></html>
