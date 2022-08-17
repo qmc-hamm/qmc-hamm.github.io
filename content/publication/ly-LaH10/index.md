@@ -1,5 +1,5 @@
 ---
-title: "Stability and distortion of fcc LaH<sub>10</sub> with path-integral molecular dynamics"
+title: "Stability and distortion of fcc LaH10 with path-integral molecular dynamics"
 authors:
 - Kevin Ly
 - David Ceperley
