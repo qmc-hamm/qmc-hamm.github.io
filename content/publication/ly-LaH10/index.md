@@ -1,13 +1,13 @@
 ---
-title: "Stability and distortion of fcc-LaH10 with path-integral molecular dynamics"
+title: "Stability and distortion of fcc LaH10 with path-integral molecular dynamics"
 authors:
 - Kevin Ly
 - David Ceperley
-date: "2022-06-08T00:00:00Z"
-doi: ""
+date: "2022-08-17T00:00:00Z"
+doi: "10.1103/PhysRevB.106.054106"
 
-publishDate: "2022-07-01T00:00:00Z"
-publication_types: ["3"]
+publishDate: "2022-07-10T00:00:00Z"
+publication_types: ["2"]
 
 # View.
 #   1 = List
