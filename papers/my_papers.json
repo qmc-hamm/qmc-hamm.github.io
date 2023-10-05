@@ -1,0 +1,1729 @@
+{
+  "config": {
+    "id": "36a3b0b5-bad0-4a04-b79b-441c7cef77db",
+    "label": "BetterBibTeX JSON",
+    "preferences": {
+      "ascii": "",
+      "asciiBibLaTeX": false,
+      "asciiBibTeX": true,
+      "autoAbbrev": false,
+      "autoAbbrevStyle": "",
+      "autoExport": "immediate",
+      "autoExportDelay": 5,
+      "autoExportIdleWait": 10,
+      "autoExportPathReplaceDiacritics": false,
+      "autoExportPathReplaceDirSep": "-",
+      "autoExportPathReplaceSpace": " ",
+      "automaticTags": true,
+      "autoPinDelay": 0,
+      "auxImport": false,
+      "baseAttachmentPath": "",
+      "biblatexExtendedDateFormat": true,
+      "biblatexExtendedNameFormat": true,
+      "biblatexExtractEprint": true,
+      "bibtexEditionOrdinal": false,
+      "bibtexParticleNoOp": false,
+      "bibtexURL": "off",
+      "cache": true,
+      "cacheFlushInterval": 5,
+      "charmap": "",
+      "citeCommand": "cite",
+      "citekeyFold": true,
+      "citekeyFormat": "auth.lower+shorttitle(3,3)+year",
+      "citekeySearch": true,
+      "citekeyUnsafeChars": "\\\"#%'(),={}~",
+      "csquotes": "",
+      "DOIandURL": "both",
+      "exportBibTeXStrings": "off",
+      "exportBraceProtection": true,
+      "exportTitleCase": true,
+      "extraMergeCitekeys": false,
+      "extraMergeCSL": false,
+      "extraMergeTeX": false,
+      "git": "config",
+      "import": true,
+      "importBibTeXStrings": true,
+      "importCaseProtection": "as-needed",
+      "importCitationKey": true,
+      "importExtra": true,
+      "importJabRefAbbreviations": true,
+      "importJabRefStrings": true,
+      "importNoteToExtra": "",
+      "importSentenceCase": "on+guess",
+      "importSentenceCaseQuoted": true,
+      "importUnknownTexCommand": "ignore",
+      "itemObserverDelay": 5,
+      "jabrefFormat": 0,
+      "jieba": false,
+      "keyConflictPolicy": "keep",
+      "keyScope": "library",
+      "kuroshiro": false,
+      "language": "langid",
+      "mapMath": "",
+      "mapText": "",
+      "mapUnicode": "conservative",
+      "parseParticles": true,
+      "patchDates": "dateadded=dateAdded, date-added=dateAdded, datemodified=dateModified, date-modified=dateModified",
+      "postscript": "",
+      "postscriptOverride": "",
+      "preferencesOverride": "",
+      "qualityReport": false,
+      "quickCopyEta": "",
+      "quickCopyMode": "latex",
+      "quickCopyOrgMode": "zotero",
+      "quickCopyPandocBrackets": false,
+      "quickCopySelectLink": "zotero",
+      "rawImports": false,
+      "rawLaTag": "#LaTeX",
+      "relativeFilePaths": false,
+      "retainCache": false,
+      "separatorList": "and",
+      "separatorNames": "and",
+      "skipFields": "",
+      "skipWords": "a,ab,aboard,about,above,across,after,against,al,along,amid,among,an,and,anti,around,as,at,before,behind,below,beneath,beside,besides,between,beyond,but,by,d,da,das,de,del,dell,dello,dei,degli,della,dell,delle,dem,den,der,des,despite,die,do,down,du,during,ein,eine,einem,einen,einer,eines,el,en,et,except,for,from,gli,i,il,in,inside,into,is,l,la,las,le,les,like,lo,los,near,nor,of,off,on,onto,or,over,past,per,plus,round,save,since,so,some,sur,than,the,through,to,toward,towards,un,una,unas,under,underneath,une,unlike,uno,unos,until,up,upon,versus,via,von,while,with,within,without,yet,zu,zum",
+      "startupProgress": "popup",
+      "strings": "",
+      "stringsOverride": "",
+      "verbatimFields": "url,doi,file,eprint,verba,verbb,verbc,groups",
+      "warnBulkModify": 10,
+      "warnTitleCased": false
+    },
+    "options": {
+      "exportNotes": true,
+      "exportFileData": false,
+      "keepUpdated": false,
+      "worker": false,
+      "Normalize": false
+    }
+  },
+  "version": {
+    "zotero": "6.0.27",
+    "bbt": "6.7.122"
+  },
+  "collections": {},
+  "items": [
+    {
+      "version": 2880,
+      "itemType": "journalArticle",
+      "title": "Revisiting the dark matter interpretation of excess rates in semiconductors",
+      "abstractNote": "In light of recent results from low-threshold dark matter detectors, we revisit the possibility of a common dark matter origin for multiple excesses across numerous direct detection experiments, with a focus on the excess rates in semiconductor detectors. We explore the interpretation of the low-threshold calorimetric excess rates above 40 eV in the silicon SuperCDMS Cryogenic Phonon Detector and above 100 eV in the germanium EDELWEISS Surface detector as arising from a common but unknown origin, and demonstrate a compatible fit for the observed energy spectra in both experiments, which follow a power law of index α=3.43+0.11−0.06. Despite the intriguing scaling of the normalization of these two excess rates with approximately the square of the mass number A2, we argue that the possibility of common origin by dark matter scattering via nuclear recoils is strongly disfavored, even allowing for exotic condensed matter effects in an as-yet unmeasured kinematic regime, due to the unphysically large dark matter velocity required to give comparable rates in the different energy ranges of the silicon and germanium excesses. We also investigate the possibility of inelastic nuclear scattering by cosmic ray neutrons, solar neutrinos, and photons as the origin, and quantitatively disfavor all three based on known fluxes of particles.",
+      "date": "2022-06-01",
+      "libraryCatalog": "APS",
+      "url": "https://link.aps.org/doi/10.1103/PhysRevD.105.123002",
+      "accessDate": "2023-03-25T18:32:26Z",
+      "extra": "Publisher: American Physical Society",
+      "volume": "105",
+      "pages": "123002",
+      "publicationTitle": "Physical Review D",
+      "DOI": "10.1103/PhysRevD.105.123002",
+      "issue": "12",
+      "journalAbbreviation": "Phys. Rev. D",
+      "creators": [
+        {
+          "firstName": "Peter",
+          "lastName": "Abbamonte",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Daniel",
+          "lastName": "Baxter",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Yonatan",
+          "lastName": "Kahn",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Gordan",
+          "lastName": "Krnjaic",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Noah",
+          "lastName": "Kurinsky",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Bashi",
+          "lastName": "Mandava",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Lucas K.",
+          "lastName": "Wagner",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2023-03-25T18:32:26Z",
+      "dateModified": "2023-03-25T18:32:26Z",
+      "uri": "http://zotero.org/users/1097469/items/6SUJZL64",
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Abbamonte et al_2022_Revisiting the dark matter interpretation of excess rates in semiconductors.pdf",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2023-03-25T18:32:27Z",
+          "dateModified": "2023-03-25T18:32:27Z",
+          "uri": "http://zotero.org/users/1097469/items/5SFIQ3GA",
+          "path": "/Users/lkwagner/Zotero/storage/5SFIQ3GA/Abbamonte et al_2022_Revisiting the dark matter interpretation of excess rates in semiconductors.pdf",
+          "select": "zotero://select/library/items/5SFIQ3GA"
+        }
+      ],
+      "notes": [],
+      "citationKey": "abbamonteRevisitingDarkMatter2022a",
+      "itemID": 5667,
+      "itemKey": "6SUJZL64",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/6SUJZL64"
+    },
+    {
+      "version": 2897,
+      "itemType": "journalArticle",
+      "title": "Shear-coupling of graphene grain boundaries: Elementary mechanisms, effects of topology, and role of buckling",
+      "date": "01/2023",
+      "language": "en",
+      "shortTitle": "Shear-coupling of graphene grain boundaries",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "url": "https://linkinghub.elsevier.com/retrieve/pii/S1359645422008655",
+      "accessDate": "2023-03-25T18:35:52Z",
+      "volume": "244",
+      "pages": "118488",
+      "publicationTitle": "Acta Materialia",
+      "DOI": "10.1016/j.actamat.2022.118488",
+      "journalAbbreviation": "Acta Materialia",
+      "ISSN": "13596454",
+      "creators": [
+        {
+          "firstName": "Emil",
+          "lastName": "Annevelink",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Brian",
+          "lastName": "Xu",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Harley T.",
+          "lastName": "Johnson",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Elif",
+          "lastName": "Ertekin",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2023-03-25T18:35:52Z",
+      "dateModified": "2023-03-25T18:35:52Z",
+      "uri": "http://zotero.org/users/1097469/items/5PL9ZRZR",
+      "attachments": [],
+      "notes": [],
+      "citationKey": "annevelinkShearcouplingGrapheneGrain2023",
+      "itemID": 5676,
+      "itemKey": "5PL9ZRZR",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/5PL9ZRZR"
+    },
+    {
+      "version": 2862,
+      "itemType": "journalArticle",
+      "title": "Topologically derived dislocation theory for twist and stretch moir\\'e superlattices in bilayer graphene",
+      "abstractNote": "We develop a continuum dislocation description of twist and stretch moiré superlattices in two-dimensional material bilayers. The continuum formulation is based on the topological constraints introduced by the periodic dislocation network associated with the moiré structure. The approach is based on solving analytically for the structural distortion and displacement fields that satisfy the topological constraints and that minimize the total energy. The total energy is described by both the strain energy of each individual distorted layer and a Peierls-Nabarro-like interfacial contribution arising from stacking disregistry. The dislocation core emerges naturally within the formalism as a result of the competition between the two contributions. The approach presented here captures the structure and energetics of twist and stretch moiré superlattices of dislocations with arbitrary direction and character, without assuming an analytical solution a priori and while accounting naturally for dislocation-dislocation image interactions. In comparisons to atomistic simulations using classical potentials, the maximum structure deviation is 6%, while the maximum line energy deviation is 0.019 eV/Å. Several applications of our model are shown, including predicting the variation of structure with twist angle and describing dislocation line tension and junction energies.",
+      "date": "2020-11-12",
+      "libraryCatalog": "APS",
+      "url": "https://link.aps.org/doi/10.1103/PhysRevB.102.184107",
+      "accessDate": "2023-03-25T18:30:42Z",
+      "extra": "Publisher: American Physical Society",
+      "volume": "102",
+      "pages": "184107",
+      "publicationTitle": "Physical Review B",
+      "DOI": "10.1103/PhysRevB.102.184107",
+      "issue": "18",
+      "journalAbbreviation": "Phys. Rev. B",
+      "creators": [
+        {
+          "firstName": "Emil",
+          "lastName": "Annevelink",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Harley T.",
+          "lastName": "Johnson",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Elif",
+          "lastName": "Ertekin",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2023-03-25T18:30:42Z",
+      "dateModified": "2023-03-25T18:30:42Z",
+      "uri": "http://zotero.org/users/1097469/items/B87CWKYQ",
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Annevelink et al_2020_Topologically derived dislocation theory for twist and stretch moir-'e.pdf",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2023-03-25T18:31:13Z",
+          "dateModified": "2023-03-25T18:31:14Z",
+          "uri": "http://zotero.org/users/1097469/items/XI45PZ88",
+          "path": "/Users/lkwagner/Zotero/storage/XI45PZ88/Annevelink et al_2020_Topologically derived dislocation theory for twist and stretch moir-'e.pdf",
+          "select": "zotero://select/library/items/XI45PZ88"
+        },
+        {
+          "itemType": "attachment",
+          "title": "APS Snapshot",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2023-03-25T18:30:47Z",
+          "dateModified": "2023-03-25T18:30:47Z",
+          "uri": "http://zotero.org/users/1097469/items/WZSZR8IK",
+          "path": "/Users/lkwagner/Zotero/storage/WZSZR8IK/PhysRevB.102.html",
+          "select": "zotero://select/library/items/WZSZR8IK"
+        }
+      ],
+      "notes": [],
+      "citationKey": "annevelinkTopologicallyDerivedDislocation2020",
+      "itemID": 5650,
+      "itemKey": "B87CWKYQ",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/B87CWKYQ"
+    },
+    {
+      "version": 2894,
+      "itemType": "preprint",
+      "title": "Learning emergent models from $\\textit{ab initio}$ many-body calculations",
+      "abstractNote": "A crucial step for understanding emergent physics of correlated systems is determining whether a particular model is emergent from ultraviolet physics. So far, a systematic way of detecting emergent behavior from $\\textit{ab initio}$ calculations has yet to be available in the state-of-the-art model derivation procedures. In this study, we propose that low-energy emergent physics forms disjoint clusters in an extended descriptor space beyond just energy cutoffs. Working from highly-accurate many-body quantum Monte Carlo calculations of the $\\textit{ab initio}$ hydrogen chains, we show that a cluster-based classification algorithm can detect a Heisenberg-like emergent subspace using a set of descriptors of the energy eigenstates.",
+      "date": "2023-02-06",
+      "libraryCatalog": "arXiv.org",
+      "url": "http://arxiv.org/abs/2302.02899",
+      "accessDate": "2023-02-13T20:40:51Z",
+      "extra": "arXiv:2302.02899 [cond-mat]",
+      "DOI": "10.48550/arXiv.2302.02899",
+      "repository": "arXiv",
+      "archiveID": "arXiv:2302.02899",
+      "creators": [
+        {
+          "firstName": "Yueqing",
+          "lastName": "Chang",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Lucas K.",
+          "lastName": "Wagner",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Condensed Matter - Materials Science",
+          "type": 1
+        },
+        {
+          "tag": "Condensed Matter - Strongly Correlated Electrons",
+          "type": 1
+        }
+      ],
+      "relations": [],
+      "dateAdded": "2023-02-13T20:40:52Z",
+      "dateModified": "2023-02-13T20:40:52Z",
+      "uri": "http://zotero.org/users/1097469/items/MZG77AWQ",
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "arXiv.org Snapshot",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2023-02-13T20:41:00Z",
+          "dateModified": "2023-02-13T20:41:00Z",
+          "uri": "http://zotero.org/users/1097469/items/BEYAUVDX",
+          "path": "/Users/lkwagner/Zotero/storage/BEYAUVDX/2302.html",
+          "select": "zotero://select/library/items/BEYAUVDX"
+        },
+        {
+          "itemType": "attachment",
+          "title": "Chang_Wagner_2023_Learning emergent models from $-textit{ab initio}$ many-body calculations.pdf",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2023-02-13T20:40:54Z",
+          "dateModified": "2023-02-13T20:40:54Z",
+          "uri": "http://zotero.org/users/1097469/items/C24P3ITT",
+          "path": "/Users/lkwagner/Zotero/storage/C24P3ITT/Chang_Wagner_2023_Learning emergent models from $-textit{ab initio}$ many-body calculations.pdf",
+          "select": "zotero://select/library/items/C24P3ITT"
+        }
+      ],
+      "notes": [
+        {
+          "key": "3GAA5IYP",
+          "version": 2823,
+          "itemType": "note",
+          "parentItem": "MZG77AWQ",
+          "note": "Comment: 7 pages, 5 figures; includes Supplementary Material (11 pages, 8 figures)",
+          "tags": [],
+          "relations": {},
+          "dateAdded": "2023-02-13T20:40:52Z",
+          "dateModified": "2023-02-13T20:40:52Z",
+          "uri": "http://zotero.org/users/1097469/items/3GAA5IYP"
+        }
+      ],
+      "citationKey": "changLearningEmergentModels2023",
+      "itemID": 5619,
+      "itemKey": "MZG77AWQ",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/MZG77AWQ"
+    },
+    {
+      "version": 2867,
+      "itemType": "journalArticle",
+      "title": "Nontrivial maturation metastate-average state in a one-dimensional long-range Ising spin glass: Above and below the upper critical range",
+      "abstractNote": "Understanding the low-temperature pure state structure of spin glasses remains an open problem in the field of statistical mechanics of disordered systems. Here we study Monte Carlo dynamics, performing simulations of the growth of correlations following a quench from infinite temperature to a temperature well below the spin-glass transition temperature Tc for a one-dimensional Ising spin-glass model with diluted long-range interactions. In this model, the probability Pij that an edge {i,j} has nonvanishing interaction falls as a power law with chord distance, Pij∝1/R2σij, and we study a range of values of σ with 1/2<σ<1. We consider a correlation function C4(r,t). A dynamic correlation length that shows power-law growth with time ξ(t)∝t1/z can be identified in the data and, for large time t, C4(r,t) decays as a power law r−αd with distance r when r≪ξ(t). The calculation can be interpreted in terms of the maturation metastate averaged Gibbs state, or MMAS, and the decay exponent αd differentiates between a trivial MMAS (αd=0), as expected in the droplet picture of spin glasses, and a nontrivial MMAS (αd≠0), as in the replica-symmetry-breaking (RSB) or chaotic pairs pictures. We find nonzero αd even in the regime σ>2/3 which corresponds to short-range systems below six dimensions. For σ<2/3, the decay exponent αd follows the RSB prediction for the decay exponent αs=3−4σ of the static metastate, consistent with a conjectured statics-dynamics relation, while it approaches αd=1−σ in the regime 2/3<σ<1; however, it deviates from both lines in the vicinity of σ=2/3.",
+      "date": "2021-09-07",
+      "shortTitle": "Nontrivial maturation metastate-average state in a one-dimensional long-range Ising spin glass",
+      "libraryCatalog": "APS",
+      "url": "https://link.aps.org/doi/10.1103/PhysRevE.104.034105",
+      "accessDate": "2023-03-25T18:31:09Z",
+      "extra": "Publisher: American Physical Society",
+      "volume": "104",
+      "pages": "034105",
+      "publicationTitle": "Physical Review E",
+      "DOI": "10.1103/PhysRevE.104.034105",
+      "issue": "3",
+      "journalAbbreviation": "Phys. Rev. E",
+      "creators": [
+        {
+          "firstName": "S.",
+          "lastName": "Jensen",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "N.",
+          "lastName": "Read",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "A. P.",
+          "lastName": "Young",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2023-03-25T18:31:09Z",
+      "dateModified": "2023-03-25T18:31:09Z",
+      "uri": "http://zotero.org/users/1097469/items/IWF5HP6I",
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Jensen et al_2021_Nontrivial maturation metastate-average state in a one-dimensional long-range.pdf",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2023-03-25T18:31:15Z",
+          "dateModified": "2023-03-25T18:31:15Z",
+          "uri": "http://zotero.org/users/1097469/items/SBMCE2G4",
+          "path": "/Users/lkwagner/Zotero/storage/SBMCE2G4/Jensen et al_2021_Nontrivial maturation metastate-average state in a one-dimensional long-range.pdf",
+          "select": "zotero://select/library/items/SBMCE2G4"
+        }
+      ],
+      "notes": [],
+      "citationKey": "jensenNontrivialMaturationMetastateaverage2021",
+      "itemID": 5654,
+      "itemKey": "IWF5HP6I",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/IWF5HP6I"
+    },
+    {
+      "version": 2902,
+      "itemType": "journalArticle",
+      "title": "Inherited topological superconductivity in two-dimensional Dirac semimetals",
+      "date": "2022-3-1",
+      "language": "en",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "url": "https://link.aps.org/doi/10.1103/PhysRevB.105.104501",
+      "accessDate": "2023-03-25T18:37:21Z",
+      "volume": "105",
+      "pages": "104501",
+      "publicationTitle": "Physical Review B",
+      "DOI": "10.1103/PhysRevB.105.104501",
+      "issue": "10",
+      "journalAbbreviation": "Phys. Rev. B",
+      "ISSN": "2469-9950, 2469-9969",
+      "creators": [
+        {
+          "firstName": "Chiu Fan Bowen",
+          "lastName": "Lo",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Hoi Chun",
+          "lastName": "Po",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Andriy H.",
+          "lastName": "Nevidomskyy",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2023-03-25T18:37:21Z",
+      "dateModified": "2023-03-25T18:37:21Z",
+      "uri": "http://zotero.org/users/1097469/items/EPS5N8RW",
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Lo et al_2022_Inherited topological superconductivity in two-dimensional Dirac semimetals.pdf",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2023-03-25T18:37:25Z",
+          "dateModified": "2023-03-25T18:37:25Z",
+          "uri": "http://zotero.org/users/1097469/items/NA7FLEX3",
+          "path": "/Users/lkwagner/Zotero/storage/NA7FLEX3/Lo et al_2022_Inherited topological superconductivity in two-dimensional Dirac semimetals.pdf",
+          "select": "zotero://select/library/items/NA7FLEX3"
+        }
+      ],
+      "notes": [],
+      "citationKey": "loInheritedTopologicalSuperconductivity2022",
+      "itemID": 5681,
+      "itemKey": "EPS5N8RW",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/EPS5N8RW"
+    },
+    {
+      "version": 2907,
+      "itemType": "journalArticle",
+      "title": "Interaction-driven quantum anomalous Hall insulator in a Dirac semimetal",
+      "date": "2022-11-3",
+      "language": "en",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "url": "https://link.aps.org/doi/10.1103/PhysRevB.106.205105",
+      "accessDate": "2023-03-25T18:38:07Z",
+      "volume": "106",
+      "pages": "205105",
+      "publicationTitle": "Physical Review B",
+      "DOI": "10.1103/PhysRevB.106.205105",
+      "issue": "20",
+      "journalAbbreviation": "Phys. Rev. B",
+      "ISSN": "2469-9950, 2469-9969",
+      "creators": [
+        {
+          "firstName": "Hongyu",
+          "lastName": "Lu",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Shouvik",
+          "lastName": "Sur",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Shou-Shu",
+          "lastName": "Gong",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "D. N.",
+          "lastName": "Sheng",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2023-03-25T18:38:07Z",
+      "dateModified": "2023-03-25T18:38:07Z",
+      "uri": "http://zotero.org/users/1097469/items/DM77X4RM",
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Lu et al_2022_Interaction-driven quantum anomalous Hall insulator in a Dirac semimetal.pdf",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2023-03-25T18:38:18Z",
+          "dateModified": "2023-03-25T18:38:19Z",
+          "uri": "http://zotero.org/users/1097469/items/2Q2MQG85",
+          "path": "/Users/lkwagner/Zotero/storage/2Q2MQG85/Lu et al_2022_Interaction-driven quantum anomalous Hall insulator in a Dirac semimetal.pdf",
+          "select": "zotero://select/library/items/2Q2MQG85"
+        }
+      ],
+      "notes": [],
+      "citationKey": "luInteractiondrivenQuantumAnomalous2022",
+      "itemID": 5685,
+      "itemKey": "DM77X4RM",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/DM77X4RM"
+    },
+    {
+      "version": 2873,
+      "itemType": "journalArticle",
+      "title": "Phonons of metallic hydrogen with quantum Monte Carlo",
+      "date": "2022-01-28",
+      "libraryCatalog": "aip.scitation.org (Atypon)",
+      "url": "https://aip.scitation.org/doi/10.1063/5.0077749",
+      "accessDate": "2023-03-25T18:31:42Z",
+      "extra": "Publisher: American Institute of Physics",
+      "volume": "156",
+      "pages": "044108",
+      "publicationTitle": "The Journal of Chemical Physics",
+      "DOI": "10.1063/5.0077749",
+      "issue": "4",
+      "journalAbbreviation": "J. Chem. Phys.",
+      "ISSN": "0021-9606",
+      "creators": [
+        {
+          "firstName": "Kevin K.",
+          "lastName": "Ly",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "David M.",
+          "lastName": "Ceperley",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2023-03-25T18:31:42Z",
+      "dateModified": "2023-03-25T18:31:42Z",
+      "uri": "http://zotero.org/users/1097469/items/XCLJ3445",
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Ly_Ceperley_2022_Phonons of metallic hydrogen with quantum Monte Carlo.pdf",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2023-03-25T18:31:47Z",
+          "dateModified": "2023-03-25T18:31:48Z",
+          "uri": "http://zotero.org/users/1097469/items/X94EZRRR",
+          "path": "/Users/lkwagner/Zotero/storage/X94EZRRR/Ly_Ceperley_2022_Phonons of metallic hydrogen with quantum Monte Carlo.pdf",
+          "select": "zotero://select/library/items/X94EZRRR"
+        }
+      ],
+      "notes": [],
+      "citationKey": "lyPhononsMetallicHydrogen2022",
+      "itemID": 5660,
+      "itemKey": "XCLJ3445",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/XCLJ3445"
+    },
+    {
+      "version": 2878,
+      "itemType": "journalArticle",
+      "title": "Stability and distortion of fcc ${\\mathrm{LaH}}_{10}$ with path-integral molecular dynamics",
+      "abstractNote": "The synthesis of the high-temperature superconductor LaH10 requires pressures in excess of 100 GPa, wherein it adopts a face-centered cubic structure. Upon decompression, this structure undergoes a distortion, which still supports superconductivity, but with a lower critical temperature. Previous calculations have shown that quantum and anharmonic effects are necessary to stabilize the cubic structure, but have not resolved the low pressure distortion. Using large scale path-integral molecular dynamics enabled by a machine learned potential, we show that a rhombohedral distortion appears at sufficiently low pressures. We also highlight the importance of quantum zero-point motion in stabilizing the cubic structure.",
+      "date": "2022-08-17",
+      "libraryCatalog": "APS",
+      "url": "https://link.aps.org/doi/10.1103/PhysRevB.106.054106",
+      "accessDate": "2023-03-25T18:32:12Z",
+      "extra": "Publisher: American Physical Society",
+      "volume": "106",
+      "pages": "054106",
+      "publicationTitle": "Physical Review B",
+      "DOI": "10.1103/PhysRevB.106.054106",
+      "issue": "5",
+      "journalAbbreviation": "Phys. Rev. B",
+      "creators": [
+        {
+          "firstName": "Kevin K.",
+          "lastName": "Ly",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "David M.",
+          "lastName": "Ceperley",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2023-03-25T18:32:12Z",
+      "dateModified": "2023-03-25T18:32:12Z",
+      "uri": "http://zotero.org/users/1097469/items/TMZEU7V3",
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "APS Snapshot",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2023-03-25T18:32:17Z",
+          "dateModified": "2023-03-25T18:32:17Z",
+          "uri": "http://zotero.org/users/1097469/items/F6VUL8BA",
+          "path": "/Users/lkwagner/Zotero/storage/F6VUL8BA/PhysRevB.106.html",
+          "select": "zotero://select/library/items/F6VUL8BA"
+        },
+        {
+          "itemType": "attachment",
+          "title": "Ly_Ceperley_2022_Stability and distortion of fcc ${-mathrm{LaH}}_{10}$ with path-integral.pdf",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2023-03-25T18:32:16Z",
+          "dateModified": "2023-03-25T18:32:17Z",
+          "uri": "http://zotero.org/users/1097469/items/ZNQEQESV",
+          "path": "/Users/lkwagner/Zotero/storage/ZNQEQESV/Ly_Ceperley_2022_Stability and distortion of fcc ${-mathrm{LaH}}_{10}$ with path-integral.pdf",
+          "select": "zotero://select/library/items/ZNQEQESV"
+        }
+      ],
+      "notes": [],
+      "citationKey": "lyStabilityDistortionFcc2022",
+      "itemID": 5664,
+      "itemKey": "TMZEU7V3",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/TMZEU7V3"
+    },
+    {
+      "version": 2916,
+      "itemType": "journalArticle",
+      "title": "Stable Solid Molecular Hydrogen above 900 K from a Machine-Learned Potential Trained with Diffusion Quantum Monte Carlo",
+      "abstractNote": "We survey the phase diagram of high-pressure molecular hydrogen with path integral molecular dynamics using a machine-learned interatomic potential trained with quantum Monte Carlo forces and energies. Besides the HCP and C2/c−24 phases, we find two new stable phases both with molecular centers in the Fmmm−4 structure, separated by a molecular orientation transition with temperature. The high temperature isotropic Fmmm−4 phase has a reentrant melting line with a maximum at higher temperature (1450 K at 150 GPa) than previously estimated and crosses the liquid-liquid transition line around 1200 K and 200 GPa.",
+      "date": "2023-02-17",
+      "libraryCatalog": "APS",
+      "url": "https://link.aps.org/doi/10.1103/PhysRevLett.130.076102",
+      "accessDate": "2023-03-25T18:41:18Z",
+      "extra": "Publisher: American Physical Society",
+      "volume": "130",
+      "pages": "076102",
+      "publicationTitle": "Physical Review Letters",
+      "DOI": "10.1103/PhysRevLett.130.076102",
+      "issue": "7",
+      "journalAbbreviation": "Phys. Rev. Lett.",
+      "creators": [
+        {
+          "firstName": "Hongwei",
+          "lastName": "Niu",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Yubo",
+          "lastName": "Yang",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Scott",
+          "lastName": "Jensen",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Markus",
+          "lastName": "Holzmann",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Carlo",
+          "lastName": "Pierleoni",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "David M.",
+          "lastName": "Ceperley",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2023-03-25T18:41:18Z",
+      "dateModified": "2023-03-25T18:41:18Z",
+      "uri": "http://zotero.org/users/1097469/items/ENJ3TDMW",
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "APS Snapshot",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2023-03-25T18:41:24Z",
+          "dateModified": "2023-03-25T18:41:24Z",
+          "uri": "http://zotero.org/users/1097469/items/X9L9WHPZ",
+          "path": "/Users/lkwagner/Zotero/storage/X9L9WHPZ/PhysRevLett.130.html",
+          "select": "zotero://select/library/items/X9L9WHPZ"
+        },
+        {
+          "itemType": "attachment",
+          "title": "Niu et al_2023_Stable Solid Molecular Hydrogen above 900 K from a Machine-Learned Potential.pdf",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2023-03-25T18:41:21Z",
+          "dateModified": "2023-03-25T18:41:21Z",
+          "uri": "http://zotero.org/users/1097469/items/M27W2H4D",
+          "path": "/Users/lkwagner/Zotero/storage/M27W2H4D/Niu et al_2023_Stable Solid Molecular Hydrogen above 900 K from a Machine-Learned Potential.pdf",
+          "select": "zotero://select/library/items/M27W2H4D"
+        }
+      ],
+      "notes": [],
+      "citationKey": "niuStableSolidMolecular2023a",
+      "itemID": 5697,
+      "itemKey": "ENJ3TDMW",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/ENJ3TDMW"
+    },
+    {
+      "version": 2876,
+      "itemType": "journalArticle",
+      "title": "Accurate tight-binding model for twisted bilayer graphene describes topological flat bands without geometric relaxation",
+      "abstractNote": "A major hurdle in understanding the phase diagram of twisted bilayer graphene is the roles of lattice relaxation and electronic structure on isolated band flattening near magic twist angles. In this work, the authors develop an accurate local environment tight-binding model fit to tight-binding parameters computed from ab initio density-functional theory calculations across many atomic configurations. With the accurate parametrization, it is found that the magic angle shifts to slightly lower angles than often quoted, from around 1.05∘ to around 0.99∘, and that isolated flat bands appear for rigidly rotated graphene layers, with enhancement of the flat bands when the layers are allowed to distort. Study of the orbital localization supports the emergence of fragile topology in the isolated flat bands without the need for lattice relaxation.",
+      "date": "2022-03-30",
+      "libraryCatalog": "APS",
+      "url": "https://link.aps.org/doi/10.1103/PhysRevB.105.115141",
+      "accessDate": "2023-03-25T18:31:57Z",
+      "extra": "Publisher: American Physical Society",
+      "volume": "105",
+      "pages": "115141",
+      "publicationTitle": "Physical Review B",
+      "DOI": "10.1103/PhysRevB.105.115141",
+      "issue": "11",
+      "journalAbbreviation": "Phys. Rev. B",
+      "creators": [
+        {
+          "firstName": "Shivesh",
+          "lastName": "Pathak",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Tawfiqur",
+          "lastName": "Rakib",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Run",
+          "lastName": "Hou",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Andriy",
+          "lastName": "Nevidomskyy",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Elif",
+          "lastName": "Ertekin",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Harley T.",
+          "lastName": "Johnson",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Lucas K.",
+          "lastName": "Wagner",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2023-03-25T18:31:57Z",
+      "dateModified": "2023-03-25T18:31:57Z",
+      "uri": "http://zotero.org/users/1097469/items/THL5XIZ9",
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Pathak et al_2022_Accurate tight-binding model for twisted bilayer graphene describes topological.pdf",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2023-03-25T18:31:59Z",
+          "dateModified": "2023-03-25T18:31:59Z",
+          "uri": "http://zotero.org/users/1097469/items/DME2DZNE",
+          "path": "/Users/lkwagner/Zotero/storage/DME2DZNE/Pathak et al_2022_Accurate tight-binding model for twisted bilayer graphene describes topological.pdf",
+          "select": "zotero://select/library/items/DME2DZNE"
+        }
+      ],
+      "notes": [],
+      "citationKey": "pathakAccurateTightbindingModel2022a",
+      "itemID": 5662,
+      "itemKey": "THL5XIZ9",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/THL5XIZ9"
+    },
+    {
+      "version": 2865,
+      "itemType": "journalArticle",
+      "title": "Excited states in variational Monte Carlo using a penalty method",
+      "date": "2021-01-21",
+      "libraryCatalog": "aip.scitation.org (Atypon)",
+      "url": "https://aip.scitation.org/doi/10.1063/5.0030949",
+      "accessDate": "2023-03-25T18:30:58Z",
+      "extra": "Publisher: American Institute of Physics",
+      "volume": "154",
+      "pages": "034101",
+      "publicationTitle": "The Journal of Chemical Physics",
+      "DOI": "10.1063/5.0030949",
+      "issue": "3",
+      "journalAbbreviation": "J. Chem. Phys.",
+      "ISSN": "0021-9606",
+      "creators": [
+        {
+          "firstName": "Shivesh",
+          "lastName": "Pathak",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Brian",
+          "lastName": "Busemeyer",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "João N. B.",
+          "lastName": "Rodrigues",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Lucas K.",
+          "lastName": "Wagner",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2023-03-25T18:30:58Z",
+      "dateModified": "2023-03-25T18:30:58Z",
+      "uri": "http://zotero.org/users/1097469/items/5YUIBU23",
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Pathak et al_2021_Excited states in variational Monte Carlo using a penalty method.pdf",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2023-03-25T18:31:00Z",
+          "dateModified": "2023-03-25T18:31:00Z",
+          "uri": "http://zotero.org/users/1097469/items/3UWECPCQ",
+          "path": "/Users/lkwagner/Zotero/storage/3UWECPCQ/Pathak et al_2021_Excited states in variational Monte Carlo using a penalty method.pdf",
+          "select": "zotero://select/library/items/3UWECPCQ"
+        }
+      ],
+      "notes": [],
+      "citationKey": "pathakExcitedStatesVariational2021a",
+      "itemID": 5652,
+      "itemKey": "5YUIBU23",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/5YUIBU23"
+    },
+    {
+      "version": 2913,
+      "itemType": "journalArticle",
+      "title": "A light weight regularization for wave function parameter gradients in quantum Monte Carlo",
+      "date": "2020-08-01",
+      "language": "en",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "url": "http://aip.scitation.org/doi/10.1063/5.0004008",
+      "accessDate": "2023-03-25T18:40:12Z",
+      "volume": "10",
+      "pages": "085213",
+      "publicationTitle": "AIP Advances",
+      "DOI": "10.1063/5.0004008",
+      "issue": "8",
+      "journalAbbreviation": "AIP Advances",
+      "ISSN": "2158-3226",
+      "creators": [
+        {
+          "firstName": "Shivesh",
+          "lastName": "Pathak",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Lucas K.",
+          "lastName": "Wagner",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2023-03-25T18:40:12Z",
+      "dateModified": "2023-03-25T18:40:12Z",
+      "uri": "http://zotero.org/users/1097469/items/QEMHH6SS",
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Pathak_Wagner_2020_A light weight regularization for wave function parameter gradients in quantum.pdf",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2023-03-25T18:40:16Z",
+          "dateModified": "2023-03-25T18:40:17Z",
+          "uri": "http://zotero.org/users/1097469/items/EM8JH9V2",
+          "path": "/Users/lkwagner/Zotero/storage/EM8JH9V2/Pathak_Wagner_2020_A light weight regularization for wave function parameter gradients in quantum.pdf",
+          "select": "zotero://select/library/items/EM8JH9V2"
+        }
+      ],
+      "notes": [],
+      "citationKey": "pathakLightWeightRegularization2020c",
+      "itemID": 5695,
+      "itemKey": "QEMHH6SS",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/QEMHH6SS"
+    },
+    {
+      "version": 2898,
+      "itemType": "journalArticle",
+      "title": "Corrugation-driven symmetry breaking in magic-angle twisted bilayer graphene",
+      "abstractNote": "The discovery of unconventional superconductivity in magic-angle twisted bilayer graphene (tBLG) supported the twist-angle-induced flat band structure predictions made a decade earlier. Numerous physical properties have since been linked to the interlayer twist angle using the flat band prediction as a guideline. However, some key observations like the nematic phase and striped charge order behind the superconductivity are missing in this initial model. Here we show that a thermodynamically stable large out-of-plane displacement, or corrugation of the bilayer, induced by the interlayer twist, demonstrates partially filled states of the flat band structure, accompanied by a broken symmetry, in the magic-angle regime and the presence of symmetry breaking associated with the superconductivity in tBLG. The distinction between low and high corrugation can also explain the observed evolution of the vibrational spectra of tBLG as a function of twist angle. Our observation that large out-of-plane deformation modes enable partial filling of states near the Fermi energy may lead to a strategy for offsetting the effects of disorder in the local twist angle, which suppresses unconventional superconductivity and correlated insulator behavior in magic-angle tBLG.",
+      "date": "2022-10-02",
+      "language": "en",
+      "libraryCatalog": "www.nature.com",
+      "url": "https://www.nature.com/articles/s42005-022-01013-y",
+      "accessDate": "2023-03-25T18:36:58Z",
+      "rights": "2022 The Author(s)",
+      "extra": "Number: 1\nPublisher: Nature Publishing Group",
+      "volume": "5",
+      "pages": "1-7",
+      "publicationTitle": "Communications Physics",
+      "DOI": "10.1038/s42005-022-01013-y",
+      "issue": "1",
+      "journalAbbreviation": "Commun Phys",
+      "ISSN": "2399-3650",
+      "creators": [
+        {
+          "firstName": "Tawfiqur",
+          "lastName": "Rakib",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Pascal",
+          "lastName": "Pochet",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Elif",
+          "lastName": "Ertekin",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Harley T.",
+          "lastName": "Johnson",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Electronic properties and devices",
+          "type": 1
+        },
+        {
+          "tag": "Mechanical and structural properties and devices",
+          "type": 1
+        }
+      ],
+      "relations": [],
+      "dateAdded": "2023-03-25T18:36:58Z",
+      "dateModified": "2023-03-25T18:36:58Z",
+      "uri": "http://zotero.org/users/1097469/items/H8V6W8C7",
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Rakib et al_2022_Corrugation-driven symmetry breaking in magic-angle twisted bilayer graphene.pdf",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2023-03-25T18:37:01Z",
+          "dateModified": "2023-03-25T18:37:01Z",
+          "uri": "http://zotero.org/users/1097469/items/VZYZ8KC7",
+          "path": "/Users/lkwagner/Zotero/storage/VZYZ8KC7/Rakib et al_2022_Corrugation-driven symmetry breaking in magic-angle twisted bilayer graphene.pdf",
+          "select": "zotero://select/library/items/VZYZ8KC7"
+        }
+      ],
+      "notes": [],
+      "citationKey": "rakibCorrugationdrivenSymmetryBreaking2022b",
+      "itemID": 5677,
+      "itemKey": "H8V6W8C7",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/H8V6W8C7"
+    },
+    {
+      "version": 2870,
+      "itemType": "journalArticle",
+      "title": "An efficient computational framework for charge density estimation in twisted bilayer graphene",
+      "abstractNote": "Electronic properties such as band structure and Fermi velocity in low-angle twisted bilayer graphene (TBG) are intrinsically dependent on the atomic structure. Rigid rotation between individual graphene layers provides an approximate description of the bilayer symmetry. Upon relaxation, in-plane displacement of the atoms in low angle TBG causes a change in the symmetry through the enlargement of the AB stacking regions and the reduction in size of AA and SP stacking regions. However, the effect of this in-plane relaxation on the charge density remains unexplored, because the necessary electronic structure calculations of such large supercells of low twist angle TBG are computationally infeasible. Therefore, we develop a computationally efficient framework that enables the exploration of the charge density symmetry of the low twist angle TBG. This framework is based on the Fourier representation of the charge density which presents high intensity Bragg peaks. We find that with the decrease of twist angle, low intensity satellite peaks also become apparent. Our framework incorporates these satellite peaks which reveals transformation of symmetry in the charge density distribution from high to low twist angle TBG. One striking outcome is the demonstration of the electron localization in the AA region of low twist angle TBG. Our framework helps to explain the effect of the atomistic relaxation on the charge density distribution and thus, it provides information about exotic electronic properties of low twist angle TBG at a low computational expense.",
+      "date": "2021-11-01",
+      "language": "en",
+      "libraryCatalog": "ScienceDirect",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0927025621004730",
+      "accessDate": "2023-03-25T18:31:27Z",
+      "volume": "199",
+      "pages": "110746",
+      "publicationTitle": "Computational Materials Science",
+      "DOI": "10.1016/j.commatsci.2021.110746",
+      "journalAbbreviation": "Computational Materials Science",
+      "ISSN": "0927-0256",
+      "creators": [
+        {
+          "firstName": "Tawfiqur",
+          "lastName": "Rakib",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Elif",
+          "lastName": "Ertekin",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Pascal",
+          "lastName": "Pochet",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Harley T.",
+          "lastName": "Johnson",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Diffraction pattern",
+          "type": 1
+        },
+        {
+          "tag": "Electron localization",
+          "type": 1
+        },
+        {
+          "tag": "In-plane relaxation",
+          "type": 1
+        },
+        {
+          "tag": "Moiré",
+          "type": 1
+        },
+        {
+          "tag": "Twisted bilayer graphene",
+          "type": 1
+        }
+      ],
+      "relations": [],
+      "dateAdded": "2023-03-25T18:31:27Z",
+      "dateModified": "2023-03-25T18:31:27Z",
+      "uri": "http://zotero.org/users/1097469/items/SEDI5V25",
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Rakib et al_2021_An efficient computational framework for charge density estimation in twisted.pdf",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2023-03-25T18:31:32Z",
+          "dateModified": "2023-03-25T18:31:33Z",
+          "uri": "http://zotero.org/users/1097469/items/M433K3BZ",
+          "path": "/Users/lkwagner/Zotero/storage/M433K3BZ/Rakib et al_2021_An efficient computational framework for charge density estimation in twisted.pdf",
+          "select": "zotero://select/library/items/M433K3BZ"
+        },
+        {
+          "itemType": "attachment",
+          "title": "ScienceDirect Snapshot",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2023-03-25T18:31:32Z",
+          "dateModified": "2023-03-25T18:31:32Z",
+          "uri": "http://zotero.org/users/1097469/items/Q6RX6DAI",
+          "path": "/Users/lkwagner/Zotero/storage/Q6RX6DAI/S0927025621004730.html",
+          "select": "zotero://select/library/items/Q6RX6DAI"
+        }
+      ],
+      "notes": [],
+      "citationKey": "rakibEfficientComputationalFramework2021",
+      "itemID": 5657,
+      "itemKey": "SEDI5V25",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/SEDI5V25"
+    },
+    {
+      "version": 2901,
+      "itemType": "journalArticle",
+      "title": "Moiré engineering in van der Waals heterostructures",
+      "abstractNote": "Isolated atomic planes can be assembled into a multilayer van der Waals (vdW) heterostructure in a precisely chosen sequence. These heterostructures feature moiré patterns if the constituent 2D material layers are stacked in an incommensurable way, due to a lattice mismatch or twist. This design-by-stacking has opened up the promising area of moiré engineering, a term that can be understood in two different perspectives, namely, (i) structural—engineering a moiré pattern by introducing twist, relative strain, or defects that affect the commensurability of the layers and (ii) functional—exploiting a moiré pattern to find and tune resulting physical properties of a vdW heterostructure. The latter meaning, referring to the application of a moiré pattern, is seen in the literature in the specific context of the observation of correlated electronic states and unconventional superconductivity in twisted bilayer graphene. The former meaning, referring to the design of the moiré pattern itself, is present in the literature but less commonly discussed or less understood. The underlying link between these two perspectives lies in the deformation field of the moiré superlattice. In this Perspective, we describe a path from designing a moiré pattern to employing the moiré pattern to tune physical properties of a vdW heterostructure. We also discuss the concept of moiré engineering in the context of twistronics, strain engineering, and defect engineering in vdW heterostructures. Although twistronics is always associated with moiré superlattices, strain and defect engineering are often not. Here, we demonstrate how strain and defect engineering can be understood within the context of moiré engineering. Adopting this perspective, we note that moiré engineering creates a compelling opportunity to design and develop multiscale electronic devices.",
+      "date": "2022-09-28",
+      "language": "en",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "url": "https://aip.scitation.org/doi/10.1063/5.0105405",
+      "accessDate": "2023-03-25T18:37:11Z",
+      "volume": "132",
+      "pages": "120901",
+      "publicationTitle": "Journal of Applied Physics",
+      "DOI": "10.1063/5.0105405",
+      "issue": "12",
+      "journalAbbreviation": "Journal of Applied Physics",
+      "ISSN": "0021-8979, 1089-7550",
+      "creators": [
+        {
+          "firstName": "Tawfiqur",
+          "lastName": "Rakib",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Pascal",
+          "lastName": "Pochet",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Elif",
+          "lastName": "Ertekin",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Harley T.",
+          "lastName": "Johnson",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2023-03-25T18:37:11Z",
+      "dateModified": "2023-03-25T18:37:11Z",
+      "uri": "http://zotero.org/users/1097469/items/H4H6UBT6",
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Rakib et al_2022_Moiré engineering in van der Waals heterostructures.pdf",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2023-03-25T18:37:12Z",
+          "dateModified": "2023-03-25T18:37:13Z",
+          "uri": "http://zotero.org/users/1097469/items/ES84NKXI",
+          "path": "/Users/lkwagner/Zotero/storage/ES84NKXI/Rakib et al_2022_Moiré engineering in van der Waals heterostructures.pdf",
+          "select": "zotero://select/library/items/ES84NKXI"
+        }
+      ],
+      "notes": [],
+      "citationKey": "rakibMoireEngineeringVan2022a",
+      "itemID": 5679,
+      "itemKey": "H4H6UBT6",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/H4H6UBT6"
+    },
+    {
+      "version": 2912,
+      "itemType": "journalArticle",
+      "title": "Pseudogap effects in the strongly correlated regime of the two-dimensional Fermi gas",
+      "abstractNote": "The two-species Fermi gas with attractive short-range interactions in two spatial dimensions provides a paradigmatic system for the understanding of strongly correlated Fermi superfluids in two dimensions. It is known to exhibit a BEC-BCS crossover as a function of $\\ln(k_F a)$, where $a$ is the scattering length, and to undergo a Berezinskii-Kosterlitz-Thouless superfluid transition below a critical temperature $T_c$. However, the extent of a pseudogap regime in the strongly correlated regime of $\\ln(k_F a)\\sim 1$, in which pairing correlations persist above $T_c$, remains largely unexplored with controlled theoretical methods. Here we use finite-temperature auxiliary-field quantum Monte Carlo (AFMC) methods on discrete lattices in the canonical ensemble formalism to calculate thermodynamical observables in the strongly correlated regime. We extrapolate to continuous time and the continuum limit to eliminate systematic errors and present results for particle numbers ranging from $N=42$ to $N=162$. We estimate $T_c$ by a finite-size scaling analysis, and observe clear pseudogap signatures above $T_c$ and below a temperature $T^*$ in both the spin susceptibility and free-energy gap. We also present results for the contact, a fundamental thermodynamic property of quantum many-body systems with short-range interactions.",
+      "date": "2022",
+      "libraryCatalog": "DOI.org (Datacite)",
+      "url": "https://arxiv.org/abs/2212.14880",
+      "accessDate": "2023-03-25T18:38:37Z",
+      "rights": "Creative Commons Attribution 4.0 International",
+      "extra": "Publisher: arXiv\nVersion Number: 1",
+      "DOI": "10.48550/ARXIV.2212.14880",
+      "creators": [
+        {
+          "firstName": "S.",
+          "lastName": "Ramachandran",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "S.",
+          "lastName": "Jensen",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Y.",
+          "lastName": "Alhassid",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "FOS: Physical sciences",
+          "type": 1
+        },
+        {
+          "tag": "Quantum Gases (cond-mat.quant-gas)",
+          "type": 1
+        },
+        {
+          "tag": "High Energy Physics - Lattice (hep-lat)",
+          "type": 1
+        },
+        {
+          "tag": "Nuclear Theory (nucl-th)",
+          "type": 1
+        },
+        {
+          "tag": "Superconductivity (cond-mat.supr-con)",
+          "type": 1
+        }
+      ],
+      "relations": [],
+      "dateAdded": "2023-03-25T18:38:37Z",
+      "dateModified": "2023-03-25T18:38:37Z",
+      "uri": "http://zotero.org/users/1097469/items/AY6NDMQ8",
+      "attachments": [],
+      "notes": [
+        {
+          "key": "CVRKJTWN",
+          "version": 2912,
+          "itemType": "note",
+          "parentItem": "AY6NDMQ8",
+          "note": "<h2>Other</h2>\n6 pages, 2 figures, and 5 pages, 7 figures of supplemental material",
+          "tags": [],
+          "relations": {},
+          "dateAdded": "2023-03-25T18:38:37Z",
+          "dateModified": "2023-03-25T18:38:37Z",
+          "uri": "http://zotero.org/users/1097469/items/CVRKJTWN"
+        }
+      ],
+      "citationKey": "ramachandranPseudogapEffectsStrongly2022",
+      "itemID": 5693,
+      "itemKey": "AY6NDMQ8",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/AY6NDMQ8"
+    },
+    {
+      "version": 2908,
+      "itemType": "journalArticle",
+      "title": "Insulator-metal quantum phase transition in heavy topological insulators",
+      "abstractNote": "Exponentially localized surface states are the most distinctive property of a crystal with non-trivial band topology. Such surface states play a key role in characterizing topological insulators (TIs), both in theory and experiments. TIs resulting from the hybridization of heavy (or nearly flat) and light (or dispersive) bands are automatically tuned to the vicinity of an insulator-to-metal phase transition (IMT), which is not accompanied by a change in bulk band-topology. By formulating a scaling theory for IMTs in such \"heavy\" TIs, we show that the proximity to an IMT manifests most dramatically in the behavior of the surface states, viz. (i) the strength of spin-orbital locking is strongly suppressed; (ii) the surface conduction and valence bands support vastly different number of states; (iii) the surface states penetrate deep into the bulk and the penetration depth diverges at the IMT point. Thus, the surface states in heavy TIs coexist with bulk scattered states, and may no longer serve as an useful determinant of their bulk band-topology. The mechanism of degradation of surface states discussed here is generic, and expected to hold in both heavy TIs and semimetals.",
+      "date": "2021",
+      "libraryCatalog": "DOI.org (Datacite)",
+      "url": "https://arxiv.org/abs/2110.15353",
+      "accessDate": "2023-03-25T18:38:16Z",
+      "rights": "Creative Commons Attribution 4.0 International",
+      "extra": "Publisher: arXiv\nVersion Number: 1",
+      "DOI": "10.48550/ARXIV.2110.15353",
+      "creators": [
+        {
+          "firstName": "Shouvik",
+          "lastName": "Sur",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Pallab",
+          "lastName": "Goswami",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "FOS: Physical sciences",
+          "type": 1
+        },
+        {
+          "tag": "Strongly Correlated Electrons (cond-mat.str-el)",
+          "type": 1
+        },
+        {
+          "tag": "Materials Science (cond-mat.mtrl-sci)",
+          "type": 1
+        },
+        {
+          "tag": "Mesoscale and Nanoscale Physics (cond-mat.mes-hall)",
+          "type": 1
+        }
+      ],
+      "relations": [],
+      "dateAdded": "2023-03-25T18:38:16Z",
+      "dateModified": "2023-03-25T18:38:16Z",
+      "uri": "http://zotero.org/users/1097469/items/3P9MJR36",
+      "attachments": [],
+      "notes": [
+        {
+          "key": "8F3XVNMI",
+          "version": 2908,
+          "itemType": "note",
+          "parentItem": "3P9MJR36",
+          "note": "<h2>Other</h2>\n6 pages; 4 figures",
+          "tags": [],
+          "relations": {},
+          "dateAdded": "2023-03-25T18:38:16Z",
+          "dateModified": "2023-03-25T18:38:16Z",
+          "uri": "http://zotero.org/users/1097469/items/8F3XVNMI"
+        }
+      ],
+      "citationKey": "surInsulatormetalQuantumPhase2021",
+      "itemID": 5686,
+      "itemKey": "3P9MJR36",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/3P9MJR36"
+    },
+    {
+      "version": 2909,
+      "itemType": "journalArticle",
+      "title": "Mixed-order topology of Benalcazar-Bernevig-Hughes models",
+      "abstractNote": "Benalcazar-Bernevig-Hughes (BBH) models, defined on $D$-dimensional simple cubic lattice, are paradigmatic toy models for studying $D$-th order topology and corner-localized, mid-gap states. Under periodic boundary conditions, the Wilson loops of non-Abelian Berry connection of BBH models along all high-symmetry axes have been argued to exhibit gapped spectra, which predict gapped surface-states under open boundary conditions. In this work, we identify 1D, 2D, and 3D topological invariants for characterizing higher order topological insulators. Further, we demonstrate the existence of cubic-symmetry-protected, gapless spectra of Wilson loops and surface-states along the body diagonal directions of the Brillouin zone of BBH models. We show the gapless surface-states are described by $2^{D-1}$-component, massless Dirac fermions. Thus, BBH models can exhibit the signatures of first and $D$-th order topological insulators, depending on the details of externally imposed boundary conditions.",
+      "date": "2022",
+      "libraryCatalog": "DOI.org (Datacite)",
+      "url": "https://arxiv.org/abs/2201.07205",
+      "accessDate": "2023-03-25T18:38:23Z",
+      "rights": "Creative Commons Attribution Non Commercial Share Alike 4.0 International",
+      "extra": "Publisher: arXiv\nVersion Number: 2",
+      "DOI": "10.48550/ARXIV.2201.07205",
+      "creators": [
+        {
+          "firstName": "Shouvik",
+          "lastName": "Sur",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Alexander C.",
+          "lastName": "Tyner",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Pallab",
+          "lastName": "Goswami",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "FOS: Physical sciences",
+          "type": 1
+        },
+        {
+          "tag": "Strongly Correlated Electrons (cond-mat.str-el)",
+          "type": 1
+        },
+        {
+          "tag": "Materials Science (cond-mat.mtrl-sci)",
+          "type": 1
+        },
+        {
+          "tag": "Mesoscale and Nanoscale Physics (cond-mat.mes-hall)",
+          "type": 1
+        }
+      ],
+      "relations": [],
+      "dateAdded": "2023-03-25T18:38:23Z",
+      "dateModified": "2023-03-25T18:38:23Z",
+      "uri": "http://zotero.org/users/1097469/items/ZP9HSYVZ",
+      "attachments": [],
+      "notes": [
+        {
+          "key": "UIAVX5MV",
+          "version": 2909,
+          "itemType": "note",
+          "parentItem": "ZP9HSYVZ",
+          "note": "<h2>Other</h2>\n13 pages; 7 figures. (v2) added discussions on 3D invariant, observables, and non-BBH class models; new figures; updated reference list; abstract updated accordingly",
+          "tags": [],
+          "relations": {},
+          "dateAdded": "2023-03-25T18:38:23Z",
+          "dateModified": "2023-03-25T18:38:23Z",
+          "uri": "http://zotero.org/users/1097469/items/UIAVX5MV"
+        }
+      ],
+      "citationKey": "surMixedorderTopologyBenalcazarBernevigHughes2022",
+      "itemID": 5689,
+      "itemKey": "ZP9HSYVZ",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/ZP9HSYVZ"
+    },
+    {
+      "version": 2906,
+      "itemType": "journalArticle",
+      "title": "Multi-criticality and field induced non-BEC transition in frustrated magnets",
+      "abstractNote": "Frustrated spin-systems have traditionally proven challenging to understand, owing to a scarcity of controlled methods for their analyses. By contrast, under strong magnetic fields, certain aspects of spin systems admit simpler and universal description in terms of hardcore bosons. The bosonic formalism is anchored by the phenomenon of Bose-Einstein condensation (BEC), which has helped explain the behaviors of a wide range of magnetic compounds under applied magnetic fields. Here, we focus on the interplay between frustration and externally applied magnetic field to identify instances where the BEC paradigm is no longer applicable. As a representative example, we consider the antiferromagnetic $J_1 - J_2 - J_3$ model on the square lattice in the presence of a uniform external magnetic field, and demonstrate that the frustration-driven suppression of the Néel order leads to a Lifshitz transition for the hardcore bosons. In the vicinity of the Lifshitz point, the physics becomes unmoored from the BEC paradigm, and the behavior of the system, both at and below the saturation field, is controlled by a Lifshitz multicritical point. We obtain the resultant universal scaling behaviors, and provide strong evidence for the existence of a frustration and magnetic-field driven correlated bosonic liquid state along the entire phase boundary separating the Néel phase from other magnetically ordered states.",
+      "date": "2022",
+      "libraryCatalog": "DOI.org (Datacite)",
+      "url": "https://arxiv.org/abs/2211.05771",
+      "accessDate": "2023-03-25T18:37:38Z",
+      "rights": "Creative Commons Attribution Non Commercial Share Alike 4.0 International",
+      "extra": "Publisher: arXiv\nVersion Number: 1",
+      "DOI": "10.48550/ARXIV.2211.05771",
+      "creators": [
+        {
+          "firstName": "Shouvik",
+          "lastName": "Sur",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Yi",
+          "lastName": "Xu",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Shuyi",
+          "lastName": "Li",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Shou-Shu",
+          "lastName": "Gong",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Andriy H.",
+          "lastName": "Nevidomskyy",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "FOS: Physical sciences",
+          "type": 1
+        },
+        {
+          "tag": "Quantum Gases (cond-mat.quant-gas)",
+          "type": 1
+        },
+        {
+          "tag": "Strongly Correlated Electrons (cond-mat.str-el)",
+          "type": 1
+        }
+      ],
+      "relations": [],
+      "dateAdded": "2023-03-25T18:37:38Z",
+      "dateModified": "2023-03-25T18:37:38Z",
+      "uri": "http://zotero.org/users/1097469/items/2N3S8K7L",
+      "attachments": [],
+      "notes": [
+        {
+          "key": "IDLXSX9A",
+          "version": 2906,
+          "itemType": "note",
+          "parentItem": "2N3S8K7L",
+          "note": "<h2>Other</h2>\n6 pages; 5 figures",
+          "tags": [],
+          "relations": {},
+          "dateAdded": "2023-03-25T18:37:38Z",
+          "dateModified": "2023-03-25T18:37:38Z",
+          "uri": "http://zotero.org/users/1097469/items/IDLXSX9A"
+        }
+      ],
+      "citationKey": "surMulticriticalityFieldInduced2022",
+      "itemID": 5683,
+      "itemKey": "2N3S8K7L",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/2N3S8K7L"
+    },
+    {
+      "version": 2911,
+      "itemType": "journalArticle",
+      "title": "Dipolar Weyl semimetals",
+      "abstractNote": "In time-reversal symmetry-broken Weyl semimetals, Weyl points act as monopoles and antimonopoles of the Berry curvature, with a monopole-antimonopole pair producing a net zero Berry flux. The two-dimensional (2D) planes that separate a monopole-antimonopole pair of Weyl points carry quantized Berry flux. In this work, we introduce a class of symmetry-protected Weyl semimetals which host monopole-antimonopole pairs of Weyl points that generate a quantized dipolar Berry flux. Consequently, topologically distinct 2D planes coexist in the Brillouin zone, carrying either quantized monopolar or dipolar flux. We construct a topological invariant -- the staggered Chern number -- to measure the quantized dipolar flux and employ it to topologically distinguish between various Weyl points. Finally, through a minimal two-band model, we investigate physical signatures of bulk topology, including surface Fermi arcs, zero-energy hinge states, and response to insertion of a $π$-flux vortex.",
+      "date": "2022",
+      "libraryCatalog": "DOI.org (Datacite)",
+      "url": "https://arxiv.org/abs/2212.07404",
+      "accessDate": "2023-03-25T18:38:30Z",
+      "rights": "Creative Commons Attribution Non Commercial Share Alike 4.0 International",
+      "extra": "Publisher: arXiv\nVersion Number: 1",
+      "DOI": "10.48550/ARXIV.2212.07404",
+      "creators": [
+        {
+          "firstName": "Alexander C.",
+          "lastName": "Tyner",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Shouvik",
+          "lastName": "Sur",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "FOS: Physical sciences",
+          "type": 1
+        },
+        {
+          "tag": "Strongly Correlated Electrons (cond-mat.str-el)",
+          "type": 1
+        },
+        {
+          "tag": "Materials Science (cond-mat.mtrl-sci)",
+          "type": 1
+        },
+        {
+          "tag": "Mesoscale and Nanoscale Physics (cond-mat.mes-hall)",
+          "type": 1
+        }
+      ],
+      "relations": [],
+      "dateAdded": "2023-03-25T18:38:30Z",
+      "dateModified": "2023-03-25T18:38:30Z",
+      "uri": "http://zotero.org/users/1097469/items/SRBSLST2",
+      "attachments": [],
+      "notes": [
+        {
+          "key": "D32844US",
+          "version": 2911,
+          "itemType": "note",
+          "parentItem": "SRBSLST2",
+          "note": "<h2>Other</h2>\n5+4 pages; 4+3 figures",
+          "tags": [],
+          "relations": {},
+          "dateAdded": "2023-03-25T18:38:30Z",
+          "dateModified": "2023-03-25T18:38:30Z",
+          "uri": "http://zotero.org/users/1097469/items/D32844US"
+        }
+      ],
+      "citationKey": "tynerDipolarWeylSemimetals2022",
+      "itemID": 5691,
+      "itemKey": "SRBSLST2",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/SRBSLST2"
+    },
+    {
+      "version": 2896,
+      "itemType": "journalArticle",
+      "title": "PyQMC : An all-Python real-space quantum Monte Carlo module in PySCF",
+      "abstractNote": "We describe a new open-source Python-based package for high accuracy correlated electron calculations using quantum Monte Carlo (QMC) in real space: PyQMC. PyQMC implements modern versions of QMC algorithms in an accessible format, enabling algorithmic development and easy implementation of complex workflows. Tight integration with the PySCF environment allows for a simple comparison between QMC calculations and other many-body wave function techniques, as well as access to high accuracy trial wave functions.",
+      "date": "2023-03-21",
+      "language": "en",
+      "shortTitle": "PyQMC",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "url": "https://aip.scitation.org/doi/10.1063/5.0139024",
+      "accessDate": "2023-03-25T18:35:14Z",
+      "volume": "158",
+      "pages": "114801",
+      "publicationTitle": "The Journal of Chemical Physics",
+      "DOI": "10.1063/5.0139024",
+      "issue": "11",
+      "journalAbbreviation": "J. Chem. Phys.",
+      "ISSN": "0021-9606, 1089-7690",
+      "creators": [
+        {
+          "firstName": "William A.",
+          "lastName": "Wheeler",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Shivesh",
+          "lastName": "Pathak",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Kevin G.",
+          "lastName": "Kleiner",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Shunyue",
+          "lastName": "Yuan",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "João N. B.",
+          "lastName": "Rodrigues",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Cooper",
+          "lastName": "Lorsung",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Kittithat",
+          "lastName": "Krongchon",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Yueqing",
+          "lastName": "Chang",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Yiqing",
+          "lastName": "Zhou",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Brian",
+          "lastName": "Busemeyer",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Kiel T.",
+          "lastName": "Williams",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Alexander",
+          "lastName": "Muñoz",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Chun Yu",
+          "lastName": "Chow",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Lucas K.",
+          "lastName": "Wagner",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2023-03-25T18:35:14Z",
+      "dateModified": "2023-03-25T18:35:14Z",
+      "uri": "http://zotero.org/users/1097469/items/KBFIRDTZ",
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Wheeler et al_2023_PyQMC.pdf",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2023-03-25T18:35:16Z",
+          "dateModified": "2023-03-25T18:35:17Z",
+          "uri": "http://zotero.org/users/1097469/items/46WB7QKF",
+          "path": "/Users/lkwagner/Zotero/storage/46WB7QKF/Wheeler et al_2023_PyQMC.pdf",
+          "select": "zotero://select/library/items/46WB7QKF"
+        }
+      ],
+      "notes": [],
+      "citationKey": "wheelerPyQMCAllPythonRealspace2023a",
+      "itemID": 5674,
+      "itemKey": "KBFIRDTZ",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/KBFIRDTZ"
+    },
+    {
+      "version": 2883,
+      "itemType": "journalArticle",
+      "title": "Quantification of electron correlation for approximate quantum calculations",
+      "date": "2022-11-21",
+      "libraryCatalog": "aip.scitation.org (Atypon)",
+      "url": "https://aip.scitation.org/doi/10.1063/5.0119260",
+      "accessDate": "2023-03-25T18:32:43Z",
+      "extra": "Publisher: American Institute of Physics",
+      "volume": "157",
+      "pages": "194101",
+      "publicationTitle": "The Journal of Chemical Physics",
+      "DOI": "10.1063/5.0119260",
+      "issue": "19",
+      "journalAbbreviation": "J. Chem. Phys.",
+      "ISSN": "0021-9606",
+      "creators": [
+        {
+          "firstName": "Shunyue",
+          "lastName": "Yuan",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Yueqing",
+          "lastName": "Chang",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Lucas K.",
+          "lastName": "Wagner",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2023-03-25T18:32:43Z",
+      "dateModified": "2023-03-25T18:32:43Z",
+      "uri": "http://zotero.org/users/1097469/items/HM8FP9YS",
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Yuan et al_2022_Quantification of electron correlation for approximate quantum calculations.pdf",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2023-03-25T18:32:46Z",
+          "dateModified": "2023-03-25T18:32:46Z",
+          "uri": "http://zotero.org/users/1097469/items/T63GDQNW",
+          "path": "/Users/lkwagner/Zotero/storage/T63GDQNW/Yuan et al_2022_Quantification of electron correlation for approximate quantum calculations.pdf",
+          "select": "zotero://select/library/items/T63GDQNW"
+        }
+      ],
+      "notes": [],
+      "citationKey": "yuanQuantificationElectronCorrelation2022b",
+      "itemID": 5669,
+      "itemKey": "HM8FP9YS",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/HM8FP9YS"
+    }
+  ]
+}
