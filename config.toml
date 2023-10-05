@@ -1,4 +1,4 @@
-baseURL = "http://qmc-hamm.physics.illinois.edu"
+baseURL = "http://qmc-hamm.github.io"
 languageCode = "en-us"
 title = "QMC-HAMM research group"
 theme = "hugo-theme-techdoc"
