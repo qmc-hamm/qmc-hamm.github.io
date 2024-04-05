@@ -22,7 +22,7 @@ for i in bibdb['items']:
 
 import pandas as pd
 df=pd.DataFrame(df)
-df['datetime'] = pd.to_datetime(df['date'])
+df['datetime'] = pd.to_datetime(df['date'], exact=False, errors='coerce')
 
 df=df.sort_values("datetime",ascending=False)
 df['year'] = [x.year for  x in df['datetime']]
