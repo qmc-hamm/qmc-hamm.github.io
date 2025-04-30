@@ -4,18 +4,21 @@
     "label": "BetterBibTeX JSON",
     "preferences": {},
     "options": {
-      "exportNotes": true,
-      "exportFileData": false,
       "Items": true,
+      "Normalize": false,
       "Preferences": false,
+      "cache": true,
+      "exportDir": "/Users/lkwagner/work/qmc_hamm/qmc-hamm.github.io/content/papers",
+      "exportFileData": false,
+      "exportNotes": true,
+      "exportPath": "/Users/lkwagner/work/qmc_hamm/qmc-hamm.github.io/content/papers/my_papers.json",
       "keepUpdated": false,
-      "worker": false,
-      "Normalize": false
+      "worker": false
     }
   },
   "version": {
     "zotero": "6.0.37",
-    "bbt": "6.7.173"
+    "bbt": "6.7.263"
   },
   "collections": {},
   "items": [
@@ -23,7 +26,7 @@
       "version": 2880,
       "itemType": "journalArticle",
       "title": "Revisiting the dark matter interpretation of excess rates in semiconductors",
-      "abstractNote": "In light of recent results from low-threshold dark matter detectors, we revisit the possibility of a common dark matter origin for multiple excesses across numerous direct detection experiments, with a focus on the excess rates in semiconductor detectors. We explore the interpretation of the low-threshold calorimetric excess rates above 40 eV in the silicon SuperCDMS Cryogenic Phonon Detector and above 100 eV in the germanium EDELWEISS Surface detector as arising from a common but unknown origin, and demonstrate a compatible fit for the observed energy spectra in both experiments, which follow a power law of index \u03b1=3.43+0.11\u22120.06. Despite the intriguing scaling of the normalization of these two excess rates with approximately the square of the mass number A2, we argue that the possibility of common origin by dark matter scattering via nuclear recoils is strongly disfavored, even allowing for exotic condensed matter effects in an as-yet unmeasured kinematic regime, due to the unphysically large dark matter velocity required to give comparable rates in the different energy ranges of the silicon and germanium excesses. We also investigate the possibility of inelastic nuclear scattering by cosmic ray neutrons, solar neutrinos, and photons as the origin, and quantitatively disfavor all three based on known fluxes of particles.",
+      "abstractNote": "In light of recent results from low-threshold dark matter detectors, we revisit the possibility of a common dark matter origin for multiple excesses across numerous direct detection experiments, with a focus on the excess rates in semiconductor detectors. We explore the interpretation of the low-threshold calorimetric excess rates above 40 eV in the silicon SuperCDMS Cryogenic Phonon Detector and above 100 eV in the germanium EDELWEISS Surface detector as arising from a common but unknown origin, and demonstrate a compatible fit for the observed energy spectra in both experiments, which follow a power law of index α=3.43+0.11−0.06. Despite the intriguing scaling of the normalization of these two excess rates with approximately the square of the mass number A2, we argue that the possibility of common origin by dark matter scattering via nuclear recoils is strongly disfavored, even allowing for exotic condensed matter effects in an as-yet unmeasured kinematic regime, due to the unphysically large dark matter velocity required to give comparable rates in the different energy ranges of the silicon and germanium excesses. We also investigate the possibility of inelastic nuclear scattering by cosmic ray neutrons, solar neutrinos, and photons as the origin, and quantitatively disfavor all three based on known fluxes of particles.",
       "date": "2022-06-01",
       "libraryCatalog": "APS",
       "url": "https://link.aps.org/doi/10.1103/PhysRevD.105.123002",
@@ -98,61 +101,10 @@
       "select": "zotero://select/library/items/6SUJZL64"
     },
     {
-      "version": 3370,
-      "itemType": "journalArticle",
-      "title": "Shear-coupling of graphene grain boundaries: Elementary mechanisms, effects of topology, and role of buckling",
-      "date": "2023-01-01",
-      "language": "en",
-      "shortTitle": "Shear-coupling of graphene grain boundaries",
-      "libraryCatalog": "DOI.org (Crossref)",
-      "url": "https://linkinghub.elsevier.com/retrieve/pii/S1359645422008655",
-      "accessDate": "2023-03-25T18:35:52Z",
-      "volume": "244",
-      "pages": "118488",
-      "publicationTitle": "Acta Materialia",
-      "DOI": "10.1016/j.actamat.2022.118488",
-      "journalAbbreviation": "Acta Materialia",
-      "ISSN": "13596454",
-      "creators": [
-        {
-          "firstName": "Emil",
-          "lastName": "Annevelink",
-          "creatorType": "author"
-        },
-        {
-          "firstName": "Brian",
-          "lastName": "Xu",
-          "creatorType": "author"
-        },
-        {
-          "firstName": "Harley T.",
-          "lastName": "Johnson",
-          "creatorType": "author"
-        },
-        {
-          "firstName": "Elif",
-          "lastName": "Ertekin",
-          "creatorType": "author"
-        }
-      ],
-      "tags": [],
-      "relations": {},
-      "dateAdded": "2023-03-25T18:35:52Z",
-      "dateModified": "2024-04-05T14:44:53Z",
-      "uri": "http://zotero.org/users/1097469/items/5PL9ZRZR",
-      "attachments": [],
-      "notes": [],
-      "citationKey": "annevelinkShearcouplingGrapheneGrain2023",
-      "itemID": 5676,
-      "itemKey": "5PL9ZRZR",
-      "libraryID": 1,
-      "select": "zotero://select/library/items/5PL9ZRZR"
-    },
-    {
       "version": 2862,
       "itemType": "journalArticle",
       "title": "Topologically derived dislocation theory for twist and stretch moir\\'e superlattices in bilayer graphene",
-      "abstractNote": "We develop a continuum dislocation description of twist and stretch moir\u00e9 superlattices in two-dimensional material bilayers. The continuum formulation is based on the topological constraints introduced by the periodic dislocation network associated with the moir\u00e9 structure. The approach is based on solving analytically for the structural distortion and displacement fields that satisfy the topological constraints and that minimize the total energy. The total energy is described by both the strain energy of each individual distorted layer and a Peierls-Nabarro-like interfacial contribution arising from stacking disregistry. The dislocation core emerges naturally within the formalism as a result of the competition between the two contributions. The approach presented here captures the structure and energetics of twist and stretch moir\u00e9 superlattices of dislocations with arbitrary direction and character, without assuming an analytical solution a priori and while accounting naturally for dislocation-dislocation image interactions. In comparisons to atomistic simulations using classical potentials, the maximum structure deviation is 6%, while the maximum line energy deviation is 0.019 eV/\u00c5. Several applications of our model are shown, including predicting the variation of structure with twist angle and describing dislocation line tension and junction energies.",
+      "abstractNote": "We develop a continuum dislocation description of twist and stretch moiré superlattices in two-dimensional material bilayers. The continuum formulation is based on the topological constraints introduced by the periodic dislocation network associated with the moiré structure. The approach is based on solving analytically for the structural distortion and displacement fields that satisfy the topological constraints and that minimize the total energy. The total energy is described by both the strain energy of each individual distorted layer and a Peierls-Nabarro-like interfacial contribution arising from stacking disregistry. The dislocation core emerges naturally within the formalism as a result of the competition between the two contributions. The approach presented here captures the structure and energetics of twist and stretch moiré superlattices of dislocations with arbitrary direction and character, without assuming an analytical solution a priori and while accounting naturally for dislocation-dislocation image interactions. In comparisons to atomistic simulations using classical potentials, the maximum structure deviation is 6%, while the maximum line energy deviation is 0.019 eV/Å. Several applications of our model are shown, including predicting the variation of structure with twist angle and describing dislocation line tension and junction energies.",
       "date": "2020-11-12",
       "libraryCatalog": "APS",
       "url": "https://link.aps.org/doi/10.1103/PhysRevB.102.184107",
@@ -293,19 +245,25 @@
       "select": "zotero://select/library/items/VA26GSAI"
     },
     {
-      "version": 3313,
-      "itemType": "preprint",
-      "title": "Downfolding from Ab Initio to Interacting Model Hamiltonians: Comprehensive Analysis and Benchmarking",
-      "abstractNote": "Model Hamiltonians are regularly derived from first-principles data to describe correlated matter. However, the standard methods for this contain a number of largely unexplored approximations. For a strongly correlated impurity model system, here we carefully compare standard downfolding techniques with the best-possible ground-truth estimates for charge-neutral excited state energies and charge densities using state-of-the-art first-principles many-body wave function approaches. To this end, we use the vanadocene molecule and analyze all downfolding aspects, including the Hamiltonian form, target basis, double counting correction, and Coulomb interaction screening models. We find that the choice of target-space basis functions emerges as a key factor for the quality of the downfolded results, while orbital-dependent double counting correction diminishes the quality. Background screening to the Coulomb interaction matrix elements primarily affects crystal-field excitations. Our benchmark uncovers the relative importance of each downfolding step and offers insights into the potential accuracy of minimal downfolded model Hamiltonians.",
-      "date": "2023-11-10",
-      "shortTitle": "Downfolding from Ab Initio to Interacting Model Hamiltonians",
-      "libraryCatalog": "arXiv.org",
-      "url": "http://arxiv.org/abs/2311.05987",
-      "accessDate": "2024-02-28T18:58:30Z",
-      "extra": "arXiv:2311.05987 [cond-mat]",
-      "DOI": "10.48550/arXiv.2311.05987",
-      "repository": "arXiv",
-      "archiveID": "arXiv:2311.05987",
+      "version": 3906,
+      "itemType": "journalArticle",
+      "title": "Downfolding from ab initio to interacting model Hamiltonians: comprehensive analysis and benchmarking of the DFT+cRPA approach",
+      "abstractNote": "Model Hamiltonians are regularly derived from first principles to describe correlated matter. However, the standard methods for this contain a number of largely unexplored approximations. For a strongly correlated impurity model system, here we carefully compare a standard downfolding technique with the best possible ground-truth estimates for charge-neutral excited-state energies and wave functions using state-of-the-art first-principles many-body wave function approaches. To this end, we use the vanadocene molecule and analyze all downfolding aspects, including the Hamiltonian form, target basis, double-counting correction, and Coulomb interaction screening models. We find that the choice of target-space basis functions emerges as a key factor for the quality of the downfolded results, while orbital-dependent double-counting corrections diminish the quality. Background screening of the Coulomb interaction matrix elements primarily affects crystal-field excitations. Our benchmark uncovers the relative importance of each downfolding step and offers insights into the potential accuracy of minimal downfolded model Hamiltonians.",
+      "date": "2024-06-21",
+      "language": "en",
+      "shortTitle": "Downfolding from ab initio to interacting model Hamiltonians",
+      "libraryCatalog": "www.nature.com",
+      "url": "https://www.nature.com/articles/s41524-024-01314-6",
+      "accessDate": "2025-04-18T16:45:45Z",
+      "rights": "2024 The Author(s)",
+      "extra": "Publisher: Nature Publishing Group",
+      "volume": "10",
+      "pages": "1-12",
+      "publicationTitle": "npj Computational Materials",
+      "DOI": "10.1038/s41524-024-01314-6",
+      "issue": "1",
+      "journalAbbreviation": "npj Comput Mater",
+      "ISSN": "2057-3960",
       "creators": [
         {
           "firstName": "Yueqing",
@@ -359,81 +317,82 @@
         },
         {
           "firstName": "Malte",
-          "lastName": "R\u00f6sner",
+          "lastName": "Rösner",
           "creatorType": "author"
         }
       ],
       "tags": [
         {
-          "tag": "Condensed Matter - Strongly Correlated Electrons",
+          "tag": "Electronic properties and materials",
+          "type": 1
+        },
+        {
+          "tag": "Magnetic properties and materials",
+          "type": 1
+        },
+        {
+          "tag": "Computational methods",
+          "type": 1
+        },
+        {
+          "tag": "Electronic structure",
+          "type": 1
+        },
+        {
+          "tag": "Molecular electronics",
           "type": 1
         }
       ],
       "relations": {},
-      "dateAdded": "2024-02-28T18:58:31Z",
-      "dateModified": "2024-02-28T18:58:31Z",
-      "uri": "http://zotero.org/users/1097469/items/9JY4GFMC",
+      "dateAdded": "2025-04-18T16:45:45Z",
+      "dateModified": "2025-04-18T16:45:45Z",
+      "uri": "http://zotero.org/users/1097469/items/FI9QT58Q",
       "attachments": [
         {
           "itemType": "attachment",
-          "title": "arXiv.org Snapshot",
+          "title": "Chang et al_2024_Downfolding from ab initio to interacting model Hamiltonians.pdf",
           "tags": [],
           "relations": {},
-          "dateAdded": "2024-02-28T18:58:37Z",
-          "dateModified": "2024-02-28T18:58:37Z",
-          "uri": "http://zotero.org/users/1097469/items/453GUU4U",
-          "path": "/Users/lkwagner/Zotero/storage/453GUU4U/2311.html",
-          "select": "zotero://select/library/items/453GUU4U"
-        },
-        {
-          "itemType": "attachment",
-          "title": "Chang et al_2023_Downfolding from Ab Initio to Interacting Model Hamiltonians.pdf",
-          "tags": [],
-          "relations": {},
-          "dateAdded": "2024-02-28T18:58:32Z",
-          "dateModified": "2024-02-28T18:58:33Z",
-          "uri": "http://zotero.org/users/1097469/items/4PQM8482",
-          "path": "/Users/lkwagner/Zotero/storage/4PQM8482/Chang et al_2023_Downfolding from Ab Initio to Interacting Model Hamiltonians.pdf",
-          "select": "zotero://select/library/items/4PQM8482"
+          "dateAdded": "2025-04-18T16:45:48Z",
+          "dateModified": "2025-04-18T16:45:48Z",
+          "uri": "http://zotero.org/users/1097469/items/YUXIZRER",
+          "path": "/Users/lkwagner/Zotero/storage/YUXIZRER/Chang et al_2024_Downfolding from ab initio to interacting model Hamiltonians.pdf",
+          "select": "zotero://select/library/items/YUXIZRER"
         }
       ],
-      "notes": [
-        {
-          "key": "YL93AQ6H",
-          "version": 3313,
-          "itemType": "note",
-          "parentItem": "9JY4GFMC",
-          "note": "Comment: 15 pages (+8 pages Supplemental Material), 8 figures",
-          "tags": [],
-          "relations": {},
-          "dateAdded": "2024-02-28T18:58:31Z",
-          "dateModified": "2024-02-28T18:58:31Z",
-          "uri": "http://zotero.org/users/1097469/items/YL93AQ6H"
-        }
-      ],
-      "citationKey": "changDownfoldingInitioInteracting2023",
-      "itemID": 5825,
-      "itemKey": "9JY4GFMC",
+      "notes": [],
+      "citationKey": "changDownfoldingInitioInteracting2024a",
+      "itemID": 6048,
+      "itemKey": "FI9QT58Q",
       "libraryID": 1,
-      "select": "zotero://select/library/items/9JY4GFMC"
+      "select": "zotero://select/library/items/FI9QT58Q"
     },
     {
-      "version": 2894,
-      "itemType": "preprint",
-      "title": "Learning emergent models from $\\textit{ab initio}$ many-body calculations",
-      "abstractNote": "A crucial step for understanding emergent physics of correlated systems is determining whether a particular model is emergent from ultraviolet physics. So far, a systematic way of detecting emergent behavior from $\\textit{ab initio}$ calculations has yet to be available in the state-of-the-art model derivation procedures. In this study, we propose that low-energy emergent physics forms disjoint clusters in an extended descriptor space beyond just energy cutoffs. Working from highly-accurate many-body quantum Monte Carlo calculations of the $\\textit{ab initio}$ hydrogen chains, we show that a cluster-based classification algorithm can detect a Heisenberg-like emergent subspace using a set of descriptors of the energy eigenstates.",
-      "date": "2023-02-06",
-      "libraryCatalog": "arXiv.org",
-      "url": "http://arxiv.org/abs/2302.02899",
-      "accessDate": "2023-02-13T20:40:51Z",
-      "extra": "arXiv:2302.02899 [cond-mat]",
-      "DOI": "10.48550/arXiv.2302.02899",
-      "repository": "arXiv",
-      "archiveID": "arXiv:2302.02899",
+      "version": 3908,
+      "itemType": "journalArticle",
+      "title": "Renormalized density matrix downfolding: A rigorous framework in learning emergent models from ab initio many-body calculations",
+      "abstractNote": "We present a generalized framework, renormalized density matrix downfolding (RDMD), to derive systematically improvable, highly accurate, and nonperturbative effective models from ab initio calculations. This framework moves beyond the common role of ab initio calculations as calculating the parameters of a proposed Hamiltonian. Instead, RDMD provides the capability to decide whether a given effective Hilbert space can be identified from the ab initio data and assess the relative quality of ansatz Hamiltonians. Any method of ab initio solution can be used as a data source, and as the ab initio solutions improve, the resultant model also improves. We demonstrate the framework in an application to the downfolding of a hydrogen chain to a spin model, in which we find the interatomic separations for which a nonperturbative mapping can be made even in the strong coupling regime where standard methods fail, and compute a renormalized spin model Hamiltonian that quantitatively reproduces the ab initio dynamics.",
+      "date": "2024-11-04",
+      "shortTitle": "Renormalized density matrix downfolding",
+      "libraryCatalog": "APS",
+      "url": "https://link.aps.org/doi/10.1103/PhysRevB.110.195103",
+      "accessDate": "2025-04-18T16:46:16Z",
+      "extra": "Publisher: American Physical Society",
+      "volume": "110",
+      "pages": "195103",
+      "publicationTitle": "Physical Review B",
+      "DOI": "10.1103/PhysRevB.110.195103",
+      "issue": "19",
+      "journalAbbreviation": "Phys. Rev. B",
       "creators": [
         {
           "firstName": "Yueqing",
           "lastName": "Chang",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Sonali",
+          "lastName": "Joshi",
           "creatorType": "author"
         },
         {
@@ -442,69 +401,110 @@
           "creatorType": "author"
         }
       ],
-      "tags": [
-        {
-          "tag": "Condensed Matter - Materials Science",
-          "type": 1
-        },
-        {
-          "tag": "Condensed Matter - Strongly Correlated Electrons",
-          "type": 1
-        }
-      ],
+      "tags": [],
       "relations": {},
-      "dateAdded": "2023-02-13T20:40:52Z",
-      "dateModified": "2023-02-13T20:40:52Z",
-      "uri": "http://zotero.org/users/1097469/items/MZG77AWQ",
+      "dateAdded": "2025-04-18T16:46:16Z",
+      "dateModified": "2025-04-18T16:46:16Z",
+      "uri": "http://zotero.org/users/1097469/items/SEJ3B8VG",
       "attachments": [
         {
           "itemType": "attachment",
-          "title": "arXiv.org Snapshot",
+          "title": "APS Snapshot",
           "tags": [],
           "relations": {},
-          "dateAdded": "2023-02-13T20:41:00Z",
-          "dateModified": "2023-02-13T20:41:00Z",
-          "uri": "http://zotero.org/users/1097469/items/BEYAUVDX",
-          "path": "/Users/lkwagner/Zotero/storage/BEYAUVDX/2302.html",
-          "select": "zotero://select/library/items/BEYAUVDX"
+          "dateAdded": "2025-04-18T16:46:23Z",
+          "dateModified": "2025-04-18T16:46:23Z",
+          "uri": "http://zotero.org/users/1097469/items/45N2FRBV",
+          "path": "/Users/lkwagner/Zotero/storage/45N2FRBV/PhysRevB.110.html",
+          "select": "zotero://select/library/items/45N2FRBV"
         },
         {
           "itemType": "attachment",
-          "title": "Chang_Wagner_2023_Learning emergent models from $-textit{ab initio}$ many-body calculations.pdf",
+          "title": "Chang et al_2024_Renormalized density matrix downfolding.pdf",
           "tags": [],
           "relations": {},
-          "dateAdded": "2023-02-13T20:40:54Z",
-          "dateModified": "2023-02-13T20:40:54Z",
-          "uri": "http://zotero.org/users/1097469/items/C24P3ITT",
-          "path": "/Users/lkwagner/Zotero/storage/C24P3ITT/Chang_Wagner_2023_Learning emergent models from $-textit{ab initio}$ many-body calculations.pdf",
-          "select": "zotero://select/library/items/C24P3ITT"
+          "dateAdded": "2025-04-18T16:46:18Z",
+          "dateModified": "2025-04-18T16:46:18Z",
+          "uri": "http://zotero.org/users/1097469/items/VYMAKRJA",
+          "path": "/Users/lkwagner/Zotero/storage/VYMAKRJA/Chang et al_2024_Renormalized density matrix downfolding.pdf",
+          "select": "zotero://select/library/items/VYMAKRJA"
         }
       ],
-      "notes": [
-        {
-          "key": "3GAA5IYP",
-          "version": 2823,
-          "itemType": "note",
-          "parentItem": "MZG77AWQ",
-          "note": "Comment: 7 pages, 5 figures; includes Supplementary Material (11 pages, 8 figures)",
-          "tags": [],
-          "relations": {},
-          "dateAdded": "2023-02-13T20:40:52Z",
-          "dateModified": "2023-02-13T20:40:52Z",
-          "uri": "http://zotero.org/users/1097469/items/3GAA5IYP"
-        }
-      ],
-      "citationKey": "changLearningEmergentModels2023",
-      "itemID": 5619,
-      "itemKey": "MZG77AWQ",
+      "notes": [],
+      "citationKey": "changRenormalizedDensityMatrix2024a",
+      "itemID": 6050,
+      "itemKey": "SEJ3B8VG",
       "libraryID": 1,
-      "select": "zotero://select/library/items/MZG77AWQ"
+      "select": "zotero://select/library/items/SEJ3B8VG"
+    },
+    {
+      "version": 3901,
+      "itemType": "journalArticle",
+      "title": "Electronic excitation spectra of molecular hydrogen in phase I from quantum Monte Carlo and many-body perturbation methods",
+      "abstractNote": "We study the electronic excitation spectra in solid molecular hydrogen (phase I) at ambient temperature and 5- to 90-GPa pressures using quantum Monte Carlo methods and many-body perturbation theory. In this range, the system changes from a wide-gap molecular insulator to a semiconductor, altering the nature of the excitations from localized to delocalized. Computed gaps and spectra agree with experiments, proving the ability to predict accurately band gaps of many-body systems in the presence of nuclear quantum and thermal effects.",
+      "date": "2024-06-11",
+      "libraryCatalog": "APS",
+      "url": "https://link.aps.org/doi/10.1103/PhysRevB.109.L241111",
+      "accessDate": "2025-04-18T16:43:13Z",
+      "extra": "Publisher: American Physical Society",
+      "volume": "109",
+      "pages": "L241111",
+      "publicationTitle": "Physical Review B",
+      "DOI": "10.1103/PhysRevB.109.L241111",
+      "issue": "24",
+      "journalAbbreviation": "Phys. Rev. B",
+      "creators": [
+        {
+          "firstName": "Vitaly",
+          "lastName": "Gorelov",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Markus",
+          "lastName": "Holzmann",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "David M.",
+          "lastName": "Ceperley",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Carlo",
+          "lastName": "Pierleoni",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2025-04-18T16:43:13Z",
+      "dateModified": "2025-04-18T16:43:13Z",
+      "uri": "http://zotero.org/users/1097469/items/5Q8DTSU5",
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Gorelov et al_2024_Electronic excitation spectra of molecular hydrogen in phase I from quantum.pdf",
+          "tags": [],
+          "relations": {},
+          "dateAdded": "2025-04-18T16:43:14Z",
+          "dateModified": "2025-04-18T16:43:15Z",
+          "uri": "http://zotero.org/users/1097469/items/FU65PGEC",
+          "path": "/Users/lkwagner/Zotero/storage/FU65PGEC/Gorelov et al_2024_Electronic excitation spectra of molecular hydrogen in phase I from quantum.pdf",
+          "select": "zotero://select/library/items/FU65PGEC"
+        }
+      ],
+      "notes": [],
+      "citationKey": "gorelovElectronicExcitationSpectra2024",
+      "itemID": 6044,
+      "itemKey": "5Q8DTSU5",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/5Q8DTSU5"
     },
     {
       "version": 3374,
       "itemType": "journalArticle",
       "title": "Neutral band gap of carbon by quantum Monte Carlo methods",
-      "abstractNote": "We present a method of calculating the energy gap of a charge-neutral excitation using only ground-state calculations. We report Quantum Monte Carlo calculations of \u0393\u2192 \u0393 and \u0393 \u2192 X particle-hole excitation energies in diamond carbon. We analyze the finite-size effect and find the same 1/L decay rate as that in a charged excitation, where L is the linear extension of the supercell. This slow decay is attributed to the delocalized nature of the excitation in supercells too small to accommodate excitonic binding effects. At larger system sizes, the apparent 1/L decay crosses over to a 1/L3 behavior. Estimation of the scale of exciton binding can be used to correct finite-size effects of neutral gaps.",
+      "abstractNote": "We present a method of calculating the energy gap of a charge-neutral excitation using only ground-state calculations. We report Quantum Monte Carlo calculations of Γ→ Γ and Γ → X particle-hole excitation energies in diamond carbon. We analyze the finite-size effect and find the same 1/L decay rate as that in a charged excitation, where L is the linear extension of the supercell. This slow decay is attributed to the delocalized nature of the excitation in supercells too small to accommodate excitonic binding effects. At larger system sizes, the apparent 1/L decay crosses over to a 1/L3 behavior. Estimation of the scale of exciton binding can be used to correct finite-size effects of neutral gaps.",
       "date": "2023-03-01",
       "language": "en",
       "libraryCatalog": "DOI.org (Crossref)",
@@ -575,10 +575,94 @@
       "select": "zotero://select/library/items/4FWY2RS6"
     },
     {
+      "version": 3894,
+      "itemType": "journalArticle",
+      "title": "High temperature melting of dense molecular hydrogen from machine-learning interatomic potentials trained on quantum Monte Carlo",
+      "abstractNote": "We present results and discuss methods for computing the melting temperature of dense molecular hydrogen using a machine learned model trained on quantum Monte Carlo data. In this newly trained model, we emphasize the importance of accurate total energies in the training. We integrate a two phase method for estimating the melting temperature with estimates from the Clausius–Clapeyron relation to provide a more accurate melting curve from the model. We make detailed predictions of the melting temperature, solid and liquid volumes, latent heat, and internal energy from 50 to 180 GPa for both classical hydrogen and quantum hydrogen. At pressures of roughly 173 GPa and 1635 K, we observe molecular dissociation in the liquid phase. We compare with previous simulations and experimental measurements.",
+      "date": "2025-02-05",
+      "libraryCatalog": "Silverchair",
+      "url": "https://doi.org/10.1063/5.0250686",
+      "accessDate": "2025-04-18T16:41:30Z",
+      "volume": "162",
+      "pages": "054118",
+      "publicationTitle": "The Journal of Chemical Physics",
+      "DOI": "10.1063/5.0250686",
+      "issue": "5",
+      "journalAbbreviation": "The Journal of Chemical Physics",
+      "ISSN": "0021-9606",
+      "creators": [
+        {
+          "firstName": "Shubhang",
+          "lastName": "Goswami",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Scott",
+          "lastName": "Jensen",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Yubo",
+          "lastName": "Yang",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Markus",
+          "lastName": "Holzmann",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Carlo",
+          "lastName": "Pierleoni",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "David M.",
+          "lastName": "Ceperley",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2025-04-18T16:41:31Z",
+      "dateModified": "2025-04-18T16:41:31Z",
+      "uri": "http://zotero.org/users/1097469/items/HU2IKJ2N",
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Goswami et al_2025_High temperature melting of dense molecular hydrogen from machine-learning.pdf",
+          "tags": [],
+          "relations": {},
+          "dateAdded": "2025-04-18T16:41:31Z",
+          "dateModified": "2025-04-18T16:41:32Z",
+          "uri": "http://zotero.org/users/1097469/items/KCGDVTG8",
+          "path": "/Users/lkwagner/Zotero/storage/KCGDVTG8/Goswami et al_2025_High temperature melting of dense molecular hydrogen from machine-learning.pdf",
+          "select": "zotero://select/library/items/KCGDVTG8"
+        },
+        {
+          "itemType": "attachment",
+          "title": "Snapshot",
+          "tags": [],
+          "relations": {},
+          "dateAdded": "2025-04-18T16:41:40Z",
+          "dateModified": "2025-04-18T16:41:40Z",
+          "uri": "http://zotero.org/users/1097469/items/PRBIMBGG",
+          "path": "/Users/lkwagner/Zotero/storage/PRBIMBGG/3333656.html",
+          "select": "zotero://select/library/items/PRBIMBGG"
+        }
+      ],
+      "notes": [],
+      "citationKey": "goswamiHighTemperatureMelting2025",
+      "itemID": 6038,
+      "itemKey": "HU2IKJ2N",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/HU2IKJ2N"
+    },
+    {
       "version": 3354,
       "itemType": "journalArticle",
       "title": "Static Self-Energy and Effective Mass of the Homogeneous Electron Gas from Quantum Monte Carlo Calculations",
-      "abstractNote": "We discuss the methodology of quantum Monte Carlo calculations of the effective mass based on the static self-energy \u03a3(k,0). We then use variational Monte Carlo calculations of \u03a3(k,0) of the homogeneous electron gas at various densities to obtain results very close to perturbative G0W0 calculations for values of the density parameter 1\u2264rs\u226410. The obtained values for the effective mass are close to diagrammatic Monte Carlo results and disagree with previous quantum Monte Carlo calculations based on a heuristic mapping of excitation energies to those of an ideal gas.",
+      "abstractNote": "We discuss the methodology of quantum Monte Carlo calculations of the effective mass based on the static self-energy Σ(k,0). We then use variational Monte Carlo calculations of Σ(k,0) of the homogeneous electron gas at various densities to obtain results very close to perturbative G0W0 calculations for values of the density parameter 1≤rs≤10. The obtained values for the effective mass are close to diagrammatic Monte Carlo results and disagree with previous quantum Monte Carlo calculations based on a heuristic mapping of excitation energies to those of an ideal gas.",
       "date": "2023-11-01",
       "libraryCatalog": "APS",
       "url": "https://link.aps.org/doi/10.1103/PhysRevLett.131.186501",
@@ -649,10 +733,147 @@
       "select": "zotero://select/library/items/KUJHF3WW"
     },
     {
+      "version": 3903,
+      "itemType": "journalArticle",
+      "title": "Particle-hole asymmetric phases in doped twisted bilayer graphene",
+      "date": "2025-3-17",
+      "language": "en",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "url": "https://link.aps.org/doi/10.1103/PhysRevB.111.125140",
+      "accessDate": "2025-04-18T16:43:35Z",
+      "volume": "111",
+      "pages": "125140",
+      "publicationTitle": "Physical Review B",
+      "DOI": "10.1103/PhysRevB.111.125140",
+      "issue": "12",
+      "journalAbbreviation": "Phys. Rev. B",
+      "ISSN": "2469-9950, 2469-9969",
+      "creators": [
+        {
+          "firstName": "Run",
+          "lastName": "Hou",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Shouvik",
+          "lastName": "Sur",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Lucas K.",
+          "lastName": "Wagner",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Andriy H.",
+          "lastName": "Nevidomskyy",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2025-04-18T16:43:35Z",
+      "dateModified": "2025-04-18T16:43:35Z",
+      "uri": "http://zotero.org/users/1097469/items/IS6LKLMD",
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Hou et al_2025_Particle-hole asymmetric phases in doped twisted bilayer graphene.pdf",
+          "tags": [],
+          "relations": {},
+          "dateAdded": "2025-04-18T16:43:39Z",
+          "dateModified": "2025-04-18T16:43:40Z",
+          "uri": "http://zotero.org/users/1097469/items/VL7CTZHY",
+          "path": "/Users/lkwagner/Zotero/storage/VL7CTZHY/Hou et al_2025_Particle-hole asymmetric phases in doped twisted bilayer graphene.pdf",
+          "select": "zotero://select/library/items/VL7CTZHY"
+        }
+      ],
+      "notes": [],
+      "citationKey": "houParticleholeAsymmetricPhases2025",
+      "itemID": 6046,
+      "itemKey": "IS6LKLMD",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/IS6LKLMD"
+    },
+    {
+      "version": 3923,
+      "itemType": "journalArticle",
+      "title": "Liquid-liquid phase transition of hydrogen and its critical point: Analysis from ab initio simulation and a machine-learned potential",
+      "abstractNote": "We simulate high-pressure hydrogen in its liquid phase close to molecular dissociation using a machine-learned interatomic potential. The model is trained with density functional theory forces and energies, with the Perdew-Burke-Ernzerhof (PBE) exchange-correlation functional. We show that an accurate NequIP model, an E(3)-equivariant neural network potential, accurately reproduces the phase transition present in PBE. Moreover, the computational efficiency of this model allows for substantially longer molecular-dynamics trajectories, enabling us to perform a finite-size scaling analysis to distinguish between a crossover and a true first-order phase transition. We locate the critical point of this transition, the liquid-liquid phase transition, at 1200–1300 K and 155–160 GPa, a temperature lower than most previous estimates and close to the melting transition.",
+      "date": "2025-04-21",
+      "shortTitle": "Liquid-liquid phase transition of hydrogen and its critical point",
+      "libraryCatalog": "APS",
+      "url": "https://link.aps.org/doi/10.1103/PhysRevE.111.045307",
+      "accessDate": "2025-04-30T14:21:38Z",
+      "extra": "Publisher: American Physical Society",
+      "volume": "111",
+      "pages": "045307",
+      "publicationTitle": "Physical Review E",
+      "DOI": "10.1103/PhysRevE.111.045307",
+      "issue": "4",
+      "journalAbbreviation": "Phys. Rev. E",
+      "creators": [
+        {
+          "firstName": "Mathieu",
+          "lastName": "Istas",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Scott",
+          "lastName": "Jensen",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Yubo",
+          "lastName": "Yang",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Markus",
+          "lastName": "Holzmann",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Carlo",
+          "lastName": "Pierleoni",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "David M.",
+          "lastName": "Ceperley",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2025-04-30T14:21:38Z",
+      "dateModified": "2025-04-30T14:21:38Z",
+      "uri": "http://zotero.org/users/1097469/items/383B5MCQ",
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "APS Snapshot",
+          "tags": [],
+          "relations": {},
+          "dateAdded": "2025-04-30T14:21:48Z",
+          "dateModified": "2025-04-30T14:21:48Z",
+          "uri": "http://zotero.org/users/1097469/items/HM5CQ3BT",
+          "path": "/Users/lkwagner/Zotero/storage/HM5CQ3BT/PhysRevE.111.html",
+          "select": "zotero://select/library/items/HM5CQ3BT"
+        }
+      ],
+      "notes": [],
+      "citationKey": "istasLiquidliquidPhaseTransition2025",
+      "itemID": 6053,
+      "itemKey": "383B5MCQ",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/383B5MCQ"
+    },
+    {
       "version": 2867,
       "itemType": "journalArticle",
       "title": "Nontrivial maturation metastate-average state in a one-dimensional long-range Ising spin glass: Above and below the upper critical range",
-      "abstractNote": "Understanding the low-temperature pure state structure of spin glasses remains an open problem in the field of statistical mechanics of disordered systems. Here we study Monte Carlo dynamics, performing simulations of the growth of correlations following a quench from infinite temperature to a temperature well below the spin-glass transition temperature Tc for a one-dimensional Ising spin-glass model with diluted long-range interactions. In this model, the probability Pij that an edge {i,j} has nonvanishing interaction falls as a power law with chord distance, Pij\u221d1/R2\u03c3ij, and we study a range of values of \u03c3 with 1/2<\u03c3<1. We consider a correlation function C4(r,t). A dynamic correlation length that shows power-law growth with time \u03be(t)\u221dt1/z can be identified in the data and, for large time t, C4(r,t) decays as a power law r\u2212\u03b1d with distance r when r\u226a\u03be(t). The calculation can be interpreted in terms of the maturation metastate averaged Gibbs state, or MMAS, and the decay exponent \u03b1d differentiates between a trivial MMAS (\u03b1d=0), as expected in the droplet picture of spin glasses, and a nontrivial MMAS (\u03b1d\u22600), as in the replica-symmetry-breaking (RSB) or chaotic pairs pictures. We find nonzero \u03b1d even in the regime \u03c3>2/3 which corresponds to short-range systems below six dimensions. For \u03c3<2/3, the decay exponent \u03b1d follows the RSB prediction for the decay exponent \u03b1s=3\u22124\u03c3 of the static metastate, consistent with a conjectured statics-dynamics relation, while it approaches \u03b1d=1\u2212\u03c3 in the regime 2/3<\u03c3<1; however, it deviates from both lines in the vicinity of \u03c3=2/3.",
+      "abstractNote": "Understanding the low-temperature pure state structure of spin glasses remains an open problem in the field of statistical mechanics of disordered systems. Here we study Monte Carlo dynamics, performing simulations of the growth of correlations following a quench from infinite temperature to a temperature well below the spin-glass transition temperature Tc for a one-dimensional Ising spin-glass model with diluted long-range interactions. In this model, the probability Pij that an edge {i,j} has nonvanishing interaction falls as a power law with chord distance, Pij∝1/R2σij, and we study a range of values of σ with 1/2<σ<1. We consider a correlation function C4(r,t). A dynamic correlation length that shows power-law growth with time ξ(t)∝t1/z can be identified in the data and, for large time t, C4(r,t) decays as a power law r−αd with distance r when r≪ξ(t). The calculation can be interpreted in terms of the maturation metastate averaged Gibbs state, or MMAS, and the decay exponent αd differentiates between a trivial MMAS (αd=0), as expected in the droplet picture of spin glasses, and a nontrivial MMAS (αd≠0), as in the replica-symmetry-breaking (RSB) or chaotic pairs pictures. We find nonzero αd even in the regime σ>2/3 which corresponds to short-range systems below six dimensions. For σ<2/3, the decay exponent αd follows the RSB prediction for the decay exponent αs=3−4σ of the static metastate, consistent with a conjectured statics-dynamics relation, while it approaches αd=1−σ in the regime 2/3<σ<1; however, it deviates from both lines in the vicinity of σ=2/3.",
       "date": "2021-09-07",
       "shortTitle": "Nontrivial maturation metastate-average state in a one-dimensional long-range Ising spin glass",
       "libraryCatalog": "APS",
@@ -706,6 +927,87 @@
       "itemKey": "IWF5HP6I",
       "libraryID": 1,
       "select": "zotero://select/library/items/IWF5HP6I"
+    },
+    {
+      "version": 3886,
+      "itemType": "preprint",
+      "title": "Graphene-hBN interlayer interactions from quantum Monte Carlo",
+      "abstractNote": "The interaction between graphene and hexagonal boron nitride (hBN) plays a pivotal role in determining the electronic and structural properties of graphene-based devices. In this work, we employ quantum Monte Carlo (QMC) to study the interlayer interactions and stacking-fault energy (SFE) between graphene and hBN. We generated QMC energies for several rigid bilayer stacking configurations and fitted these data to the Kolmogorov-Crespi type interlayer potential (ILP) model. Our QMC-derived potential offers a more reliable alternative to conventional density functional theory methods, which are prone to errors in predicting properties in van der Waals materials. This study enables highly accurate predictions of structural and electronic properties in graphene hBN heterostructures. The resulting ILP-QMC potential is made available for further use in simulating complex systems, such as twisted bilayer graphene (TBG) on hBN.",
+      "date": "2025-03-17",
+      "libraryCatalog": "arXiv.org",
+      "url": "http://arxiv.org/abs/2503.13672",
+      "accessDate": "2025-04-18T16:37:35Z",
+      "extra": "arXiv:2503.13672 [cond-mat]",
+      "DOI": "10.48550/arXiv.2503.13672",
+      "repository": "arXiv",
+      "archiveID": "arXiv:2503.13672",
+      "creators": [
+        {
+          "firstName": "Kittithat",
+          "lastName": "Krongchon",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Tawfiqur",
+          "lastName": "Rakib",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Elif",
+          "lastName": "Ertekin",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Harley T.",
+          "lastName": "Johnson",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Lucas K.",
+          "lastName": "Wagner",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Condensed Matter - Materials Science",
+          "type": 1
+        }
+      ],
+      "relations": {},
+      "dateAdded": "2025-04-18T16:37:35Z",
+      "dateModified": "2025-04-18T16:37:35Z",
+      "uri": "http://zotero.org/users/1097469/items/THNQQ9IS",
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Krongchon et al_2025_Graphene-hBN interlayer interactions from quantum Monte Carlo.pdf",
+          "tags": [],
+          "relations": {},
+          "dateAdded": "2025-04-18T16:37:38Z",
+          "dateModified": "2025-04-18T16:37:39Z",
+          "uri": "http://zotero.org/users/1097469/items/78BA9LV4",
+          "path": "/Users/lkwagner/Zotero/storage/78BA9LV4/Krongchon et al_2025_Graphene-hBN interlayer interactions from quantum Monte Carlo.pdf",
+          "select": "zotero://select/library/items/78BA9LV4"
+        },
+        {
+          "itemType": "attachment",
+          "title": "Snapshot",
+          "tags": [],
+          "relations": {},
+          "dateAdded": "2025-04-18T16:37:43Z",
+          "dateModified": "2025-04-18T16:37:43Z",
+          "uri": "http://zotero.org/users/1097469/items/KAUH6CVF",
+          "path": "/Users/lkwagner/Zotero/storage/KAUH6CVF/2503.html",
+          "select": "zotero://select/library/items/KAUH6CVF"
+        }
+      ],
+      "notes": [],
+      "citationKey": "krongchonGraphenehBNInterlayerInteractions2025",
+      "itemID": 6032,
+      "itemKey": "THNQQ9IS",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/THNQQ9IS"
     },
     {
       "version": 3206,
@@ -902,6 +1204,70 @@
       "select": "zotero://select/library/items/DM77X4RM"
     },
     {
+      "version": 3890,
+      "itemType": "journalArticle",
+      "title": "Melting curves of atomic hydrogen and deuterium calculated using path-integral Monte Carlo",
+      "abstractNote": "We calculate the melting lines of atomic hydrogen and deuterium up to 900 GPa with path-integral Monte Carlo using a machine-learned interatomic potential. We improve upon previous simulations of melting by treating the electrons with reptation quantum Monte Carlo, and by performing solid and liquid simulations using isothermal-isobaric path-integral Monte Carlo. The resulting melting line for atomic hydrogen is higher than previous estimates. There is a small but resolvable decrease in the melting temperature as pressure is increased, which can be attributed to quantum effects.",
+      "date": "2025-03-06",
+      "libraryCatalog": "APS",
+      "url": "https://link.aps.org/doi/10.1103/PhysRevB.111.104102",
+      "accessDate": "2025-04-18T16:41:02Z",
+      "extra": "Publisher: American Physical Society",
+      "volume": "111",
+      "pages": "104102",
+      "publicationTitle": "Physical Review B",
+      "DOI": "10.1103/PhysRevB.111.104102",
+      "issue": "10",
+      "journalAbbreviation": "Phys. Rev. B",
+      "creators": [
+        {
+          "firstName": "Kevin K.",
+          "lastName": "Ly",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "David M.",
+          "lastName": "Ceperley",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2025-04-18T16:41:02Z",
+      "dateModified": "2025-04-18T16:41:02Z",
+      "uri": "http://zotero.org/users/1097469/items/55XPWBQJ",
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "APS Snapshot",
+          "tags": [],
+          "relations": {},
+          "dateAdded": "2025-04-18T16:41:15Z",
+          "dateModified": "2025-04-18T16:41:15Z",
+          "uri": "http://zotero.org/users/1097469/items/NJS8CKJQ",
+          "path": "/Users/lkwagner/Zotero/storage/NJS8CKJQ/PhysRevB.111.html",
+          "select": "zotero://select/library/items/NJS8CKJQ"
+        },
+        {
+          "itemType": "attachment",
+          "title": "Ly_Ceperley_2025_Melting curves of atomic hydrogen and deuterium calculated using path-integral.pdf",
+          "tags": [],
+          "relations": {},
+          "dateAdded": "2025-04-18T16:41:05Z",
+          "dateModified": "2025-04-18T16:41:05Z",
+          "uri": "http://zotero.org/users/1097469/items/7TCQ8RCQ",
+          "path": "/Users/lkwagner/Zotero/storage/7TCQ8RCQ/Ly_Ceperley_2025_Melting curves of atomic hydrogen and deuterium calculated using path-integral.pdf",
+          "select": "zotero://select/library/items/7TCQ8RCQ"
+        }
+      ],
+      "notes": [],
+      "citationKey": "lyMeltingCurvesAtomic2025",
+      "itemID": 6035,
+      "itemKey": "55XPWBQJ",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/55XPWBQJ"
+    },
+    {
       "version": 2873,
       "itemType": "journalArticle",
       "title": "Phonons of metallic hydrogen with quantum Monte Carlo",
@@ -1022,7 +1388,7 @@
       "version": 2916,
       "itemType": "journalArticle",
       "title": "Stable Solid Molecular Hydrogen above 900 K from a Machine-Learned Potential Trained with Diffusion Quantum Monte Carlo",
-      "abstractNote": "We survey the phase diagram of high-pressure molecular hydrogen with path integral molecular dynamics using a machine-learned interatomic potential trained with quantum Monte Carlo forces and energies. Besides the HCP and C2/c\u221224 phases, we find two new stable phases both with molecular centers in the Fmmm\u22124 structure, separated by a molecular orientation transition with temperature. The high temperature isotropic Fmmm\u22124 phase has a reentrant melting line with a maximum at higher temperature (1450 K at 150 GPa) than previously estimated and crosses the liquid-liquid transition line around 1200 K and 200 GPa.",
+      "abstractNote": "We survey the phase diagram of high-pressure molecular hydrogen with path integral molecular dynamics using a machine-learned interatomic potential trained with quantum Monte Carlo forces and energies. Besides the HCP and C2/c−24 phases, we find two new stable phases both with molecular centers in the Fmmm−4 structure, separated by a molecular orientation transition with temperature. The high temperature isotropic Fmmm−4 phase has a reentrant melting line with a maximum at higher temperature (1450 K at 150 GPa) than previously estimated and crosses the liquid-liquid transition line around 1200 K and 200 GPa.",
       "date": "2023-02-17",
       "libraryCatalog": "APS",
       "url": "https://link.aps.org/doi/10.1103/PhysRevLett.130.076102",
@@ -1106,7 +1472,7 @@
       "version": 2876,
       "itemType": "journalArticle",
       "title": "Accurate tight-binding model for twisted bilayer graphene describes topological flat bands without geometric relaxation",
-      "abstractNote": "A major hurdle in understanding the phase diagram of twisted bilayer graphene is the roles of lattice relaxation and electronic structure on isolated band flattening near magic twist angles. In this work, the authors develop an accurate local environment tight-binding model fit to tight-binding parameters computed from ab initio density-functional theory calculations across many atomic configurations. With the accurate parametrization, it is found that the magic angle shifts to slightly lower angles than often quoted, from around 1.05\u2218 to around 0.99\u2218, and that isolated flat bands appear for rigidly rotated graphene layers, with enhancement of the flat bands when the layers are allowed to distort. Study of the orbital localization supports the emergence of fragile topology in the isolated flat bands without the need for lattice relaxation.",
+      "abstractNote": "A major hurdle in understanding the phase diagram of twisted bilayer graphene is the roles of lattice relaxation and electronic structure on isolated band flattening near magic twist angles. In this work, the authors develop an accurate local environment tight-binding model fit to tight-binding parameters computed from ab initio density-functional theory calculations across many atomic configurations. With the accurate parametrization, it is found that the magic angle shifts to slightly lower angles than often quoted, from around 1.05∘ to around 0.99∘, and that isolated flat bands appear for rigidly rotated graphene layers, with enhancement of the flat bands when the layers are allowed to distort. Study of the orbital localization supports the emergence of fragile topology in the isolated flat bands without the need for lattice relaxation.",
       "date": "2022-03-30",
       "libraryCatalog": "APS",
       "url": "https://link.aps.org/doi/10.1103/PhysRevB.105.115141",
@@ -1208,7 +1574,7 @@
           "creatorType": "author"
         },
         {
-          "firstName": "Jo\u00e3o N. B.",
+          "firstName": "João N. B.",
           "lastName": "Rodrigues",
           "creatorType": "author"
         },
@@ -1423,7 +1789,7 @@
           "type": 1
         },
         {
-          "tag": "Moir\u00e9",
+          "tag": "Moiré",
           "type": 1
         },
         {
@@ -1470,7 +1836,7 @@
       "version": 3158,
       "itemType": "journalArticle",
       "title": "Helical dislocation in twisted bilayer graphene",
-      "abstractNote": "We observe helical dislocation network in twisted bilayer graphene (tBLG), which is accompanied by large out-of-plane deformation. By atomistic calculations, we demonstrate two distinct out-of-plane deformation modes, breathing mode with small out-of-plane deformation and bending mode with one order larger corrugation magnitude compared to the breathing mode. The out-of-plane deformation is caused by inhomogeneous interlayer coupling resulting from the periodic stacking order of the tBLG moir\u00e9 superlattice. Instead of commonly observed screw dislocation in tBLG, we demonstrate a slip-induced helical dislocation network in the bending mode tBLG. We show that bending mode deformation is more stable at low twist angles, as the energy savings due to interface energy exceeds the energy penalty due to the strain energy caused by the large out-of-plane deformation. Our work provides a detailed picture of a new helical dislocation structure in tBLG and establishes a direct connection between the dislocation and deformation. Therefore, understanding the dislocation mechanics of tBLG may open up the possibility to control the corrugation, and reveal an opportunity to tune the intriguing physical properties of twisted bilayer graphene.",
+      "abstractNote": "We observe helical dislocation network in twisted bilayer graphene (tBLG), which is accompanied by large out-of-plane deformation. By atomistic calculations, we demonstrate two distinct out-of-plane deformation modes, breathing mode with small out-of-plane deformation and bending mode with one order larger corrugation magnitude compared to the breathing mode. The out-of-plane deformation is caused by inhomogeneous interlayer coupling resulting from the periodic stacking order of the tBLG moiré superlattice. Instead of commonly observed screw dislocation in tBLG, we demonstrate a slip-induced helical dislocation network in the bending mode tBLG. We show that bending mode deformation is more stable at low twist angles, as the energy savings due to interface energy exceeds the energy penalty due to the strain energy caused by the large out-of-plane deformation. Our work provides a detailed picture of a new helical dislocation structure in tBLG and establishes a direct connection between the dislocation and deformation. Therefore, understanding the dislocation mechanics of tBLG may open up the possibility to control the corrugation, and reveal an opportunity to tune the intriguing physical properties of twisted bilayer graphene.",
       "date": "2023-09-01",
       "libraryCatalog": "ScienceDirect",
       "url": "https://www.sciencedirect.com/science/article/pii/S2352431623000998",
@@ -1521,7 +1887,7 @@
           "type": 1
         },
         {
-          "tag": "Moir\u00e9 superlattice",
+          "tag": "Moiré superlattice",
           "type": 1
         }
       ],
@@ -1552,8 +1918,8 @@
     {
       "version": 2901,
       "itemType": "journalArticle",
-      "title": "Moir\u00e9 engineering in van der Waals heterostructures",
-      "abstractNote": "Isolated atomic planes can be assembled into a multilayer van der Waals (vdW) heterostructure in a precisely chosen sequence. These heterostructures feature moir\u00e9 patterns if the constituent 2D material layers are stacked in an incommensurable way, due to a lattice mismatch or twist. This design-by-stacking has opened up the promising area of moir\u00e9 engineering, a term that can be understood in two different perspectives, namely, (i) structural\u2014engineering a moir\u00e9 pattern by introducing twist, relative strain, or defects that affect the commensurability of the layers and (ii) functional\u2014exploiting a moir\u00e9 pattern to find and tune resulting physical properties of a vdW heterostructure. The latter meaning, referring to the application of a moir\u00e9 pattern, is seen in the literature in the specific context of the observation of correlated electronic states and unconventional superconductivity in twisted bilayer graphene. The former meaning, referring to the design of the moir\u00e9 pattern itself, is present in the literature but less commonly discussed or less understood. The underlying link between these two perspectives lies in the deformation field of the moir\u00e9 superlattice. In this Perspective, we describe a path from designing a moir\u00e9 pattern to employing the moir\u00e9 pattern to tune physical properties of a vdW heterostructure. We also discuss the concept of moir\u00e9 engineering in the context of twistronics, strain engineering, and defect engineering in vdW heterostructures. Although twistronics is always associated with moir\u00e9 superlattices, strain and defect engineering are often not. Here, we demonstrate how strain and defect engineering can be understood within the context of moir\u00e9 engineering. Adopting this perspective, we note that moir\u00e9 engineering creates a compelling opportunity to design and develop multiscale electronic devices.",
+      "title": "Moiré engineering in van der Waals heterostructures",
+      "abstractNote": "Isolated atomic planes can be assembled into a multilayer van der Waals (vdW) heterostructure in a precisely chosen sequence. These heterostructures feature moiré patterns if the constituent 2D material layers are stacked in an incommensurable way, due to a lattice mismatch or twist. This design-by-stacking has opened up the promising area of moiré engineering, a term that can be understood in two different perspectives, namely, (i) structural—engineering a moiré pattern by introducing twist, relative strain, or defects that affect the commensurability of the layers and (ii) functional—exploiting a moiré pattern to find and tune resulting physical properties of a vdW heterostructure. The latter meaning, referring to the application of a moiré pattern, is seen in the literature in the specific context of the observation of correlated electronic states and unconventional superconductivity in twisted bilayer graphene. The former meaning, referring to the design of the moiré pattern itself, is present in the literature but less commonly discussed or less understood. The underlying link between these two perspectives lies in the deformation field of the moiré superlattice. In this Perspective, we describe a path from designing a moiré pattern to employing the moiré pattern to tune physical properties of a vdW heterostructure. We also discuss the concept of moiré engineering in the context of twistronics, strain engineering, and defect engineering in vdW heterostructures. Although twistronics is always associated with moiré superlattices, strain and defect engineering are often not. Here, we demonstrate how strain and defect engineering can be understood within the context of moiré engineering. Adopting this perspective, we note that moiré engineering creates a compelling opportunity to design and develop multiscale electronic devices.",
       "date": "2022-09-28",
       "language": "en",
       "libraryCatalog": "DOI.org (Crossref)",
@@ -1596,13 +1962,13 @@
       "attachments": [
         {
           "itemType": "attachment",
-          "title": "Rakib et al_2022_Moir\u00e9 engineering in van der Waals heterostructures.pdf",
+          "title": "Rakib et al_2022_Moiré engineering in van der Waals heterostructures.pdf",
           "tags": [],
           "relations": {},
           "dateAdded": "2023-03-25T18:37:12Z",
           "dateModified": "2023-03-25T18:37:13Z",
           "uri": "http://zotero.org/users/1097469/items/ES84NKXI",
-          "path": "/Users/lkwagner/Zotero/storage/ES84NKXI/Rakib et al_2022_Moir\u00e9 engineering in van der Waals heterostructures.pdf",
+          "path": "/Users/lkwagner/Zotero/storage/ES84NKXI/Rakib et al_2022_Moiré engineering in van der Waals heterostructures.pdf",
           "select": "zotero://select/library/items/ES84NKXI"
         }
       ],
@@ -1648,15 +2014,15 @@
           "type": 1
         },
         {
+          "tag": "Quantum Gases (cond-mat.quant-gas)",
+          "type": 1
+        },
+        {
           "tag": "High Energy Physics - Lattice (hep-lat)",
           "type": 1
         },
         {
           "tag": "Nuclear Theory (nucl-th)",
-          "type": 1
-        },
-        {
-          "tag": "Quantum Gases (cond-mat.quant-gas)",
           "type": 1
         },
         {
@@ -1821,15 +2187,15 @@
           "type": 1
         },
         {
+          "tag": "Strongly Correlated Electrons (cond-mat.str-el)",
+          "type": 1
+        },
+        {
           "tag": "Materials Science (cond-mat.mtrl-sci)",
           "type": 1
         },
         {
           "tag": "Mesoscale and Nanoscale Physics (cond-mat.mes-hall)",
-          "type": 1
-        },
-        {
-          "tag": "Strongly Correlated Electrons (cond-mat.str-el)",
           "type": 1
         }
       ],
@@ -2081,7 +2447,7 @@
           "creatorType": "author"
         },
         {
-          "firstName": "Jo\u00e3o N. B.",
+          "firstName": "João N. B.",
           "lastName": "Rodrigues",
           "creatorType": "author"
         },
@@ -2117,7 +2483,7 @@
         },
         {
           "firstName": "Alexander",
-          "lastName": "Mu\u00f1oz",
+          "lastName": "Muñoz",
           "creatorType": "author"
         },
         {
