@@ -1,7 +1,7 @@
 baseURL = "https://qmc-hamm.github.io"
 languageCode = "en-us"
 title = "QMC-HAMM research group"
-theme = "hugo-theme-techdoc"
+theme = "hugo-theme-techdoc_lkw"
 
 hasCJKLanguage = true
 metaDataFormat = "yaml"

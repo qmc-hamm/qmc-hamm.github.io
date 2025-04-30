@@ -1,3 +1,6 @@
 [submodule "themes/hugo-theme-techdoc"]
 	path = themes/hugo-theme-techdoc
 	url = https://github.com/thingsym/hugo-theme-techdoc.git
+[submodule "themes/hugo-theme-techdoc_lkw"]
+	path = themes/hugo-theme-techdoc_lkw
+	url = git@github.com:lkwagner/hugo-theme-techdoc.git
