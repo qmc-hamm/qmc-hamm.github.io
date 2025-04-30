@@ -170,6 +170,184 @@
       "select": "zotero://select/library/items/B87CWKYQ"
     },
     {
+      "version": 3928,
+      "itemType": "journalArticle",
+      "title": "Toward first principles-based simulations of dense hydrogen",
+      "abstractNote": "Accurate knowledge of the properties of hydrogen at high compression is crucial for astrophysics (e.g., planetary and stellar interiors, brown dwarfs, atmosphere of compact stars) and laboratory experiments, including inertial confinement fusion. There exists experimental data for the equation of state, conductivity, and Thomson scattering spectra. However, the analysis of the measurements at extreme pressures and temperatures typically involves additional model assumptions, which makes it difficult to assess the accuracy of the experimental data rigorously. On the other hand, theory and modeling have produced extensive collections of data. They originate from a very large variety of models and simulations including path integral Monte Carlo (PIMC) simulations, density functional theory (DFT), chemical models, machine-learned models, and combinations thereof. At the same time, each of these methods has fundamental limitations (fermion sign problem in PIMC, approximate exchange–correlation functionals of DFT, inconsistent interaction energy contributions in chemical models, etc.), so for some parameter ranges accurate predictions are difficult. Recently, a number of breakthroughs in first principles PIMC as well as in DFT simulations were achieved which are discussed in this review. Here we use these results to benchmark different simulation methods. We present an update of the hydrogen phase diagram at high pressures, the expected phase transitions, and thermodynamic properties including the equation of state and momentum distribution. Furthermore, we discuss available dynamic results for warm dense hydrogen, including the conductivity, dynamic structure factor, plasmon dispersion, imaginary-time structure, and density response functions. We conclude by outlining strategies to combine different simulations to achieve accurate theoretical predictions that are based on first principles.",
+      "date": "2024-11-13",
+      "libraryCatalog": "Silverchair",
+      "url": "https://doi.org/10.1063/5.0219405",
+      "accessDate": "2025-04-30T16:22:09Z",
+      "volume": "31",
+      "pages": "110501",
+      "publicationTitle": "Physics of Plasmas",
+      "DOI": "10.1063/5.0219405",
+      "issue": "11",
+      "journalAbbreviation": "Physics of Plasmas",
+      "ISSN": "1070-664X",
+      "creators": [
+        {
+          "firstName": "Michael",
+          "lastName": "Bonitz",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Jan",
+          "lastName": "Vorberger",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Mandy",
+          "lastName": "Bethkenhagen",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Maximilian P.",
+          "lastName": "Böhme",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "David M.",
+          "lastName": "Ceperley",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Alexey",
+          "lastName": "Filinov",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Thomas",
+          "lastName": "Gawne",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Frank",
+          "lastName": "Graziani",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Gianluca",
+          "lastName": "Gregori",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Paul",
+          "lastName": "Hamann",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Stephanie B.",
+          "lastName": "Hansen",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Markus",
+          "lastName": "Holzmann",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "S. X.",
+          "lastName": "Hu",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Hanno",
+          "lastName": "Kählert",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Valentin V.",
+          "lastName": "Karasiev",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Uwe",
+          "lastName": "Kleinschmidt",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Linda",
+          "lastName": "Kordts",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Christopher",
+          "lastName": "Makait",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Burkhard",
+          "lastName": "Militzer",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Zhandos A.",
+          "lastName": "Moldabekov",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Carlo",
+          "lastName": "Pierleoni",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Martin",
+          "lastName": "Preising",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Kushal",
+          "lastName": "Ramakrishna",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Ronald",
+          "lastName": "Redmer",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Sebastian",
+          "lastName": "Schwalbe",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Pontus",
+          "lastName": "Svensson",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Tobias",
+          "lastName": "Dornheim",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2025-04-30T16:22:09Z",
+      "dateModified": "2025-04-30T16:22:09Z",
+      "uri": "http://zotero.org/users/1097469/items/7WGJKRER",
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Bonitz et al_2024_Toward first principles-based simulations of dense hydrogen.pdf",
+          "tags": [],
+          "relations": {},
+          "dateAdded": "2025-04-30T16:22:12Z",
+          "dateModified": "2025-04-30T16:22:13Z",
+          "uri": "http://zotero.org/users/1097469/items/NKT45ZVR",
+          "path": "/Users/lkwagner/Zotero/storage/NKT45ZVR/Bonitz et al_2024_Toward first principles-based simulations of dense hydrogen.pdf",
+          "select": "zotero://select/library/items/NKT45ZVR"
+        }
+      ],
+      "notes": [],
+      "citationKey": "bonitzFirstPrinciplesbasedSimulations2024",
+      "itemID": 6055,
+      "itemKey": "7WGJKRER",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/7WGJKRER"
+    },
+    {
       "version": 3375,
       "itemType": "journalArticle",
       "title": "Training models using forces computed by stochastic electronic structure methods",
