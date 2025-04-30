@@ -6,13 +6,15 @@ title: Papers
 
 <b>[Liquid-liquid phase transition of hydrogen and its critical point: Analysis from ab initio simulation and a machine-learned potential](https://doi.org/10.1103/PhysRevE.111.045307)</b>  <br>Mathieu Istas, Scott Jensen, Yubo Yang, Markus Holzmann, Carlo Pierleoni, David M. Ceperley <br>Physical Review E <b>111</b> 045307 (2025) 
 
-<b>[Particle-hole asymmetric phases in doped twisted bilayer graphene](https://doi.org/10.1103/PhysRevB.111.125140)</b>  <br>Run Hou, Shouvik Sur, Lucas K. Wagner, Andriy H. Nevidomskyy <br>Physical Review B <b>111</b> 125140 (2025) 
-
 <b>[Graphene-hBN interlayer interactions from quantum Monte Carlo](https://doi.org/10.48550/arXiv.2503.13672)</b>  <br>Kittithat Krongchon, Tawfiqur Rakib, Elif Ertekin, Harley T. Johnson, Lucas K. Wagner <br> <b></b>  (2025) 
+
+<b>[Particle-hole asymmetric phases in doped twisted bilayer graphene](https://doi.org/10.1103/PhysRevB.111.125140)</b>  <br>Run Hou, Shouvik Sur, Lucas K. Wagner, Andriy H. Nevidomskyy <br>Physical Review B <b>111</b> 125140 (2025) 
 
 <b>[Melting curves of atomic hydrogen and deuterium calculated using path-integral Monte Carlo](https://doi.org/10.1103/PhysRevB.111.104102)</b>  <br>Kevin K. Ly, David M. Ceperley <br>Physical Review B <b>111</b> 104102 (2025) 
 
 <b>[High temperature melting of dense molecular hydrogen from machine-learning interatomic potentials trained on quantum Monte Carlo](https://doi.org/10.1063/5.0250686)</b>  <br>Shubhang Goswami, Scott Jensen, Yubo Yang, Markus Holzmann, Carlo Pierleoni, David M. Ceperley <br>The Journal of Chemical Physics <b>162</b> 054118 (2025) 
+
+<b>[Toward first principles-based simulations of dense hydrogen](https://doi.org/10.1063/5.0219405)</b>  <br>Michael Bonitz, Jan Vorberger, Mandy Bethkenhagen, Maximilian P. Böhme, David M. Ceperley, Alexey Filinov, Thomas Gawne, Frank Graziani, Gianluca Gregori, Paul Hamann, Stephanie B. Hansen, Markus Holzmann, S. X. Hu, Hanno Kählert, Valentin V. Karasiev, Uwe Kleinschmidt, Linda Kordts, Christopher Makait, Burkhard Militzer, Zhandos A. Moldabekov, Carlo Pierleoni, Martin Preising, Kushal Ramakrishna, Ronald Redmer, Sebastian Schwalbe, Pontus Svensson, Tobias Dornheim <br>Physics of Plasmas <b>31</b> 110501 (2024) 
 
 <b>[Renormalized density matrix downfolding: A rigorous framework in learning emergent models from ab initio many-body calculations](https://doi.org/10.1103/PhysRevB.110.195103)</b>  <br>Yueqing Chang, Sonali Joshi, Lucas K. Wagner <br>Physical Review B <b>110</b> 195103 (2024) 
 
