@@ -39,23 +39,22 @@ Software and data engineer
 <p> Ben is helping with workflows and data publication. </p>
 </td>
 </tr>
- <tr> <td width="15%"> <img src="/images/Jensen_pic.png"> </td>
-<td> <span id="bioname"> <b> Scott Jensen </b> </span>  <br>
-Postdoctoral Associate
-<p> Hydrogen and 2D electron gas. </p>
-</td>
-</tr>
  <tr> <td width="15%"> <img src="/images/profile-placeholder.gif"> </td>
 <td> <span id="bioname"> <b> Tawfiqur Rakib </b> </span>  <br>
 Postdoctoral Associate
 <p> Tawfiq is working on uncertainty quantification. </p>
 </td>
 </tr>
- <tr> <td width="15%"> <img src="/images/mick.jpg"> </td>
-<td> <span id="bioname"> <b> Kittithat (Mick) Krongchon </b> </span>  <br>
-Graduate Student
-<p> Mick is working on van der Waals interactions in 2D systems.
-  </p>
+ <tr> <td width="15%"> <img src="/images/profile-placeholder.gif"> </td>
+<td> <span id="bioname"> <b> Jeonghwan Ahn </b> </span>  <br>
+Postdoctoral Associate
+<p> Jeonghwan is working on using quantum Monte Carlo for learning quantum models. </p>
+</td>
+</tr>
+ <tr> <td width="15%"> <img src="/images/youngjae.jpg"> </td>
+<td> <span id="bioname"> <b> Young-Jae Choi </b> </span>  <br>
+Postdoctoral Associate
+<p> Young-Jae is working on uncertainty quantification of machine learning interatomic potentials. </p>
 </td>
 </tr>
  <tr> <td width="15%"> <img src="/images/profile-placeholder.gif"> </td>
@@ -70,13 +69,7 @@ Graduate Student
 <p> Doruk is working on uncertainty quantification. </p>
 </td>
 </tr>
- <tr> <td width="15%"> <img src="/images/profile-placeholder.gif"> </td>
-<td> <span id="bioname"> <b> Kevin Ly </b> </span>  <br>
-Graduate Student
-<p> Kevin is working on learning hydrogen models. </p>
-</td>
-</tr>
- <tr> <td width="15%"> <img src="/images/profile-placeholder.gif"> </td>
+ <tr> <td width="15%"> <img src="/images/goswami.jpg"> </td>
 <td> <span id="bioname"> <b> Shubhang Goswani </b> </span>  <br>
 Graduate Student
 <p> Shubhang is working on learning hydrogen models. </p>
@@ -85,7 +78,13 @@ Graduate Student
  <tr> <td width="15%"> <img src="/images/Sonali_photo.jpg"> </td>
 <td> <span id="bioname"> <b> Sonali Joshi </b> </span>  <br>
 Graduate Student
-<p> Sonalis is work on automated learning of quantum models from ab initio calculations. </p>
+<p> Sonalis is working on automated learning of quantum models from ab initio calculations. </p>
+</td>
+</tr>
+ <tr> <td width="15%"> <img src="/images/rohan.jpg"> </td>
+<td> <span id="bioname"> <b> Rohan Joshi </b> </span>  <br>
+Graduate Student
+<p> Rohan is working on interactions in 2D materials. </p>
 </td>
 </tr>
 
@@ -103,10 +102,23 @@ co-PI
 <p> Correlated lattice models </p>
 </td>
 </tr>
+ <tr> <td width="15%"> <img src="/images/mick.jpg"> </td>
+<td> <span id="bioname"> <b> Kittithat (Mick) Krongchon </b> </span>  <br>
+Graduate Student
+<p> Mick is working on van der Waals interactions in 2D systems.
+  </p>
+</td>
+</tr>
  <tr> <td width="15%"> <img src="/images/turk.jpg"> </td>
 <td> <span id="bioname"> <b> Matthew Turk </b> </span>  <br>
 co-PI
 <p> yt, visualization </p>
+</td>
+</tr>
+ <tr> <td width="15%"> <img src="/images/Jensen_pic.png"> </td>
+<td> <span id="bioname"> <b> Scott Jensen </b> </span>  <br>
+Postdoctoral Associate
+<p> Hydrogen and 2D electron gas. </p>
 </td>
 </tr>
  <tr> <td width="15%"> <img src="/images/yueqing.jpg"> </td>
@@ -121,6 +133,12 @@ Graduate Student
 Graduate Student
 <p> Learning emergent models from ab initio calculations. He graduated in 2021 and moved on to a postdoc at Sandia National Labs.
   </p>
+</td>
+</tr>
+ <tr> <td width="15%"> <img src="/images/profile-placeholder.gif"> </td>
+<td> <span id="bioname"> <b> Kevin Ly </b> </span>  <br>
+Graduate Student
+<p> Kevin is working on learning hydrogen models. </p>
 </td>
 </tr>
 
