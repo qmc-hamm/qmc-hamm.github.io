@@ -57,7 +57,7 @@ Postdoctoral Associate
 <p> Young-Jae is working on uncertainty quantification of machine learning interatomic potentials. </p>
 </td>
 </tr>
- <tr> <td width="15%"> <img src="/images/profile-placeholder.gif"> </td>
+ <tr> <td width="15%"> <img src="/images/dan.png"> </td>
 <td> <span id="bioname"> <b> Daniel (Dan) Palmer </b> </span>  <br>
 Graduate Student
 <p> Dan is working on total energy tight binding models. </p>
