@@ -75,6 +75,12 @@ Graduate Student
 <p> Shubhang is working on learning hydrogen models. </p>
 </td>
 </tr>
+ <tr> <td width="15%"> <img src="/images/Kevin_Kleiner.jpg"> </td>
+<td> <span id="bioname"> <b> Kevin Kleiner </b> </span>  <br>
+Graduate Student
+<p> Kevin is working on strongly correlated defects. </p>
+</td>
+</tr>
  <tr> <td width="15%"> <img src="/images/Sonali_photo.jpg"> </td>
 <td> <span id="bioname"> <b> Sonali Joshi </b> </span>  <br>
 Graduate Student

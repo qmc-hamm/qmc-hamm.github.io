@@ -81,6 +81,12 @@ members = [
         "image": "goswami.jpg",
         "description": """Shubhang is working on learning hydrogen models.""",
     },
+      {
+        "name": "Kevin Kleiner",
+        "position": "Graduate Student",
+        "image": "Kevin_Kleiner.jpg",
+        "description": """Kevin is working on strongly correlated defects.""",
+    },
   {
         "name": "Sonali Joshi",
         "position": "Graduate Student",
