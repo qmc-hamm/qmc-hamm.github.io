@@ -33,7 +33,7 @@ co-PI
 <p> Uncertainty quantification </p>
 </td>
 </tr>
- <tr> <td width="15%"> <img src="/images/profile-placeholder.gif"> </td>
+ <tr> <td width="15%"> <img src="/images/ben.jpg"> </td>
 <td> <span id="bioname"> <b> Ben Galewsky </b> </span>  <br>
 Software and data engineer
 <p> Ben is helping with workflows and data publication. </p>
@@ -63,7 +63,7 @@ Graduate Student
 <p> Dan is working on total energy tight binding models. </p>
 </td>
 </tr>
- <tr> <td width="15%"> <img src="/images/profile-placeholder.gif"> </td>
+ <tr> <td width="15%"> <img src="/images/doruk.jpg"> </td>
 <td> <span id="bioname"> <b> Doruk Uçar </b> </span>  <br>
 Graduate Student
 <p> Doruk is working on uncertainty quantification. </p>

@@ -40,7 +40,7 @@ members = [
     {
         "name": "Ben Galewsky",
         "position": "Software and data engineer",
-        "image": "profile-placeholder.gif",
+        "image": "ben.jpg",
         "description": """Ben is helping with workflows and data publication.""",
     },
         {
@@ -71,7 +71,7 @@ members = [
     {
         "name": "Doruk Uçar",
         "position": "Graduate Student",
-        "image": "profile-placeholder.gif",
+        "image": "doruk.jpg",
         "description": """Doruk is working on uncertainty quantification.""",
     },
 
