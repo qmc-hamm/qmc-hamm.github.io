@@ -39,13 +39,13 @@ Software and data engineer
 <p> Ben is helping with workflows and data publication. </p>
 </td>
 </tr>
- <tr> <td width="15%"> <img src="/images/profile-placeholder.gif"> </td>
+ <tr> <td width="15%"> <img src="/images/tawfiq.jpg"> </td>
 <td> <span id="bioname"> <b> Tawfiqur Rakib </b> </span>  <br>
 Postdoctoral Associate
 <p> Tawfiq is working on uncertainty quantification. </p>
 </td>
 </tr>
- <tr> <td width="15%"> <img src="/images/profile-placeholder.gif"> </td>
+ <tr> <td width="15%"> <img src="/images/jeonghwan.jpg"> </td>
 <td> <span id="bioname"> <b> Jeonghwan Ahn </b> </span>  <br>
 Postdoctoral Associate
 <p> Jeonghwan is working on using quantum Monte Carlo for learning quantum models. </p>
@@ -78,7 +78,7 @@ Graduate Student
  <tr> <td width="15%"> <img src="/images/Sonali_photo.jpg"> </td>
 <td> <span id="bioname"> <b> Sonali Joshi </b> </span>  <br>
 Graduate Student
-<p> Sonalis is working on automated learning of quantum models from ab initio calculations. </p>
+<p> Sonali is working on automated learning of quantum models from ab initio calculations. </p>
 </td>
 </tr>
  <tr> <td width="15%"> <img src="/images/rohan.jpg"> </td>
