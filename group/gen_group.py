@@ -40,19 +40,19 @@ members = [
     {
         "name": "Ben Galewsky",
         "position": "Software and data engineer",
-        "image": "profile-placeholder.gif",
+        "image": "ben.jpg",
         "description": """Ben is helping with workflows and data publication.""",
     },
         {
         "name": "Tawfiqur Rakib",
         "position": "Postdoctoral Associate",
-        "image": "profile-placeholder.gif",
+        "image": "tawfiq.jpg",
         "description": """Tawfiq is working on uncertainty quantification.""",
     },
             {
         "name": "Jeonghwan Ahn",
         "position": "Postdoctoral Associate",
-        "image": "profile-placeholder.gif",
+        "image": "jeonghwan.jpg",
         "description": """Jeonghwan is working on using quantum Monte Carlo for learning quantum models.""",
     },
 
@@ -71,7 +71,7 @@ members = [
     {
         "name": "Doruk Uçar",
         "position": "Graduate Student",
-        "image": "profile-placeholder.gif",
+        "image": "doruk.jpg",
         "description": """Doruk is working on uncertainty quantification.""",
     },
 
@@ -85,7 +85,7 @@ members = [
         "name": "Sonali Joshi",
         "position": "Graduate Student",
         "image": "Sonali_photo.jpg",
-        "description": """Sonalis is working on automated learning of quantum models from ab initio calculations.""",
+        "description": """Sonali is working on automated learning of quantum models from ab initio calculations.""",
     },
       {
         "name": "Rohan Joshi",
