@@ -43,24 +43,24 @@ members = [
         "image": "profile-placeholder.gif",
         "description": """Ben is helping with workflows and data publication.""",
     },
-    {
-        "name": "Scott Jensen",
-        "position": "Postdoctoral Associate",
-        "image": "Jensen_pic.png",
-        "description": """Hydrogen and 2D electron gas.""",
-    },
         {
         "name": "Tawfiqur Rakib",
         "position": "Postdoctoral Associate",
         "image": "profile-placeholder.gif",
         "description": """Tawfiq is working on uncertainty quantification.""",
     },
-    {
-        "name": "Kittithat (Mick) Krongchon",
-        "position": "Graduate Student",
-        "image": "mick.jpg",
-        "description": """Mick is working on van der Waals interactions in 2D systems.
- """,
+            {
+        "name": "Jeonghwan Ahn",
+        "position": "Postdoctoral Associate",
+        "image": "profile-placeholder.gif",
+        "description": """Jeonghwan is working on using quantum Monte Carlo for learning quantum models.""",
+    },
+
+        {
+        "name": "Young-Jae Choi",
+        "position": "Postdoctoral Associate",
+        "image": "youngjae.jpg",
+        "description": """Young-Jae is working on uncertainty quantification of machine learning interatomic potentials.""",
     },
         {
         "name": "Daniel (Dan) Palmer",
@@ -74,23 +74,24 @@ members = [
         "image": "profile-placeholder.gif",
         "description": """Doruk is working on uncertainty quantification.""",
     },
-    {
-        "name": "Kevin Ly",
-        "position": "Graduate Student",
-        "image": "profile-placeholder.gif",
-        "description": """Kevin is working on learning hydrogen models.""",
-    },
+
         {
         "name": "Shubhang Goswani",
         "position": "Graduate Student",
-        "image": "profile-placeholder.gif",
+        "image": "goswami.jpg",
         "description": """Shubhang is working on learning hydrogen models.""",
     },
   {
         "name": "Sonali Joshi",
         "position": "Graduate Student",
         "image": "Sonali_photo.jpg",
-        "description": """Sonalis is work on automated learning of quantum models from ab initio calculations.""",
+        "description": """Sonalis is working on automated learning of quantum models from ab initio calculations.""",
+    },
+      {
+        "name": "Rohan Joshi",
+        "position": "Graduate Student",
+        "image": "rohan.jpg",
+        "description": """Rohan is working on interactions in 2D materials.""",
     },
 ]
 
@@ -103,10 +104,23 @@ alumni = [
         "description": """Correlated lattice models""",
     },
         {
+        "name": "Kittithat (Mick) Krongchon",
+        "position": "Graduate Student",
+        "image": "mick.jpg",
+        "description": """Mick is working on van der Waals interactions in 2D systems.
+ """,
+    },
+    {
         "name": "Matthew Turk",
         "position": "co-PI",
         "image": "turk.jpg",
         "description": """yt, visualization""",
+    },
+        {
+        "name": "Scott Jensen",
+        "position": "Postdoctoral Associate",
+        "image": "Jensen_pic.png",
+        "description": """Hydrogen and 2D electron gas.""",
     },
         {
         "name": "Yueqing Chang",
@@ -120,6 +134,12 @@ alumni = [
         "image": "shivesh.png",
         "description": """Learning emergent models from ab initio calculations. He graduated in 2021 and moved on to a postdoc at Sandia National Labs.
  """},
+     {
+        "name": "Kevin Ly",
+        "position": "Graduate Student",
+        "image": "profile-placeholder.gif",
+        "description": """Kevin is working on learning hydrogen models.""",
+    },
 
 ]
 
