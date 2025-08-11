@@ -65,7 +65,7 @@ members = [
         {
         "name": "Daniel (Dan) Palmer",
         "position": "Graduate Student",
-        "image": "profile-placeholder.gif",
+        "image": "dan.png",
         "description": """Dan is working on total energy tight binding models.""",
     },
     {
