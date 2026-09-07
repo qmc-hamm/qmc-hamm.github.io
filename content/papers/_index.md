@@ -4,9 +4,19 @@ title: Papers
 ---
 <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script>
 
-<b>[Liquid-liquid phase transition of hydrogen and its critical point: Analysis from ab initio simulation and a machine-learned potential](https://doi.org/10.1103/PhysRevE.111.045307)</b>  <br>Mathieu Istas, Scott Jensen, Yubo Yang, Markus Holzmann, Carlo Pierleoni, David M. Ceperley <br>Physical Review E <b>111</b> 045307 (2025) 
+<b>[Full-stack quantification of variability in predicting ion transport properties using machine-learned interatomic potentials](https://doi.org/10.1063/5.0339551)</b>  <br>Tawfiqur Rakib, Lucas K. Wagner, Elif Ertekin <br>APL Machine Learning <b>4</b> 036108 (2026) 
 
-<b>[Graphene-hBN interlayer interactions from quantum Monte Carlo](https://doi.org/10.48550/arXiv.2503.13672)</b>  <br>Kittithat Krongchon, Tawfiqur Rakib, Elif Ertekin, Harley T. Johnson, Lucas K. Wagner <br> <b></b>  (2025) 
+<b>[Excited state optimization for strongly correlated quantum defects using ensemble variational Monte Carlo](https://doi.org/10.48550/arXiv.2607.27377)</b>  <br>Kevin G. Kleiner, Lucas K. Wagner <br> <b></b>  (2026) 
+
+<b>[Total energy of twisted bilayer graphene from a tight binding model](https://doi.org/10.1103/j9sg-gbth)</b>  <br>Daniel Palmer, Naheed Ferdous, Gabriel Brown, Tawfiqur Rakib, Kittithat Krongchon, Lucas K. Wagner, Harley T. Johnson <br>Physical Review B <b>114</b> 065125 (2026) 
+
+<b>[Expressivity of Determinantal Ansatzes for Neural Network Wave Functions](https://doi.org/10.1021/acs.jctc.5c01243)</b>  <br>Ni Zhan, William A. Wheeler, Gil Goldshlager, Elif Ertekin, Ryan P. Adams, Lucas K. Wagner <br>Journal of Chemical Theory and Computation <b></b>  (2025) 
+
+<b>[Graphene-hBN interlayer interactions from quantum Monte Carlo](https://doi.org/10.1103/xkwm-zd77)</b>  <br>Kittithat Krongchon, Lucas K. Wagner, Tawfiqur Rakib, Daniel Palmer, Elif Ertekin, Harley T. Johnson <br>Physical Review B <b>112</b> 115130 (2025) 
+
+<b>[Quantum Monte Carlo assessment of embedding for a strongly-correlated defect: interplay between mean-field and interactions](https://doi.org/10.48550/arXiv.2505.00845)</b>  <br>Kevin G. Kleiner, Sonali Joshi, Woncheol Lee, Alexander Hampel, Malte Rösner, Cyrus E. Dreyer, Lucas K. Wagner <br> <b></b>  (2025) 
+
+<b>[Liquid-liquid phase transition of hydrogen and its critical point: Analysis from ab initio simulation and a machine-learned potential](https://doi.org/10.1103/PhysRevE.111.045307)</b>  <br>Mathieu Istas, Scott Jensen, Yubo Yang, Markus Holzmann, Carlo Pierleoni, David M. Ceperley <br>Physical Review E <b>111</b> 045307 (2025) 
 
 <b>[Particle-hole asymmetric phases in doped twisted bilayer graphene](https://doi.org/10.1103/PhysRevB.111.125140)</b>  <br>Run Hou, Shouvik Sur, Lucas K. Wagner, Andriy H. Nevidomskyy <br>Physical Review B <b>111</b> 125140 (2025) 
 
